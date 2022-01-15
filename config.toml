@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://abarhub.github.io/blogprog"
 title = "Blog de programmation"
 
 theme = "fuji"
