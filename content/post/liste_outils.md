@@ -81,3 +81,13 @@ Une page qui recense des outils pour extraire du xml :
 * [Quiver](http://happenapps.com/#quiver) : notebook pour developpeur
 * [cacher](https://www.cacher.io/) : gestionnaire de code
 * [qalculate](http://qalculate.github.io/) : calculatrice windows/linux avec GUI et en ligne de commande
+
+
+# Autre
+
+* outils en rust : https://zaiste.net/posts/shell-commands-rust/
+* une autre liste d'outils : https://github.com/trimstray/the-book-of-secret-knowledge
+* Analyse des logs : https://gist.github.com/abarhub/0ace4e9f2d9d82029f7347aed14f2ad3
+* Liste d'outils pour l'éducation : https://linuxfr.org/users/space_e_man/journaux/dual-oschool-free-software-pack
+* age : https://linuxfr.org/news/sortie-de-la-version-1-0-0-de-age
+* liste d'outils modernes en lignes de commandes : https://github.com/ibraheemdev/modern-unix
