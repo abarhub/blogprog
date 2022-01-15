@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>spring boot on Blog de programmation</title>
-    <link>https://example.com/tags/spring-boot/</link>
+    <link>https://abarhub.github.io/blogprog/tags/spring-boot/</link>
     <description>Recent content in spring boot on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Externalisation de la configuration avec spring boot</title>
-      <link>https://example.com/post/external_config_spring_boot/</link>
+      <link>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/external_config_spring_boot/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</guid>
       <description>Exemple avec le paramtre spring.config.location :  java -jar app.jar --spring.config.location=file:///Users/home/config/jdbc.properties   Autre exemple avec les paramètres spring.config.location et spring.config.name :  java -jar app.jar --spring.config.name=application,jdbc --spring.config.location=file:///Users/home/config   Exemple avec une variable d&amp;rsquo;environnement :  export SPRING_CONFIG_LOCATION=file:///Users/home/config java -jar app.jar   Exemple avec spring.config.import :  spring.config.import=file:./additional.properties,optional:file:/Users/home/config/jdbc.properties   Exemple avec spring.config.additional-location :  java -jar app.jar --spring.config.additional-location=file:///Users/home/config/  Voir ici : https://www.baeldung.com/spring-properties-file-outside-jar https://docs.spring.io/spring-boot/docs/1.0.1.RELEASE/reference/html/boot-features-external-config.html</description>
     </item>
     
     <item>
       <title>Débugage avec Angular</title>
-      <link>https://example.com/post/debug_angular/</link>
+      <link>https://abarhub.github.io/blogprog/post/debug_angular/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/debug_angular/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/debug_angular/</guid>
       <description>Debugage avec Angular :
  Everything you need to know about debugging Angular applications A Guide To Debugging Angular Applications Augury Debug Angular 9 in 60 Seconds Debug Angular 9: Interacting with Components Définition ng  Exemple de code :
 ng.getComponent($0); ng.getContext($0);  </description>
@@ -29,10 +29,10 @@ ng.getComponent($0); ng.getContext($0);  </description>
     
     <item>
       <title>Débugage spring </title>
-      <link>https://example.com/post/debug_spring/</link>
+      <link>https://abarhub.github.io/blogprog/post/debug_spring/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/debug_spring/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/debug_spring/</guid>
       <description>Pour débuguer Spring boot, il y a 2 options :
  &amp;ndash;debug : affiche les modules de spring boot activés ou pas activé &amp;ndash;trace : affiche plus d&amp;rsquo;information, notemment la recherche de fichiers et les paramètres de configuration  Exemple d&amp;rsquo;utilisation :
 java -Ddebug monjar.jar  ou
@@ -43,10 +43,10 @@ logging.level.org.springframework=DEBUG  pour spring security, c&amp;rsquo;est d
     
     <item>
       <title>Spring security OAuth 2 documentation</title>
-      <link>https://example.com/post/spring_security_oauth2_doc/</link>
+      <link>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/spring_security_oauth2_doc/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</guid>
       <description> Les versions de spring security La liste des documentations Le guide du developpeur Le guide de migration La documentation détaillée Comment l&amp;rsquo;implementé avec un SPA Implicit Flow La liste des librairies certifiée Open Id Connect  </description>
     </item>
     

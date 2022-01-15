@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>xsd on Blog de programmation</title>
-    <link>https://example.com/tags/xsd/</link>
+    <link>https://abarhub.github.io/blogprog/tags/xsd/</link>
     <description>Recent content in xsd on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/xsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/xsd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Validation xsd en gérant la résolution des xsd</title>
-      <link>https://example.com/post/resolve_xsd/</link>
+      <link>https://abarhub.github.io/blogprog/post/resolve_xsd/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/resolve_xsd/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/resolve_xsd/</guid>
       <description>Il faut implementer l&amp;rsquo;interface LSResourceResolver
 public class ResourceResolver implements LSResourceResolver { public LSInput resolveResource(String type, String namespaceURI, String publicId, String systemId, String baseURI) { // note: in this sample, the XSD&#39;s are expected to be in the root of the classpath InputStream resourceAsStream = this.getClass().getClassLoader() .getResourceAsStream(systemId); return new Input(publicId, systemId, resourceAsStream); } }  Ensuite, l&amp;rsquo;appel se fait comme cela :
 // note that if your XML already declares the XSD to which it has to conform, then there&#39;s no need to declare the schemaName here void validate(String xml, String schemaName) throws Exception { DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance(); builderFactory.setNamespaceAware(true); DocumentBuilder parser = builderFactory .</description>

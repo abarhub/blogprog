@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>java on Blog de programmation</title>
-    <link>https://example.com/tags/java/</link>
+    <link>https://abarhub.github.io/blogprog/tags/java/</link>
     <description>Recent content in java on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Validation xsd en gérant la résolution des xsd</title>
-      <link>https://example.com/post/resolve_xsd/</link>
+      <link>https://abarhub.github.io/blogprog/post/resolve_xsd/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/resolve_xsd/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/resolve_xsd/</guid>
       <description>Il faut implementer l&amp;rsquo;interface LSResourceResolver
 public class ResourceResolver implements LSResourceResolver { public LSInput resolveResource(String type, String namespaceURI, String publicId, String systemId, String baseURI) { // note: in this sample, the XSD&#39;s are expected to be in the root of the classpath InputStream resourceAsStream = this.getClass().getClassLoader() .getResourceAsStream(systemId); return new Input(publicId, systemId, resourceAsStream); } }  Ensuite, l&amp;rsquo;appel se fait comme cela :
 // note that if your XML already declares the XSD to which it has to conform, then there&#39;s no need to declare the schemaName here void validate(String xml, String schemaName) throws Exception { DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance(); builderFactory.setNamespaceAware(true); DocumentBuilder parser = builderFactory .</description>
@@ -20,19 +20,19 @@ public class ResourceResolver implements LSResourceResolver { public LSInput res
     
     <item>
       <title>Documentation Officiel de Java</title>
-      <link>https://example.com/post/java_doc/</link>
+      <link>https://abarhub.github.io/blogprog/post/java_doc/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/java_doc/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/java_doc/</guid>
       <description>Documentation officielle de Java Java 8 :  Documentation Javadoc JDK JRE  Java 11 :  Documentation Javadoc JDK  Autre  Liste des JDK à telecharger  </description>
     </item>
     
     <item>
       <title>Débugage spring </title>
-      <link>https://example.com/post/debug_spring/</link>
+      <link>https://abarhub.github.io/blogprog/post/debug_spring/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/debug_spring/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/debug_spring/</guid>
       <description>Pour débuguer Spring boot, il y a 2 options :
  &amp;ndash;debug : affiche les modules de spring boot activés ou pas activé &amp;ndash;trace : affiche plus d&amp;rsquo;information, notemment la recherche de fichiers et les paramètres de configuration  Exemple d&amp;rsquo;utilisation :
 java -Ddebug monjar.jar  ou
@@ -43,10 +43,10 @@ logging.level.org.springframework=DEBUG  pour spring security, c&amp;rsquo;est d
     
     <item>
       <title>Spring security OAuth 2 documentation</title>
-      <link>https://example.com/post/spring_security_oauth2_doc/</link>
+      <link>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/spring_security_oauth2_doc/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</guid>
       <description> Les versions de spring security La liste des documentations Le guide du developpeur Le guide de migration La documentation détaillée Comment l&amp;rsquo;implementé avec un SPA Implicit Flow La liste des librairies certifiée Open Id Connect  </description>
     </item>
     

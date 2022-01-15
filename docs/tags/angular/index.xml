@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>angular on Blog de programmation</title>
-    <link>https://example.com/tags/angular/</link>
+    <link>https://abarhub.github.io/blogprog/tags/angular/</link>
     <description>Recent content in angular on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/angular/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exemple de ngclass</title>
-      <link>https://example.com/post/ngclass_angular/</link>
+      <link>https://abarhub.github.io/blogprog/post/ngclass_angular/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/ngclass_angular/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/ngclass_angular/</guid>
       <description>Exemple de ngclass : &amp;lt;p [ngClass]=&amp;quot;&#39;first second&#39;&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt; &amp;lt;p [ngClass]=&amp;quot;[&#39;first&#39;, &#39;second&#39;]&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt; &amp;lt;p [ngClass]=&amp;quot;{&#39;first&#39;: true, &#39;second&#39;: false}&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt; &amp;lt;p [ngClass]=&amp;quot;stringExp|arrayExp|objExp&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt; &amp;lt;p [ngClass]=&amp;quot;{&#39;class1 class2 class3&#39; : true}&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt;  Pour d&amp;rsquo;autres exemples, voir ici ou ici</description>
     </item>
     
