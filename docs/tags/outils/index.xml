@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>outils on Blog de programmation</title>
+    <link>https://example.com/tags/outils/</link>
+    <description>Recent content in outils on Blog de programmation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/outils/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liste d&#39;outils </title>
+      <link>https://example.com/post/liste_outils/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/liste_outils/</guid>
+      <description>Liste d&amp;rsquo;outils en ligne de commande Outils généraux  Httpie : curl like jq : manipulate json Kafkahq : manage kafka bat : cat en rust exa : ls en rust fd : find en rust procs : ps en rust sd : find &amp;amp; replace en rust dust : du en rust starship : shell en rust ripgrep : grep en rust tokei : analyse du code source (nombre de lignes, nombre de fichiers, etc&amp;hellip;) hyperfine : pour faire des benchmark ytop : équivalent de top en Rust tealdeer : tldr en rust bandwhich : affichage des informations sur le réseau (débit, processus, etc&amp;hellip;) grex : génération d&amp;rsquo;expression régulière en fonction d&amp;rsquo;exemple rmesg : dmesg en rust zoxide : cd en rust delta : disualisation de diff git nushell : shell en rust angle-grinder : recherche dans les fichiers de logs visidata : visualisation de données tabulaires lnav : visualisation des logs dans un terminal coreutils : réimplémentation des outils unix en rust q : faire une requete sql en en ligne de commande sur du csv broot : affichage arborescent des répertoire, avec possibilité de faire des opérations rebond : recherche la stacktrace dans stackoverflow speed-test : test la connexion internet graphtage : comparaison de json jc : convertie en json la sortie des commandes unix rq : transformation entre différents formats (json, csv, etc&amp;hellip;) iredis : client redis gnuplot : Pour faire des graphiques en ligne de commandes (Hitogramme, courbes 2Det 3D, etc&amp;hellip;).</description>
+    </item>
+    
+  </channel>
+</rss>

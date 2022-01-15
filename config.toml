@@ -15,6 +15,8 @@ defaultContentLanguage = "en"  # For HTML page, now support: en, zh-hans, zh-han
 summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
 paginate = 10
 
+publishDir = "docs/"
+
 # googleAnalytics = "UA-000000000-0" # Set your Google Analytics UA here
 
 [outputFormats]
@@ -31,12 +33,12 @@ paginate = 10
   post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
-  author = "DSRKafuU" # You can also set author in post front matter individually
-  subTitle = "A minimal Hugo theme."
+  author = "abarhub" # You can also set author in post front matter individually
+  subTitle = "Blog de programmation."
   defaultTheme = "auto" # default theme when first visit (auto|dark|light)
 
   # Source URL of the website, will appear in the footer
-  sourceURL = "https://github.com/dsrkafuu/hugo-theme-fuji"
+  sourceURL = "https://github.com/abarhub/blogprog"
 
   # Use CloudFlare Workers to accelerate the Google Analytics
   # If you are using this please comment the googleAnalytics above
@@ -140,11 +142,11 @@ paginate = 10
     name = "GitHub"
     url = "https://github.com/abarhub"
     weight = 1
-  [[menu.link]]
-    name = "Twitter"
-    url = "https://twitter.com/dsrkafuu"
-    weight = 2
-  [[menu.link]]
-    name = "bilibili"
-    url = "https://space.bilibili.com/19767474"
-    weight = 3
+  #[[menu.link]]
+    #name = "Twitter"
+    #url = "https://twitter.com/dsrkafuu"
+    #weight = 2
+  #[[menu.link]]
+    #name = "bilibili"
+    #url = "https://space.bilibili.com/19767474"
+    #weight = 3
