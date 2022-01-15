@@ -21,5 +21,16 @@ logging.level.org.springframework=DEBUG  pour spring security, c&amp;rsquo;est d
 // par annotation : @EnableWebSecurity(debug = true) public class SecurityConfiguration extends WebSecurityConfigurerAdapter { // etc... }  // par code : @EnableWebSecurity public class WebSecurityConfiguration extends WebSecurityConfigurerAdapter { @Override public void configure(WebSecurity web) throws Exception { web.</description>
     </item>
     
+    <item>
+      <title>Sites sur Spring</title>
+      <link>https://abarhub.github.io/blogprog/post/site_spring/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/site_spring/</guid>
+      <description>site sur spring :
+https://spring.io/
+https://www.baeldung.com/spring-tutorial</description>
+    </item>
+    
   </channel>
 </rss>

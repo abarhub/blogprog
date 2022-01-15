@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>date on Blog de programmation</title>
+    <link>https://abarhub.github.io/blogprog/tags/date/</link>
+    <description>Recent content in date on Blog de programmation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/date/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calcul de dates </title>
+      <link>https://abarhub.github.io/blogprog/post/calcul_dates/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/calcul_dates/</guid>
+      <description>calcul de date : https://icalendrier.fr/outils/ajouter-retirer-date
+récupération de la date en epoch : https://www.epochconverter.com/</description>
+    </item>
+    
+  </channel>
+</rss>

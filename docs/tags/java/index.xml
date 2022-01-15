@@ -50,5 +50,94 @@ logging.level.org.springframework=DEBUG  pour spring security, c&amp;rsquo;est d
       <description> Les versions de spring security La liste des documentations Le guide du developpeur Le guide de migration La documentation détaillée Comment l&amp;rsquo;implementé avec un SPA Implicit Flow La liste des librairies certifiée Open Id Connect  </description>
     </item>
     
+    <item>
+      <title>L&#39;url jdbc pour se connecter à une base MySQL </title>
+      <link>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</guid>
+      <description>Exemple d&amp;rsquo;url jdbc pour se connecter à une base de données sur le schéma monschema :
+jdbc:mysql://localhost:3306/monschema?useUnicode=true&amp;amp;useJDBCCompliantTimezoneShift=true&amp;amp;useLegacyDatetimeCode=false&amp;amp;serverTimezone=UTC  </description>
+    </item>
+    
+    <item>
+      <title>Exemple de test paramétré </title>
+      <link>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</guid>
+      <description>Exemple de test paramétré :
+class ParametreTest { @ParameterizedTest @MethodSource(&amp;quot;provideStringsForIsBlank&amp;quot;) void isBlank_ShouldReturnTrueForNullOrBlankStrings(String input, boolean expected) { assertEquals(expected, Strings.isBlank(input)); } private static Stream&amp;lt;Arguments&amp;gt; provideStringsForIsBlank() { return Stream.of( Arguments.of(null, true), Arguments.of(&amp;quot;&amp;quot;, true), Arguments.of(&amp;quot; &amp;quot;, true), Arguments.of(&amp;quot;not blank&amp;quot;, false) ); } }  Code basé sur le site Baeldung</description>
+    </item>
+    
+    <item>
+      <title>Ajout des jar dans la stacktrace pour LogBack </title>
+      <link>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</guid>
+      <description>Pour avoir les jar dans les exceptions, il faut mettre &amp;lsquo;packagingData=&amp;ldquo;true&amp;rdquo;&amp;rsquo; dans la configuration :
+&amp;lt;configuration packagingData=&amp;quot;true&amp;quot;&amp;gt; ... &amp;lt;/configuration&amp;gt;  Cela donne des exceptions de la forme :
+14:28:48.835 [btpool0-7] INFO c.q.l.demo.prime.PrimeAction - 99 is not a valid value java.lang.Exception: 99 is invalid at ch.qos.logback.demo.prime.PrimeAction.execute(PrimeAction.java:28) [classes/:na] at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:431) [struts-1.2.9.jar:1.2.9] at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:236) [struts-1.2.9.jar:1.2.9] at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:432) [struts-1.2.9.jar:1.2.9] at javax.servlet.http.HttpServlet.service(HttpServlet.java:820) [servlet-api-2.5-6.1.12.jar:6.1.12] at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:502) [jetty-6.1.12.jar:6.1.12] at ch.qos.logback.demo.UserServletFilter.doFilter(UserServletFilter.java:44) [classes/:na] at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1115) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:361) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:417) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:230) [jetty-6.1.12.jar:6.1.12]  Voir ici plus plus d&amp;rsquo;information : http://logback.qos.ch/manual/layouts.html#xThrowable</description>
+    </item>
+    
+    <item>
+      <title>Logger toutes les propriétés de Spring Boot </title>
+      <link>https://abarhub.github.io/blogprog/post/properties_logger_java/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/properties_logger_java/</guid>
+      <description>Classe pour logguer toutes les propriétés avec Spring boot :
+package com.toto.myapp.util; import org.slf4j.Logger; import org.slf4j.LoggerFactory; import org.springframework.boot.context.event.ApplicationPreparedEvent; import org.springframework.context.ApplicationListener; import org.springframework.core.env.ConfigurableEnvironment; import org.springframework.core.env.EnumerablePropertySource; import org.springframework.core.env.PropertySource; import java.util.LinkedList; import java.util.List; public class PropertiesLogger implements ApplicationListener&amp;lt;ApplicationPreparedEvent&amp;gt; { private static final Logger log = LoggerFactory.getLogger(PropertiesLogger.class); private ConfigurableEnvironment environment; private boolean isFirstRun = true; @Override public void onApplicationEvent(ApplicationPreparedEvent event) { if (isFirstRun) { environment = event.getApplicationContext().getEnvironment(); printProperties(); } isFirstRun = false; } public void printProperties() { for (EnumerablePropertySource propertySource : findPropertiesPropertySources()) { log.info(&amp;quot;******* &amp;quot; + propertySource.getName() + &amp;quot; *******&amp;quot;); String[] propertyNames = propertySource.getPropertyNames(); Arrays.sort(propertyNames); for (String propertyName : propertyNames) { String resolvedProperty = environment.</description>
+    </item>
+    
+    <item>
+      <title>Exemple de loggeur avec slf4j</title>
+      <link>https://abarhub.github.io/blogprog/post/exemple_logger_java/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/exemple_logger_java/</guid>
+      <description>public class ExempleLogger { private static final Logger LOGGER = LoggerFactory.getLogger(ExempleLogger.class); public void exemple(){ LOGGER.info(&amp;quot;test {}&amp;quot;, 52); } }  </description>
+    </item>
+    
+    <item>
+      <title>Accès à un fichier de ressource </title>
+      <link>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</guid>
+      <description>Accès à un fichier de ressource :
+// récupération du répertoire d&#39;un fichier ressource File file = new File(getClass().getClassLoader().getResource(&amp;quot;database.properties&amp;quot;).getFile()); // lecture d&#39;un fichier ressource InputStream inputStream = getClass().getClassLoader().getResourceAsStream(&amp;quot;database.properties&amp;quot;); // Dans les 2 cas, le fichier doit être src/main/resources/database.properties  Des exemples pour récupérérer le chemin : https://stackoverflow.com/questions/15713119/java-nio-file-path-for-a-classpath-resource</description>
+    </item>
+    
+    <item>
+      <title>Capture des paramètres avec Mockito </title>
+      <link>https://abarhub.github.io/blogprog/post/mockito_capture_java/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/mockito_capture_java/</guid>
+      <description>ArgumentCapto&amp;lt;Person&amp;gt; peopleCaptor = ArgumentCaptor.forClass(Person.class); verify(mock, times(2)).doSomething(peopleCaptor.capture()); List&amp;lt;Person&amp;gt; capturedPeople = peopleCaptor.getAllValues(); assertEquals(&amp;quot;John&amp;quot;, capturedPeople.get(0).getName()); assertEquals(&amp;quot;Jane&amp;quot;, capturedPeople.get(1).getName());  </description>
+    </item>
+    
+    <item>
+      <title>Changement de version des pom</title>
+      <link>https://abarhub.github.io/blogprog/post/update_version_sh/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/update_version_sh/</guid>
+      <description># changement de version des pom mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT # changement de version des pom sans backup mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT -DgenerateBackupPoms=false  </description>
+    </item>
+    
+    <item>
+      <title>Sites sur Spring</title>
+      <link>https://abarhub.github.io/blogprog/post/site_spring/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/site_spring/</guid>
+      <description>site sur spring :
+https://spring.io/
+https://www.baeldung.com/spring-tutorial</description>
+    </item>
+    
   </channel>
 </rss>

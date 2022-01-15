@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>logback on Blog de programmation</title>
+    <link>https://abarhub.github.io/blogprog/tags/logback/</link>
+    <description>Recent content in logback on Blog de programmation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/logback/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ajout des jar dans la stacktrace pour LogBack </title>
+      <link>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</guid>
+      <description>Pour avoir les jar dans les exceptions, il faut mettre &amp;lsquo;packagingData=&amp;ldquo;true&amp;rdquo;&amp;rsquo; dans la configuration :
+&amp;lt;configuration packagingData=&amp;quot;true&amp;quot;&amp;gt; ... &amp;lt;/configuration&amp;gt;  Cela donne des exceptions de la forme :
+14:28:48.835 [btpool0-7] INFO c.q.l.demo.prime.PrimeAction - 99 is not a valid value java.lang.Exception: 99 is invalid at ch.qos.logback.demo.prime.PrimeAction.execute(PrimeAction.java:28) [classes/:na] at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:431) [struts-1.2.9.jar:1.2.9] at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:236) [struts-1.2.9.jar:1.2.9] at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:432) [struts-1.2.9.jar:1.2.9] at javax.servlet.http.HttpServlet.service(HttpServlet.java:820) [servlet-api-2.5-6.1.12.jar:6.1.12] at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:502) [jetty-6.1.12.jar:6.1.12] at ch.qos.logback.demo.UserServletFilter.doFilter(UserServletFilter.java:44) [classes/:na] at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1115) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:361) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:417) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:230) [jetty-6.1.12.jar:6.1.12]  Voir ici plus plus d&amp;rsquo;information : http://logback.qos.ch/manual/layouts.html#xThrowable</description>
+    </item>
+    
+  </channel>
+</rss>

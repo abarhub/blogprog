@@ -6,7 +6,18 @@
     <description>Recent content in maven on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Jul 2021 16:21:12 +0100</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/maven/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/maven/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation de node et npm avec maven</title>
+      <link>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</guid>
+      <description>Installation de node et npm avec maven Il faut utiliser l&amp;rsquo;outils : frontend-maven-plugin
+Exemple :
+&amp;lt;plugin&amp;gt; ... &amp;lt;executions&amp;gt; &amp;lt;execution&amp;gt; &amp;lt;!-- optional: you don&#39;t really need execution ids, but it looks nice in your build log. --&amp;gt; &amp;lt;id&amp;gt;install node and npm&amp;lt;/id&amp;gt; &amp;lt;goals&amp;gt; &amp;lt;goal&amp;gt;install-node-and-npm&amp;lt;/goal&amp;gt; &amp;lt;/goals&amp;gt; &amp;lt;!-- optional: default phase is &amp;quot;generate-resources&amp;quot; --&amp;gt; &amp;lt;phase&amp;gt;generate-resources&amp;lt;/phase&amp;gt; &amp;lt;/execution&amp;gt; &amp;lt;/executions&amp;gt; &amp;lt;configuration&amp;gt; &amp;lt;nodeVersion&amp;gt;v4.6.0&amp;lt;/nodeVersion&amp;gt; &amp;lt;!-- optional: with node version greater than 4.0.0 will use npm provided by node distribution --&amp;gt; &amp;lt;npmVersion&amp;gt;2.15.9&amp;lt;/npmVersion&amp;gt; &amp;lt;!-- optional: where to download node and npm from. Defaults to https://nodejs.org/dist/ --&amp;gt; &amp;lt;downloadRoot&amp;gt;http://myproxy.example.org/nodejs/&amp;lt;/downloadRoot&amp;gt; &amp;lt;/configuration&amp;gt; &amp;lt;/plugin&amp;gt;  </description>
+    </item>
+    
     <item>
       <title>Maven Dependancy</title>
       <link>https://abarhub.github.io/blogprog/post/maven-dependancy/</link>
@@ -18,6 +29,15 @@ Pour récupérer les dépendances d&amp;rsquo;un projet maven, et mettre le rés
 Pour que le résultat soit dans un format spécial : mvn dependency:tree -DoutputFile=/path/to/file.graphml -DoutputType=graphml
 Les sortie possibles sont :
  text dot graphml tgf  </description>
+    </item>
+    
+    <item>
+      <title>Changement de version des pom</title>
+      <link>https://abarhub.github.io/blogprog/post/update_version_sh/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/update_version_sh/</guid>
+      <description># changement de version des pom mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT # changement de version des pom sans backup mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT -DgenerateBackupPoms=false  </description>
     </item>
     
   </channel>

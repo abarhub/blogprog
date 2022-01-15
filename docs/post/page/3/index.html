@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta name="HandheldFriendly" content="True" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="generator" content="Hugo 0.92.0" />
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.jsdelivr.net/gh/amzrk2/cdn-stcapi@1/favicons/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.jsdelivr.net/gh/amzrk2/cdn-stcapi@1/favicons/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jsdelivr.net/gh/amzrk2/cdn-stcapi@1/favicons/favicon-16x16.png" />
+<link rel="manifest" href="https://cdn.jsdelivr.net/gh/amzrk2/cdn-stcapi@1/favicons/site.webmanifest" />
+<link rel="mask-icon" href="https://cdn.jsdelivr.net/gh/amzrk2/cdn-stcapi@1/favicons/safari-pinned-tab.svg" color="#8aa2d3" />
+<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/amzrk2/cdn-stcapi@1/favicons/favicon.ico" />
+<meta name="theme-color" content="#ffffff" />
+
+
+<title>Posts - Blog de programmation</title>
+
+
+<meta name="author" content="abarhub" />
+
+
+<meta name="description" content="A minimal Hugo theme with nice theme color." />
+
+
+<link rel="alternate" type="application/rss+xml" href="https://abarhub.github.io/blogprog/post/index.xml" title="Blog de programmation" />
+
+<meta property="og:title" content="Posts" />
+<meta name="twitter:title" content="Posts" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://abarhub.github.io/blogprog/post/" /><meta property="og:image" content="https://abarhub.github.io/img/og.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://abarhub.github.io/img/og.png" /><meta property="og:updated_time" content="2022-01-10T00:00:00+00:00" />
+
+
+<style>
+    @media (prefers-color-scheme: dark) {
+        body[data-theme='auto'] img {
+            filter: brightness(60%);
+        }
+    }
+
+    body[data-theme='dark'] img {
+        filter: brightness(60%);
+    }
+</style>
+
+
+
+
+<link rel="stylesheet" href="https://abarhub.github.io/blogprog/assets/css/fuji.min.css" />
+
+
+
+
+
+
+
+
+</head>
+
+<body
+  data-theme="auto"
+  data-theme-auto='true'
+  >
+    <script data-cfasync="false">
+  
+  var fujiThemeData = localStorage.getItem('fuji_data-theme');
+  
+  if (!fujiThemeData) {
+    localStorage.setItem('fuji_data-theme', 'auto');
+  } else {
+    
+    if (fujiThemeData !== 'auto') {
+      document.body.setAttribute('data-theme', fujiThemeData === 'dark' ? 'dark' : 'light');
+    }
+  }
+</script>
+
+    <header>
+    <div class="container-lg clearfix">
+        <div class="col-12 header">
+            <a class="title-main" href="https://abarhub.github.io/blogprog">Blog de programmation</a>
+            
+            <span class="title-sub">Blog de programmation.</span>
+            
+        </div>
+    </div>
+</header>
+
+    <main>
+        <div class="container-lg clearfix">
+            
+            <div class="col-12 col-md-9 float-left content">
+                
+
+
+
+<div class="post">
+    <h2 class="post-item post-title">
+        <a href="https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/">Exemple de test paramétré </a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-10-30</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;45 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/java">java</a>&nbsp;<a href="/blogprog/tags/junit5">junit5</a>&nbsp;</span>
+
+    </div>
+    <div class="post-item post-summary markdown-body">
+        Exemple de test paramétré :
+class ParametreTest { @ParameterizedTest @MethodSource(&quot;provideStringsForIsBlank&quot;) void isBlank_ShouldReturnTrueForNullOrBlankStrings(String input, boolean expected) { assertEquals(expected, Strings.isBlank(input)); } private static Stream&lt;Arguments&gt; provideStringsForIsBlank() { return Stream.of( Arguments.of(null, true), Arguments.of(&quot;&quot;, true), Arguments.of(&quot; &quot;, true), Arguments.of(&quot;not blank&quot;, false) ); } }  Code basé sur le site Baeldung
+    </div>
+</div>
+
+<div class="post">
+    <h2 class="post-item post-title">
+        <a href="https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/">Ajout des jar dans la stacktrace pour LogBack </a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-10-08</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;82 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/java">java</a>&nbsp;<a href="/blogprog/tags/logback">logback</a>&nbsp;</span>
+
+    </div>
+    <div class="post-item post-summary markdown-body">
+        Pour avoir les jar dans les exceptions, il faut mettre &lsquo;packagingData=&ldquo;true&rdquo;&rsquo; dans la configuration :
+&lt;configuration packagingData=&quot;true&quot;&gt; ... &lt;/configuration&gt;  Cela donne des exceptions de la forme :
+14:28:48.835 [btpool0-7] INFO c.q.l.demo.prime.PrimeAction - 99 is not a valid value java.lang.Exception: 99 is invalid at ch.qos.logback.demo.prime.PrimeAction.execute(PrimeAction.java:28) [classes/:na] at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:431) [struts-1.2.9.jar:1.2.9] at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:236) [struts-1.2.9.jar:1.2.9] at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:432) [struts-1.2.9.jar:1.2.9] at javax.servlet.http.HttpServlet.service(HttpServlet.java:820) [servlet-api-2.5-6.1.12.jar:6.1.12] at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:502) [jetty-6.1.12.jar:6.1.12] at ch.qos.logback.demo.UserServletFilter.doFilter(UserServletFilter.java:44) [classes/:na] at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1115) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:361) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:417) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:230) [jetty-6.1.12.jar:6.1.12]  Voir ici plus plus d&rsquo;information : http://logback.qos.ch/manual/layouts.html#xThrowable
+    </div>
+</div>
+
+<div class="post">
+    <h2 class="post-item post-title">
+        <a href="https://abarhub.github.io/blogprog/post/use_date_oracle_sql/">Gestion des dates en oracle </a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-10-05</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;66 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/sql">sql</a>&nbsp;</span>
+
+    </div>
+    <div class="post-item post-summary markdown-body">
+        -- affichage de dates select to_char( mon_champs, 'dd-mm-yyyy hh24:mi:ss' ) from ma_table; -- affichage de la date et de l'heure de la session ALTER SESSION SET NLS_DATE_FORMAT = 'dd-mm-yyyy hh24:mi:ss'; -- insertion d'une date dans un champs insert into ma_table(ID, START_DATE) values (3,TO_DATE('20200301','YYYYMMDD')); -- recherche de données entre deux dates select * from ma_table where START_DATE BETWEEN TO_DATE('28-02-2014 10:15:00', 'dd-mm-yyyy hh24:mi:ss') AND TO_DATE('20-06-2014 16:34:00', 'dd-mm-yyyy hh24:mi:ss');  
+    </div>
+</div>
+
+<div class="post">
+    <h2 class="post-item post-title">
+        <a href="https://abarhub.github.io/blogprog/post/properties_logger_java/">Logger toutes les propriétés de Spring Boot </a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-10-05</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;222 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/java">java</a>&nbsp;<a href="/blogprog/tags/xsd">xsd</a>&nbsp;</span>
+
+    </div>
+    <div class="post-item post-summary markdown-body">
+        Classe pour logguer toutes les propriétés avec Spring boot :
+package com.toto.myapp.util; import org.slf4j.Logger; import org.slf4j.LoggerFactory; import org.springframework.boot.context.event.ApplicationPreparedEvent; import org.springframework.context.ApplicationListener; import org.springframework.core.env.ConfigurableEnvironment; import org.springframework.core.env.EnumerablePropertySource; import org.springframework.core.env.PropertySource; import java.util.LinkedList; import java.util.List; public class PropertiesLogger implements ApplicationListener&lt;ApplicationPreparedEvent&gt; { private static final Logger log = LoggerFactory.getLogger(PropertiesLogger.class); private ConfigurableEnvironment environment; private boolean isFirstRun = true; @Override public void onApplicationEvent(ApplicationPreparedEvent event) { if (isFirstRun) { environment = event.getApplicationContext().getEnvironment(); printProperties(); } isFirstRun = false; } public void printProperties() { for (EnumerablePropertySource propertySource : findPropertiesPropertySources()) { log.info(&quot;******* &quot; + propertySource.getName() + &quot; *******&quot;); String[] propertyNames = propertySource.getPropertyNames(); Arrays.sort(propertyNames); for (String propertyName : propertyNames) { String resolvedProperty = environment.
+    </div>
+</div>
+
+<div class="post">
+    <h2 class="post-item post-title">
+        <a href="https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirrement_txt_sh/">Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances </a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-09-20</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;37 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/python">python</a>&nbsp;<a href="/blogprog/tags/shell">shell</a>&nbsp;</span>
+
+    </div>
+    <div class="post-item post-summary markdown-body">
+        Voici les commandes pour installer ou désinstaller un module python :
+# install module python : pip install flask # desinstalle module python : pip uninstall flask # recré le fichier requirements.txt : pip3 freeze &gt; requirements.txt  
+    </div>
+</div>
+
+<div class="post">
+    <h2 class="post-item post-title">
+        <a href="https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/">Création d&#39;un composant avec un module et une route </a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-09-16</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;25 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/shell">shell</a>&nbsp;<a href="/blogprog/tags/angular">angular</a>&nbsp;</span>
+
+    </div>
+    <div class="post-item post-summary markdown-body">
+        Voici les commandes pour créer un module, puis un composant associé a ce module :
+ng generate module app/modules/monmodule --routing=true ng generate component app/modules/monmodule/moncomposant -m=app/modules/monmodule  
+    </div>
+</div>
+
+<div class="post">
+    <h2 class="post-item post-title">
+        <a href="https://abarhub.github.io/blogprog/post/site_bootstrap_tutorial/">tutorial bootstrap 4 </a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-07-25</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;17 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/bootstrap">bootstrap</a>&nbsp;<a href="/blogprog/tags/css">css</a>&nbsp;</span>
+
+    </div>
+    <div class="post-item post-summary markdown-body">
+        tutorial https://mdbootstrap.com/docs/jquery/utilities/borders/
+https://www.w3schools.com/bootstrap4/bootstrap_ref_all_classes.asp
+https://getbootstrap.com/docs/4.5/getting-started/browsers-devices/#supported-browsers
+https://getbootstrap.com/docs/4.0/components/card/
+ng bootstrap https://github.com/ng-bootstrap/ng-bootstrap
+awesome bootstrap https://github.com/therebelrobot/awesome-bootstrap
+cheat sheet https://hackerthemes.com/bootstrap-cheatsheet/
+https://websitesetup.org/bootstrap-cheat-sheet/
+https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/
+https://www.creative-tim.com/cheatsheet/bootstrap4
+    </div>
+</div>
+
+<div class="post">
+    <h2 class="post-item post-title">
+        <a href="https://abarhub.github.io/blogprog/post/exemple_logger_java/">Exemple de loggeur avec slf4j</a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-06-24</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;19 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/java">java</a>&nbsp;<a href="/blogprog/tags/log">log</a>&nbsp;<a href="/blogprog/tags/slf4j">slf4j</a>&nbsp;</span>
+
+    </div>
+    <div class="post-item post-summary markdown-body">
+        public class ExempleLogger { private static final Logger LOGGER = LoggerFactory.getLogger(ExempleLogger.class); public void exemple(){ LOGGER.info(&quot;test {}&quot;, 52); } }  
+    </div>
+</div>
+
+<div class="post">
+    <h2 class="post-item post-title">
+        <a href="https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/">Accès à un fichier de ressource </a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-06-18</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;46 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/java">java</a>&nbsp;<a href="/blogprog/tags/xsd">xsd</a>&nbsp;</span>
+
+    </div>
+    <div class="post-item post-summary markdown-body">
+        Accès à un fichier de ressource :
+// récupération du répertoire d'un fichier ressource File file = new File(getClass().getClassLoader().getResource(&quot;database.properties&quot;).getFile()); // lecture d'un fichier ressource InputStream inputStream = getClass().getClassLoader().getResourceAsStream(&quot;database.properties&quot;); // Dans les 2 cas, le fichier doit être src/main/resources/database.properties  Des exemples pour récupérérer le chemin : https://stackoverflow.com/questions/15713119/java-nio-file-path-for-a-classpath-resource
+    </div>
+</div>
+
+<div class="post">
+    <h2 class="post-item post-title">
+        <a href="https://abarhub.github.io/blogprog/post/elasticsearch/">Aide mémoire sur ElasticSearch </a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-06-18</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;10 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/elasticsearch">elasticsearch</a>&nbsp;</span>
+
+    </div>
+    <div class="post-item post-summary markdown-body">
+        Aide mémoires des requetes ElasticSearch : https://elasticsearch-cheatsheet.jolicode.com/ https://gist.github.com/ruanbekker/e8a09604b14f37e8d2f743a87b930f93 https://github.com/adelean/elasticsearch-cheatsheet https://www.bmc.com/blogs/elasticsearch-commands/
+    </div>
+</div>
+<div class="pagination"><div class="pag-first">
+    <a href="/blogprog/post/"><i class="iconfont icon-caret-back-circle-sharp"></i></a>
+  </div><div class="pag-previous">
+    <a href="/blogprog/post/page/2/"><i class="iconfont icon-chevron-back-circle-sharp"></i></a>
+  </div><div class="pag-item">
+    <a href="/blogprog/post/">1</a>
+  </div><div class="pag-item">
+    <a href="/blogprog/post/page/2/">2</a>
+  </div><div class="pag-item pag-current">
+    <a href="/blogprog/post/page/3/">3</a>
+  </div><div class="pag-item">
+    <a href="/blogprog/post/page/4/">4</a>
+  </div><div class="pag-item">
+    <a href="/blogprog/post/page/5/">5</a>
+  </div><div class="pag-next">
+    <a href="/blogprog/post/page/4/"><i class="iconfont icon-chevron-forward-circle-sharp"></i></a>
+  </div><div class="pag-last">
+    <a href="/blogprog/post/page/5/"><i class="iconfont icon-caret-forward-circle-sharp"></i></a>
+  </div></div>
+            </div>
+            <aside class="col-12 col-md-3 float-left sidebar">
+    
+    <div class="sidebar-item sidebar-pages">
+        <h3>Pages</h3>
+        <ul>
+            
+            <li>
+                <a href="/blogprog/">Home</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/archives/">Archives</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/about/">About</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/search/">Search</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/index.xml">RSS</a>
+            </li>
+            
+        </ul>
+    </div>
+    
+    <div class="sidebar-item sidebar-links">
+        <h3>Links</h3>
+        <ul>
+            
+            <li>
+                <a href="https://github.com/abarhub" target="_blank"><span>GitHub</span></a>
+            </li>
+            
+        </ul>
+    </div>
+    
+    <div class="sidebar-item sidebar-tags">
+        <h3>Tags</h3>
+        <div>
+            
+            <span>
+                <a href="/blogprog/tags/angular/">angular</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/aplayer/">aplayer</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/bat/">bat</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/bootstrap/">bootstrap</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/build/">build</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/c/">c</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/change-detection/">change detection</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/cjk/">cjk</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/configuration/">configuration</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/css/">css</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/date/">date</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/dos/">dos</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/elasticsearch/">elasticsearch</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/emoji/">emoji</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/helloworld/">helloworld</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/html/">html</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/java/">java</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/java-security/">java security</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/junit5/">junit5</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/ligne-de-commande/">ligne de commande</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/log/">log</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/logback/">logback</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/markdown/">markdown</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/maven/">maven</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/mockito/">mockito</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/mysql/">MySQL</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/npm/">npm</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/oauth2/">OAuth2</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/openidconnect/">OpenIdConnect</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/outils/">outils</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/plsql/">plsql</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/python/">python</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/shell/">shell</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/slf4j/">slf4j</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/spring/">spring</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/spring-boot/">spring boot</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/sql/">sql</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/test/">test</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/text/">text</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/themes/">themes</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/windows/">windows</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/wtf/">wtf</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/xsd/">xsd</a>
+            </span>
+            
+        </div>
+    </div>
+    
+    
+    
+</aside>
+
+        </div>
+        <div class="btn">
+    <div class="btn-menu" id="btn-menu">
+        <i class="iconfont icon-grid-sharp"></i>
+    </div>
+    <div class="btn-toggle-mode">
+        <i class="iconfont icon-contrast-sharp"></i>
+    </div>
+    <div class="btn-scroll-top">
+        <i class="iconfont icon-chevron-up-circle-sharp"></i>
+    </div>
+</div>
+<aside class="sidebar-mobile" style="display: none;">
+  <div class="sidebar-wrapper">
+    
+    <div class="sidebar-item sidebar-pages">
+        <h3>Pages</h3>
+        <ul>
+            
+            <li>
+                <a href="/blogprog/">Home</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/archives/">Archives</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/about/">About</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/search/">Search</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/index.xml">RSS</a>
+            </li>
+            
+        </ul>
+    </div>
+    
+    <div class="sidebar-item sidebar-links">
+        <h3>Links</h3>
+        <ul>
+            
+            <li>
+                <a href="https://github.com/abarhub" target="_blank"><span>GitHub</span></a>
+            </li>
+            
+        </ul>
+    </div>
+    
+    <div class="sidebar-item sidebar-tags">
+        <h3>Tags</h3>
+        <div>
+            
+            <span>
+                <a href="/blogprog/tags/angular/">angular</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/aplayer/">aplayer</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/bat/">bat</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/bootstrap/">bootstrap</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/build/">build</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/c/">c</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/change-detection/">change detection</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/cjk/">cjk</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/configuration/">configuration</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/css/">css</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/date/">date</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/dos/">dos</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/elasticsearch/">elasticsearch</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/emoji/">emoji</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/helloworld/">helloworld</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/html/">html</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/java/">java</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/java-security/">java security</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/junit5/">junit5</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/ligne-de-commande/">ligne de commande</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/log/">log</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/logback/">logback</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/markdown/">markdown</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/maven/">maven</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/mockito/">mockito</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/mysql/">MySQL</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/npm/">npm</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/oauth2/">OAuth2</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/openidconnect/">OpenIdConnect</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/outils/">outils</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/plsql/">plsql</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/python/">python</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/shell/">shell</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/slf4j/">slf4j</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/spring/">spring</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/spring-boot/">spring boot</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/sql/">sql</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/test/">test</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/text/">text</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/themes/">themes</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/windows/">windows</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/wtf/">wtf</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/xsd/">xsd</a>
+            </span>
+            
+        </div>
+    </div>
+    
+    
+    
+    <div class="sidebar-item sidebar-toc">
+        <h3>Table of Contents</h3>
+        
+    </div>
+    
+    
+  </div>
+</aside>
+    </main>
+
+    <footer>
+    <div class="container-lg clearfix">
+        <div class="col-12 footer">
+            
+            <span>&copy; 2021-2022
+                <a href="https://abarhub.github.io/blogprog">abarhub</a>
+                 | <a href="https://github.com/abarhub/blogprog">Source code</a> 
+                | Powered by <a href="https://github.com/dsrkafuu/hugo-theme-fuji/"
+                   target="_blank">Fuji-v2</a> &amp; <a href="https://gohugo.io/"
+                                                    target="_blank">Hugo</a> 
+            </span>
+        </div>
+    </div>
+</footer>
+
+    
+<script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/prismjs@1.23.0/components/prism-core.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/prismjs@1.23.0/plugins/autoloader/prism-autoloader.min.js"></script>
+
+
+
+<script defer src="/blogprog/assets/js/fuji.min.js"></script>
+
+
+
+</body>
+
+</html>

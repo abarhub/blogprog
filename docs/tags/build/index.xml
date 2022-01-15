@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>build on Blog de programmation</title>
+    <link>https://abarhub.github.io/blogprog/tags/build/</link>
+    <description>Recent content in build on Blog de programmation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/build/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation de node et npm avec maven</title>
+      <link>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</guid>
+      <description>Installation de node et npm avec maven Il faut utiliser l&amp;rsquo;outils : frontend-maven-plugin
+Exemple :
+&amp;lt;plugin&amp;gt; ... &amp;lt;executions&amp;gt; &amp;lt;execution&amp;gt; &amp;lt;!-- optional: you don&#39;t really need execution ids, but it looks nice in your build log. --&amp;gt; &amp;lt;id&amp;gt;install node and npm&amp;lt;/id&amp;gt; &amp;lt;goals&amp;gt; &amp;lt;goal&amp;gt;install-node-and-npm&amp;lt;/goal&amp;gt; &amp;lt;/goals&amp;gt; &amp;lt;!-- optional: default phase is &amp;quot;generate-resources&amp;quot; --&amp;gt; &amp;lt;phase&amp;gt;generate-resources&amp;lt;/phase&amp;gt; &amp;lt;/execution&amp;gt; &amp;lt;/executions&amp;gt; &amp;lt;configuration&amp;gt; &amp;lt;nodeVersion&amp;gt;v4.6.0&amp;lt;/nodeVersion&amp;gt; &amp;lt;!-- optional: with node version greater than 4.0.0 will use npm provided by node distribution --&amp;gt; &amp;lt;npmVersion&amp;gt;2.15.9&amp;lt;/npmVersion&amp;gt; &amp;lt;!-- optional: where to download node and npm from. Defaults to https://nodejs.org/dist/ --&amp;gt; &amp;lt;downloadRoot&amp;gt;http://myproxy.example.org/nodejs/&amp;lt;/downloadRoot&amp;gt; &amp;lt;/configuration&amp;gt; &amp;lt;/plugin&amp;gt;  </description>
+    </item>
+    
+  </channel>
+</rss>

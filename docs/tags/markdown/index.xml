@@ -6,7 +6,16 @@
     <description>Recent content in markdown on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sytaxe de markdow</title>
+      <link>https://abarhub.github.io/blogprog/post/markdown_gist/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/markdown_gist/</guid>
+      <description>Sytaxe de markdow pour les gist :  Lien 1 Lien 2 (plus complet)  </description>
+    </item>
+    
     <item>
       <title>Markdown Syntax</title>
       <link>https://abarhub.github.io/blogprog/post/markdown-syntax/</link>

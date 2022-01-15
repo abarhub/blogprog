@@ -26,6 +26,17 @@
     </item>
     
     <item>
+      <title>Installation de node et npm avec maven</title>
+      <link>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</guid>
+      <description>Installation de node et npm avec maven Il faut utiliser l&amp;rsquo;outils : frontend-maven-plugin
+Exemple :
+&amp;lt;plugin&amp;gt; ... &amp;lt;executions&amp;gt; &amp;lt;execution&amp;gt; &amp;lt;!-- optional: you don&#39;t really need execution ids, but it looks nice in your build log. --&amp;gt; &amp;lt;id&amp;gt;install node and npm&amp;lt;/id&amp;gt; &amp;lt;goals&amp;gt; &amp;lt;goal&amp;gt;install-node-and-npm&amp;lt;/goal&amp;gt; &amp;lt;/goals&amp;gt; &amp;lt;!-- optional: default phase is &amp;quot;generate-resources&amp;quot; --&amp;gt; &amp;lt;phase&amp;gt;generate-resources&amp;lt;/phase&amp;gt; &amp;lt;/execution&amp;gt; &amp;lt;/executions&amp;gt; &amp;lt;configuration&amp;gt; &amp;lt;nodeVersion&amp;gt;v4.6.0&amp;lt;/nodeVersion&amp;gt; &amp;lt;!-- optional: with node version greater than 4.0.0 will use npm provided by node distribution --&amp;gt; &amp;lt;npmVersion&amp;gt;2.15.9&amp;lt;/npmVersion&amp;gt; &amp;lt;!-- optional: where to download node and npm from. Defaults to https://nodejs.org/dist/ --&amp;gt; &amp;lt;downloadRoot&amp;gt;http://myproxy.example.org/nodejs/&amp;lt;/downloadRoot&amp;gt; &amp;lt;/configuration&amp;gt; &amp;lt;/plugin&amp;gt;  </description>
+    </item>
+    
+    <item>
       <title>Hello world en Python</title>
       <link>https://abarhub.github.io/blogprog/post/helloworld_python/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
@@ -43,6 +54,21 @@
       <description>Il faut implementer l&amp;rsquo;interface LSResourceResolver
 public class ResourceResolver implements LSResourceResolver { public LSInput resolveResource(String type, String namespaceURI, String publicId, String systemId, String baseURI) { // note: in this sample, the XSD&#39;s are expected to be in the root of the classpath InputStream resourceAsStream = this.getClass().getClassLoader() .getResourceAsStream(systemId); return new Input(publicId, systemId, resourceAsStream); } }  Ensuite, l&amp;rsquo;appel se fait comme cela :
 // note that if your XML already declares the XSD to which it has to conform, then there&#39;s no need to declare the schemaName here void validate(String xml, String schemaName) throws Exception { DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance(); builderFactory.setNamespaceAware(true); DocumentBuilder parser = builderFactory .</description>
+    </item>
+    
+    <item>
+      <title>Détection du changement sur Angular</title>
+      <link>https://abarhub.github.io/blogprog/post/angular_change_detection/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/angular_change_detection/</guid>
+      <description>  Descriptinon générale du change detection d&amp;rsquo;Angular : https://guide-angular.wishtack.io/angular/change-detection/fonctionnement-de-la-change-detection
+  Différentes façon d&amp;rsquo;implémenter le change detection : https://dzone.com/articles/how-to-use-change-detection-in-angular
+  Description du fonctionnement interne : https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
+  Description de la classe ChangeDetectorRef https://angular.io/api/core/ChangeDetectorRef
+  Utilisation de l&amp;rsquo;immutable : https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb https://stackoverflow.com/questions/43120022/i-want-totally-immutable-object-in-ts https://immutable-js.com/
+  Exemple d&amp;rsquo;utilisation du onPush : https://blog.angular-university.io/onpush-change-detection-how-it-works/
+  </description>
     </item>
     
     <item>
@@ -79,6 +105,16 @@ ng.getComponent($0); ng.getContext($0);  </description>
     </item>
     
     <item>
+      <title>Exemple de shell en c</title>
+      <link>https://abarhub.github.io/blogprog/post/exemple_shell_c/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/exemple_shell_c/</guid>
+      <description>Exemple de shell en c :
+ Tutorial - Write a Shell in C Making your own Linux Shell in C Simple shell in C  Tutorial to code a simple shell in C  </description>
+    </item>
+    
+    <item>
       <title>Documentation Officiel de Java</title>
       <link>https://abarhub.github.io/blogprog/post/java_doc/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
@@ -97,6 +133,15 @@ ng.getComponent($0); ng.getContext($0);  </description>
     </item>
     
     <item>
+      <title>Sytaxe de markdow</title>
+      <link>https://abarhub.github.io/blogprog/post/markdown_gist/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/markdown_gist/</guid>
+      <description>Sytaxe de markdow pour les gist :  Lien 1 Lien 2 (plus complet)  </description>
+    </item>
+    
+    <item>
       <title>Débugage spring </title>
       <link>https://abarhub.github.io/blogprog/post/debug_spring/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
@@ -108,6 +153,15 @@ java -Ddebug monjar.jar  ou
 java monjar.jar --debug  On peut aussi augmenter le niveau de log (a mettre dans application.properties) :
 logging.level.org.springframework=DEBUG  pour spring security, c&amp;rsquo;est dans le code :
 // par annotation : @EnableWebSecurity(debug = true) public class SecurityConfiguration extends WebSecurityConfigurerAdapter { // etc... }  // par code : @EnableWebSecurity public class WebSecurityConfiguration extends WebSecurityConfigurerAdapter { @Override public void configure(WebSecurity web) throws Exception { web.</description>
+    </item>
+    
+    <item>
+      <title>Commandes sous dos </title>
+      <link>https://abarhub.github.io/blogprog/post/exemple_env_bat/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/exemple_env_bat/</guid>
+      <description>rem Pour extraire une partie du contenu d&#39;une variable, la syntaxe est : echo %date:~6,4% rem résultat: rem 2021 rem pour remplacer un caractere par un autre : echo %time: =0% rem résultat: rem 08:48:50,13 rem Pour récupérer la date du jour (ne fonctionne qu&#39;en france) : echo %date:~6,4%%date:~3,2%%date:~0,2% rem résultat: rem 20210131 rem Pour récupérer l&#39;heure (il faut remplacer l&#39;espace par un 0 si l&#39;heure est inferieure à 10) : set heure=%time:~0,2%-%time:~3,2%-%time:~6,2% echo %heure: =0% rem résultat: rem 08-52-01 rem Pour mettre dans une variable la date et l&#39;heure avec un format compatible pour un nom de fichier : set dateheure=%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%-%time:~3,2%-%time:~6,2% set dateheure=%dateheure: =0% echo %dateheure% rem résultat: rem 2021-01-31_08-54-57  </description>
     </item>
     
     <item>
@@ -137,6 +191,190 @@ logging.level.org.springframework=DEBUG  pour spring security, c&amp;rsquo;est d
 
 &lt;p&gt;This post is for in-post APlayer test, above is previous post-player.&lt;/p&gt;
 &lt;p&gt;Music files are all downloaded from &lt;a href=&#34;https://freemusicarchive.org&#34; target=&#34;_blank&#34;&gt;Free Music Archive&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Exemple de requete sql pour détruire toutes les tables d&#39;un schéma</title>
+      <link>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</guid>
+      <description>Exemple de requete sql pour détruire toutes les tables d&amp;rsquo;un schéma :
+select &#39;drop table &#39;||table_name||&#39; cascade constraints;&#39; from user_tables;  </description>
+    </item>
+    
+    <item>
+      <title>L&#39;url jdbc pour se connecter à une base MySQL </title>
+      <link>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</guid>
+      <description>Exemple d&amp;rsquo;url jdbc pour se connecter à une base de données sur le schéma monschema :
+jdbc:mysql://localhost:3306/monschema?useUnicode=true&amp;amp;useJDBCCompliantTimezoneShift=true&amp;amp;useLegacyDatetimeCode=false&amp;amp;serverTimezone=UTC  </description>
+    </item>
+    
+    <item>
+      <title>Script de création d&#39;un schéma Mysql avec l&#39;utilisateur </title>
+      <link>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</guid>
+      <description>Voici un exemple pour créer un utiliser MySQL et le schéma associé :
+CREATE USER &#39;monutilisateur&#39;@&#39;localhost&#39; IDENTIFIED BY &#39;1234&#39;; CREATE DATABASE monschema CHARACTER SET utf8 COLLATE utf8_unicode_ci; GRANT ALL PRIVILEGES ON monschema.* TO &#39;monutilisateur&#39;@&#39;localhost&#39;; FLUSH PRIVILEGES;  </description>
+    </item>
+    
+    <item>
+      <title>Exemple de test paramétré </title>
+      <link>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</guid>
+      <description>Exemple de test paramétré :
+class ParametreTest { @ParameterizedTest @MethodSource(&amp;quot;provideStringsForIsBlank&amp;quot;) void isBlank_ShouldReturnTrueForNullOrBlankStrings(String input, boolean expected) { assertEquals(expected, Strings.isBlank(input)); } private static Stream&amp;lt;Arguments&amp;gt; provideStringsForIsBlank() { return Stream.of( Arguments.of(null, true), Arguments.of(&amp;quot;&amp;quot;, true), Arguments.of(&amp;quot; &amp;quot;, true), Arguments.of(&amp;quot;not blank&amp;quot;, false) ); } }  Code basé sur le site Baeldung</description>
+    </item>
+    
+    <item>
+      <title>Ajout des jar dans la stacktrace pour LogBack </title>
+      <link>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</guid>
+      <description>Pour avoir les jar dans les exceptions, il faut mettre &amp;lsquo;packagingData=&amp;ldquo;true&amp;rdquo;&amp;rsquo; dans la configuration :
+&amp;lt;configuration packagingData=&amp;quot;true&amp;quot;&amp;gt; ... &amp;lt;/configuration&amp;gt;  Cela donne des exceptions de la forme :
+14:28:48.835 [btpool0-7] INFO c.q.l.demo.prime.PrimeAction - 99 is not a valid value java.lang.Exception: 99 is invalid at ch.qos.logback.demo.prime.PrimeAction.execute(PrimeAction.java:28) [classes/:na] at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:431) [struts-1.2.9.jar:1.2.9] at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:236) [struts-1.2.9.jar:1.2.9] at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:432) [struts-1.2.9.jar:1.2.9] at javax.servlet.http.HttpServlet.service(HttpServlet.java:820) [servlet-api-2.5-6.1.12.jar:6.1.12] at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:502) [jetty-6.1.12.jar:6.1.12] at ch.qos.logback.demo.UserServletFilter.doFilter(UserServletFilter.java:44) [classes/:na] at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1115) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:361) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:417) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:230) [jetty-6.1.12.jar:6.1.12]  Voir ici plus plus d&amp;rsquo;information : http://logback.qos.ch/manual/layouts.html#xThrowable</description>
+    </item>
+    
+    <item>
+      <title>Gestion des dates en oracle </title>
+      <link>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</guid>
+      <description>-- affichage de dates select to_char( mon_champs, &#39;dd-mm-yyyy hh24:mi:ss&#39; ) from ma_table; -- affichage de la date et de l&#39;heure de la session ALTER SESSION SET NLS_DATE_FORMAT = &#39;dd-mm-yyyy hh24:mi:ss&#39;; -- insertion d&#39;une date dans un champs insert into ma_table(ID, START_DATE) values (3,TO_DATE(&#39;20200301&#39;,&#39;YYYYMMDD&#39;)); -- recherche de données entre deux dates select * from ma_table where START_DATE BETWEEN TO_DATE(&#39;28-02-2014 10:15:00&#39;, &#39;dd-mm-yyyy hh24:mi:ss&#39;) AND TO_DATE(&#39;20-06-2014 16:34:00&#39;, &#39;dd-mm-yyyy hh24:mi:ss&#39;);  </description>
+    </item>
+    
+    <item>
+      <title>Logger toutes les propriétés de Spring Boot </title>
+      <link>https://abarhub.github.io/blogprog/post/properties_logger_java/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/properties_logger_java/</guid>
+      <description>Classe pour logguer toutes les propriétés avec Spring boot :
+package com.toto.myapp.util; import org.slf4j.Logger; import org.slf4j.LoggerFactory; import org.springframework.boot.context.event.ApplicationPreparedEvent; import org.springframework.context.ApplicationListener; import org.springframework.core.env.ConfigurableEnvironment; import org.springframework.core.env.EnumerablePropertySource; import org.springframework.core.env.PropertySource; import java.util.LinkedList; import java.util.List; public class PropertiesLogger implements ApplicationListener&amp;lt;ApplicationPreparedEvent&amp;gt; { private static final Logger log = LoggerFactory.getLogger(PropertiesLogger.class); private ConfigurableEnvironment environment; private boolean isFirstRun = true; @Override public void onApplicationEvent(ApplicationPreparedEvent event) { if (isFirstRun) { environment = event.getApplicationContext().getEnvironment(); printProperties(); } isFirstRun = false; } public void printProperties() { for (EnumerablePropertySource propertySource : findPropertiesPropertySources()) { log.info(&amp;quot;******* &amp;quot; + propertySource.getName() + &amp;quot; *******&amp;quot;); String[] propertyNames = propertySource.getPropertyNames(); Arrays.sort(propertyNames); for (String propertyName : propertyNames) { String resolvedProperty = environment.</description>
+    </item>
+    
+    <item>
+      <title>Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances </title>
+      <link>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirrement_txt_sh/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirrement_txt_sh/</guid>
+      <description>Voici les commandes pour installer ou désinstaller un module python :
+# install module python : pip install flask # desinstalle module python : pip uninstall flask # recré le fichier requirements.txt : pip3 freeze &amp;gt; requirements.txt  </description>
+    </item>
+    
+    <item>
+      <title>Création d&#39;un composant avec un module et une route </title>
+      <link>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</guid>
+      <description>Voici les commandes pour créer un module, puis un composant associé a ce module :
+ng generate module app/modules/monmodule --routing=true ng generate component app/modules/monmodule/moncomposant -m=app/modules/monmodule  </description>
+    </item>
+    
+    <item>
+      <title>tutorial bootstrap 4 </title>
+      <link>https://abarhub.github.io/blogprog/post/site_bootstrap_tutorial/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/site_bootstrap_tutorial/</guid>
+      <description>tutorial https://mdbootstrap.com/docs/jquery/utilities/borders/
+https://www.w3schools.com/bootstrap4/bootstrap_ref_all_classes.asp
+https://getbootstrap.com/docs/4.5/getting-started/browsers-devices/#supported-browsers
+https://getbootstrap.com/docs/4.0/components/card/
+ng bootstrap https://github.com/ng-bootstrap/ng-bootstrap
+awesome bootstrap https://github.com/therebelrobot/awesome-bootstrap
+cheat sheet https://hackerthemes.com/bootstrap-cheatsheet/
+https://websitesetup.org/bootstrap-cheat-sheet/
+https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/
+https://www.creative-tim.com/cheatsheet/bootstrap4</description>
+    </item>
+    
+    <item>
+      <title>Exemple de loggeur avec slf4j</title>
+      <link>https://abarhub.github.io/blogprog/post/exemple_logger_java/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/exemple_logger_java/</guid>
+      <description>public class ExempleLogger { private static final Logger LOGGER = LoggerFactory.getLogger(ExempleLogger.class); public void exemple(){ LOGGER.info(&amp;quot;test {}&amp;quot;, 52); } }  </description>
+    </item>
+    
+    <item>
+      <title>Accès à un fichier de ressource </title>
+      <link>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</guid>
+      <description>Accès à un fichier de ressource :
+// récupération du répertoire d&#39;un fichier ressource File file = new File(getClass().getClassLoader().getResource(&amp;quot;database.properties&amp;quot;).getFile()); // lecture d&#39;un fichier ressource InputStream inputStream = getClass().getClassLoader().getResourceAsStream(&amp;quot;database.properties&amp;quot;); // Dans les 2 cas, le fichier doit être src/main/resources/database.properties  Des exemples pour récupérérer le chemin : https://stackoverflow.com/questions/15713119/java-nio-file-path-for-a-classpath-resource</description>
+    </item>
+    
+    <item>
+      <title>Aide mémoire sur ElasticSearch </title>
+      <link>https://abarhub.github.io/blogprog/post/elasticsearch/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/elasticsearch/</guid>
+      <description>Aide mémoires des requetes ElasticSearch : https://elasticsearch-cheatsheet.jolicode.com/ https://gist.github.com/ruanbekker/e8a09604b14f37e8d2f743a87b930f93 https://github.com/adelean/elasticsearch-cheatsheet https://www.bmc.com/blogs/elasticsearch-commands/</description>
+    </item>
+    
+    <item>
+      <title>Calcul de dates </title>
+      <link>https://abarhub.github.io/blogprog/post/calcul_dates/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/calcul_dates/</guid>
+      <description>calcul de date : https://icalendrier.fr/outils/ajouter-retirer-date
+récupération de la date en epoch : https://www.epochconverter.com/</description>
+    </item>
+    
+    <item>
+      <title>Capture des paramètres avec Mockito </title>
+      <link>https://abarhub.github.io/blogprog/post/mockito_capture_java/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/mockito_capture_java/</guid>
+      <description>ArgumentCapto&amp;lt;Person&amp;gt; peopleCaptor = ArgumentCaptor.forClass(Person.class); verify(mock, times(2)).doSomething(peopleCaptor.capture()); List&amp;lt;Person&amp;gt; capturedPeople = peopleCaptor.getAllValues(); assertEquals(&amp;quot;John&amp;quot;, capturedPeople.get(0).getName()); assertEquals(&amp;quot;Jane&amp;quot;, capturedPeople.get(1).getName());  </description>
+    </item>
+    
+    <item>
+      <title>Changement de version des pom</title>
+      <link>https://abarhub.github.io/blogprog/post/update_version_sh/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/update_version_sh/</guid>
+      <description># changement de version des pom mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT # changement de version des pom sans backup mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT -DgenerateBackupPoms=false  </description>
+    </item>
+    
+    <item>
+      <title>Sites sur Spring</title>
+      <link>https://abarhub.github.io/blogprog/post/site_spring/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/site_spring/</guid>
+      <description>site sur spring :
+https://spring.io/
+https://www.baeldung.com/spring-tutorial</description>
+    </item>
+    
+    <item>
+      <title>Stopper l&#39;execution d&#39;un script à la première erreur en Oracle</title>
+      <link>https://abarhub.github.io/blogprog/post/script_with_error_sql/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/script_with_error_sql/</guid>
+      <description>-- pour stoper l&#39;execution à la première erreur -- a utiliser au début d&#39;un script WHENEVER SQLERROR EXIT FAILURE  </description>
     </item>
     
     <item>

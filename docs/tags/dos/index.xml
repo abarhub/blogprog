@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dos on Blog de programmation</title>
+    <link>https://abarhub.github.io/blogprog/tags/dos/</link>
+    <description>Recent content in dos on Blog de programmation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/dos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commandes sous dos </title>
+      <link>https://abarhub.github.io/blogprog/post/exemple_env_bat/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/exemple_env_bat/</guid>
+      <description>rem Pour extraire une partie du contenu d&#39;une variable, la syntaxe est : echo %date:~6,4% rem résultat: rem 2021 rem pour remplacer un caractere par un autre : echo %time: =0% rem résultat: rem 08:48:50,13 rem Pour récupérer la date du jour (ne fonctionne qu&#39;en france) : echo %date:~6,4%%date:~3,2%%date:~0,2% rem résultat: rem 20210131 rem Pour récupérer l&#39;heure (il faut remplacer l&#39;espace par un 0 si l&#39;heure est inferieure à 10) : set heure=%time:~0,2%-%time:~3,2%-%time:~6,2% echo %heure: =0% rem résultat: rem 08-52-01 rem Pour mettre dans une variable la date et l&#39;heure avec un format compatible pour un nom de fichier : set dateheure=%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%-%time:~3,2%-%time:~6,2% set dateheure=%dateheure: =0% echo %dateheure% rem résultat: rem 2021-01-31_08-54-57  </description>
+    </item>
+    
+  </channel>
+</rss>

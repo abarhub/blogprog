@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sql on Blog de programmation</title>
+    <link>https://abarhub.github.io/blogprog/tags/sql/</link>
+    <description>Recent content in sql on Blog de programmation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exemple de requete sql pour détruire toutes les tables d&#39;un schéma</title>
+      <link>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</guid>
+      <description>Exemple de requete sql pour détruire toutes les tables d&amp;rsquo;un schéma :
+select &#39;drop table &#39;||table_name||&#39; cascade constraints;&#39; from user_tables;  </description>
+    </item>
+    
+    <item>
+      <title>Script de création d&#39;un schéma Mysql avec l&#39;utilisateur </title>
+      <link>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</guid>
+      <description>Voici un exemple pour créer un utiliser MySQL et le schéma associé :
+CREATE USER &#39;monutilisateur&#39;@&#39;localhost&#39; IDENTIFIED BY &#39;1234&#39;; CREATE DATABASE monschema CHARACTER SET utf8 COLLATE utf8_unicode_ci; GRANT ALL PRIVILEGES ON monschema.* TO &#39;monutilisateur&#39;@&#39;localhost&#39;; FLUSH PRIVILEGES;  </description>
+    </item>
+    
+    <item>
+      <title>Gestion des dates en oracle </title>
+      <link>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</guid>
+      <description>-- affichage de dates select to_char( mon_champs, &#39;dd-mm-yyyy hh24:mi:ss&#39; ) from ma_table; -- affichage de la date et de l&#39;heure de la session ALTER SESSION SET NLS_DATE_FORMAT = &#39;dd-mm-yyyy hh24:mi:ss&#39;; -- insertion d&#39;une date dans un champs insert into ma_table(ID, START_DATE) values (3,TO_DATE(&#39;20200301&#39;,&#39;YYYYMMDD&#39;)); -- recherche de données entre deux dates select * from ma_table where START_DATE BETWEEN TO_DATE(&#39;28-02-2014 10:15:00&#39;, &#39;dd-mm-yyyy hh24:mi:ss&#39;) AND TO_DATE(&#39;20-06-2014 16:34:00&#39;, &#39;dd-mm-yyyy hh24:mi:ss&#39;);  </description>
+    </item>
+    
+    <item>
+      <title>Stopper l&#39;execution d&#39;un script à la première erreur en Oracle</title>
+      <link>https://abarhub.github.io/blogprog/post/script_with_error_sql/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/script_with_error_sql/</guid>
+      <description>-- pour stoper l&#39;execution à la première erreur -- a utiliser au début d&#39;un script WHENEVER SQLERROR EXIT FAILURE  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c on Blog de programmation</title>
+    <link>https://abarhub.github.io/blogprog/tags/c/</link>
+    <description>Recent content in c on Blog de programmation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exemple de shell en c</title>
+      <link>https://abarhub.github.io/blogprog/post/exemple_shell_c/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/exemple_shell_c/</guid>
+      <description>Exemple de shell en c :
+ Tutorial - Write a Shell in C Making your own Linux Shell in C Simple shell in C  Tutorial to code a simple shell in C  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,22 @@
     <description>Recent content in angular on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Détection du changement sur Angular</title>
+      <link>https://abarhub.github.io/blogprog/post/angular_change_detection/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/angular_change_detection/</guid>
+      <description>  Descriptinon générale du change detection d&amp;rsquo;Angular : https://guide-angular.wishtack.io/angular/change-detection/fonctionnement-de-la-change-detection
+  Différentes façon d&amp;rsquo;implémenter le change detection : https://dzone.com/articles/how-to-use-change-detection-in-angular
+  Description du fonctionnement interne : https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
+  Description de la classe ChangeDetectorRef https://angular.io/api/core/ChangeDetectorRef
+  Utilisation de l&amp;rsquo;immutable : https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb https://stackoverflow.com/questions/43120022/i-want-totally-immutable-object-in-ts https://immutable-js.com/
+  Exemple d&amp;rsquo;utilisation du onPush : https://blog.angular-university.io/onpush-change-detection-how-it-works/
+  </description>
+    </item>
+    
     <item>
       <title>Exemple de ngclass</title>
       <link>https://abarhub.github.io/blogprog/post/ngclass_angular/</link>
@@ -14,6 +29,16 @@
       
       <guid>https://abarhub.github.io/blogprog/post/ngclass_angular/</guid>
       <description>Exemple de ngclass : &amp;lt;p [ngClass]=&amp;quot;&#39;first second&#39;&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt; &amp;lt;p [ngClass]=&amp;quot;[&#39;first&#39;, &#39;second&#39;]&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt; &amp;lt;p [ngClass]=&amp;quot;{&#39;first&#39;: true, &#39;second&#39;: false}&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt; &amp;lt;p [ngClass]=&amp;quot;stringExp|arrayExp|objExp&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt; &amp;lt;p [ngClass]=&amp;quot;{&#39;class1 class2 class3&#39; : true}&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt;  Pour d&amp;rsquo;autres exemples, voir ici ou ici</description>
+    </item>
+    
+    <item>
+      <title>Création d&#39;un composant avec un module et une route </title>
+      <link>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</guid>
+      <description>Voici les commandes pour créer un module, puis un composant associé a ce module :
+ng generate module app/modules/monmodule --routing=true ng generate component app/modules/monmodule/moncomposant -m=app/modules/monmodule  </description>
     </item>
     
   </channel>

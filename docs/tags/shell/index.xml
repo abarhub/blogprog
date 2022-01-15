@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shell on Blog de programmation</title>
+    <link>https://abarhub.github.io/blogprog/tags/shell/</link>
+    <description>Recent content in shell on Blog de programmation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exemple de shell en c</title>
+      <link>https://abarhub.github.io/blogprog/post/exemple_shell_c/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/exemple_shell_c/</guid>
+      <description>Exemple de shell en c :
+ Tutorial - Write a Shell in C Making your own Linux Shell in C Simple shell in C  Tutorial to code a simple shell in C  </description>
+    </item>
+    
+    <item>
+      <title>Commandes sous dos </title>
+      <link>https://abarhub.github.io/blogprog/post/exemple_env_bat/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/exemple_env_bat/</guid>
+      <description>rem Pour extraire une partie du contenu d&#39;une variable, la syntaxe est : echo %date:~6,4% rem résultat: rem 2021 rem pour remplacer un caractere par un autre : echo %time: =0% rem résultat: rem 08:48:50,13 rem Pour récupérer la date du jour (ne fonctionne qu&#39;en france) : echo %date:~6,4%%date:~3,2%%date:~0,2% rem résultat: rem 20210131 rem Pour récupérer l&#39;heure (il faut remplacer l&#39;espace par un 0 si l&#39;heure est inferieure à 10) : set heure=%time:~0,2%-%time:~3,2%-%time:~6,2% echo %heure: =0% rem résultat: rem 08-52-01 rem Pour mettre dans une variable la date et l&#39;heure avec un format compatible pour un nom de fichier : set dateheure=%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%-%time:~3,2%-%time:~6,2% set dateheure=%dateheure: =0% echo %dateheure% rem résultat: rem 2021-01-31_08-54-57  </description>
+    </item>
+    
+    <item>
+      <title>Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances </title>
+      <link>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirrement_txt_sh/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirrement_txt_sh/</guid>
+      <description>Voici les commandes pour installer ou désinstaller un module python :
+# install module python : pip install flask # desinstalle module python : pip uninstall flask # recré le fichier requirements.txt : pip3 freeze &amp;gt; requirements.txt  </description>
+    </item>
+    
+    <item>
+      <title>Création d&#39;un composant avec un module et une route </title>
+      <link>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</guid>
+      <description>Voici les commandes pour créer un module, puis un composant associé a ce module :
+ng generate module app/modules/monmodule --routing=true ng generate component app/modules/monmodule/moncomposant -m=app/modules/monmodule  </description>
+    </item>
+    
+  </channel>
+</rss>
