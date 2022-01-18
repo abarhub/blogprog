@@ -3,6 +3,7 @@ title = "Hello world en HTML"
 date = "2021-12-19"
 description = "Hello world en HTML"
 tags = ["html", "helloworld"]
+summary = "Voici un exemple de page html"
 +++
 
 
