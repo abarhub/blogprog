@@ -94,3 +94,5 @@ Une page qui recense des outils pour extraire du xml :
 * Liste d'outils pour l'éducation : https://linuxfr.org/users/space_e_man/journaux/dual-oschool-free-software-pack
 * age : https://linuxfr.org/news/sortie-de-la-version-1-0-0-de-age
 * liste d'outils modernes en lignes de commandes : https://github.com/ibraheemdev/modern-unix
+* liste d'outils open source : https://github.com/RunaCapital/awesome-oss-alternatives
+
