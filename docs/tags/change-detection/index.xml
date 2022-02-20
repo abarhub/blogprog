@@ -13,13 +13,7 @@
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/angular_change_detection/</guid>
-      <description>  Descriptinon générale du change detection d&amp;rsquo;Angular : https://guide-angular.wishtack.io/angular/change-detection/fonctionnement-de-la-change-detection
-  Différentes façon d&amp;rsquo;implémenter le change detection : https://dzone.com/articles/how-to-use-change-detection-in-angular
-  Description du fonctionnement interne : https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
-  Description de la classe ChangeDetectorRef https://angular.io/api/core/ChangeDetectorRef
-  Utilisation de l&amp;rsquo;immutable : https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb https://stackoverflow.com/questions/43120022/i-want-totally-immutable-object-in-ts https://immutable-js.com/
-  Exemple d&amp;rsquo;utilisation du onPush : https://blog.angular-university.io/onpush-change-detection-how-it-works/
-  </description>
+      <description>Détection du changement sur Angular</description>
     </item>
     
   </channel>

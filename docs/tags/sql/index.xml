@@ -13,8 +13,7 @@
       <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</guid>
-      <description>Exemple de requete sql pour détruire toutes les tables d&amp;rsquo;un schéma :
-select &#39;drop table &#39;||table_name||&#39; cascade constraints;&#39; from user_tables;  </description>
+      <description>Exemple de requete sql pour détruire toutes les tables d&amp;rsquo;un schéma</description>
     </item>
     
     <item>

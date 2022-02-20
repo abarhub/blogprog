@@ -6,7 +6,16 @@
     <description>Recent content on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Récupérer la version avec spring boot</title>
+      <link>https://abarhub.github.io/blogprog/post/springboot_version/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/springboot_version/</guid>
+      <description>Récupérer la version avec spring boot</description>
+    </item>
+    
     <item>
       <title>Liste d&#39;outils </title>
       <link>https://abarhub.github.io/blogprog/post/liste_outils/</link>
@@ -32,9 +41,7 @@
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</guid>
-      <description>Installation de node et npm avec maven Il faut utiliser l&amp;rsquo;outils : frontend-maven-plugin
-Exemple :
-&amp;lt;plugin&amp;gt; ... &amp;lt;executions&amp;gt; &amp;lt;execution&amp;gt; &amp;lt;!-- optional: you don&#39;t really need execution ids, but it looks nice in your build log. --&amp;gt; &amp;lt;id&amp;gt;install node and npm&amp;lt;/id&amp;gt; &amp;lt;goals&amp;gt; &amp;lt;goal&amp;gt;install-node-and-npm&amp;lt;/goal&amp;gt; &amp;lt;/goals&amp;gt; &amp;lt;!-- optional: default phase is &amp;quot;generate-resources&amp;quot; --&amp;gt; &amp;lt;phase&amp;gt;generate-resources&amp;lt;/phase&amp;gt; &amp;lt;/execution&amp;gt; &amp;lt;/executions&amp;gt; &amp;lt;configuration&amp;gt; &amp;lt;nodeVersion&amp;gt;v4.6.0&amp;lt;/nodeVersion&amp;gt; &amp;lt;!-- optional: with node version greater than 4.0.0 will use npm provided by node distribution --&amp;gt; &amp;lt;npmVersion&amp;gt;2.15.9&amp;lt;/npmVersion&amp;gt; &amp;lt;!-- optional: where to download node and npm from. Defaults to https://nodejs.org/dist/ --&amp;gt; &amp;lt;downloadRoot&amp;gt;http://myproxy.example.org/nodejs/&amp;lt;/downloadRoot&amp;gt; &amp;lt;/configuration&amp;gt; &amp;lt;/plugin&amp;gt;  </description>
+      <description>Installation de node et npm avec maven</description>
     </item>
     
     <item>
@@ -52,9 +59,7 @@ Exemple :
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/resolve_xsd/</guid>
-      <description>Il faut implementer l&amp;rsquo;interface LSResourceResolver
-public class ResourceResolver implements LSResourceResolver { public LSInput resolveResource(String type, String namespaceURI, String publicId, String systemId, String baseURI) { // note: in this sample, the XSD&#39;s are expected to be in the root of the classpath InputStream resourceAsStream = this.getClass().getClassLoader() .getResourceAsStream(systemId); return new Input(publicId, systemId, resourceAsStream); } }  Ensuite, l&amp;rsquo;appel se fait comme cela :
-// note that if your XML already declares the XSD to which it has to conform, then there&#39;s no need to declare the schemaName here void validate(String xml, String schemaName) throws Exception { DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance(); builderFactory.setNamespaceAware(true); DocumentBuilder parser = builderFactory .</description>
+      <description>Validation par xsd en gérant la résolution des xsd</description>
     </item>
     
     <item>
@@ -63,13 +68,7 @@ public class ResourceResolver implements LSResourceResolver { public LSInput res
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/angular_change_detection/</guid>
-      <description>  Descriptinon générale du change detection d&amp;rsquo;Angular : https://guide-angular.wishtack.io/angular/change-detection/fonctionnement-de-la-change-detection
-  Différentes façon d&amp;rsquo;implémenter le change detection : https://dzone.com/articles/how-to-use-change-detection-in-angular
-  Description du fonctionnement interne : https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
-  Description de la classe ChangeDetectorRef https://angular.io/api/core/ChangeDetectorRef
-  Utilisation de l&amp;rsquo;immutable : https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb https://stackoverflow.com/questions/43120022/i-want-totally-immutable-object-in-ts https://immutable-js.com/
-  Exemple d&amp;rsquo;utilisation du onPush : https://blog.angular-university.io/onpush-change-detection-how-it-works/
-  </description>
+      <description>Détection du changement sur Angular</description>
     </item>
     
     <item>
@@ -78,11 +77,7 @@ public class ResourceResolver implements LSResourceResolver { public LSInput res
       <pubDate>Sun, 18 Jul 2021 16:21:12 +0100</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/maven-dependancy/</guid>
-      <description>Pour récupérer les dépendances d&amp;rsquo;un projet maven : mvn dependency:tree
-Pour récupérer les dépendances d&amp;rsquo;un projet maven, et mettre le résultat dans un fichier : mvn dependency:tree -DoutputFile=/path/to/file
-Pour que le résultat soit dans un format spécial : mvn dependency:tree -DoutputFile=/path/to/file.graphml -DoutputType=graphml
-Les sortie possibles sont :
- text dot graphml tgf  </description>
+      <description>Affichage de la liste des dépendances</description>
     </item>
     
     <item>
@@ -91,7 +86,7 @@ Les sortie possibles sont :
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</guid>
-      <description>Exemple avec le paramtre spring.config.location :  java -jar app.jar --spring.config.location=file:///Users/home/config/jdbc.properties   Autre exemple avec les paramètres spring.config.location et spring.config.name :  java -jar app.jar --spring.config.name=application,jdbc --spring.config.location=file:///Users/home/config   Exemple avec une variable d&amp;rsquo;environnement :  export SPRING_CONFIG_LOCATION=file:///Users/home/config java -jar app.jar   Exemple avec spring.config.import :  spring.config.import=file:./additional.properties,optional:file:/Users/home/config/jdbc.properties   Exemple avec spring.config.additional-location :  java -jar app.jar --spring.config.additional-location=file:///Users/home/config/  Voir ici : https://www.baeldung.com/spring-properties-file-outside-jar https://docs.spring.io/spring-boot/docs/1.0.1.RELEASE/reference/html/boot-features-external-config.html</description>
+      <description>Externalisation de la configuration avec spring boot</description>
     </item>
     
     <item>
@@ -100,9 +95,7 @@ Les sortie possibles sont :
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/debug_angular/</guid>
-      <description>Debugage avec Angular :
- Everything you need to know about debugging Angular applications A Guide To Debugging Angular Applications Augury Debug Angular 9 in 60 Seconds Debug Angular 9: Interacting with Components Définition ng  Exemple de code :
-ng.getComponent($0); ng.getContext($0);  </description>
+      <description>Débugage avec Angular</description>
     </item>
     
     <item>
@@ -111,8 +104,7 @@ ng.getComponent($0); ng.getContext($0);  </description>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/exemple_shell_c/</guid>
-      <description>Exemple de shell en c :
- Tutorial - Write a Shell in C Making your own Linux Shell in C Simple shell in C  Tutorial to code a simple shell in C  </description>
+      <description>Exemple de shell en c</description>
     </item>
     
     <item>
@@ -121,7 +113,7 @@ ng.getComponent($0); ng.getContext($0);  </description>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/java_doc/</guid>
-      <description>Documentation officielle de Java Java 8 :  Documentation Javadoc JDK JRE  Java 11 :  Documentation Javadoc JDK  Autre  Liste des JDK à telecharger  </description>
+      <description>Documentation Officiel de Java</description>
     </item>
     
     <item>
@@ -130,7 +122,7 @@ ng.getComponent($0); ng.getContext($0);  </description>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/ngclass_angular/</guid>
-      <description>Exemple de ngclass : &amp;lt;p [ngClass]=&amp;quot;&#39;first second&#39;&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt; &amp;lt;p [ngClass]=&amp;quot;[&#39;first&#39;, &#39;second&#39;]&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt; &amp;lt;p [ngClass]=&amp;quot;{&#39;first&#39;: true, &#39;second&#39;: false}&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt; &amp;lt;p [ngClass]=&amp;quot;stringExp|arrayExp|objExp&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt; &amp;lt;p [ngClass]=&amp;quot;{&#39;class1 class2 class3&#39; : true}&amp;quot;&amp;gt;...&amp;lt;/p&amp;gt;  Pour d&amp;rsquo;autres exemples, voir ici ou ici</description>
+      <description>Exemple de ngclass</description>
     </item>
     
     <item>
@@ -139,30 +131,25 @@ ng.getComponent($0); ng.getContext($0);  </description>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/markdown_gist/</guid>
-      <description>Sytaxe de markdow pour les gist :  Lien 1 Lien 2 (plus complet)  </description>
+      <description>Sytaxe de markdow</description>
     </item>
     
     <item>
-      <title>Débugage spring </title>
+      <title>Débugage spring</title>
       <link>https://abarhub.github.io/blogprog/post/debug_spring/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/debug_spring/</guid>
-      <description>Pour débuguer Spring boot, il y a 2 options :
- &amp;ndash;debug : affiche les modules de spring boot activés ou pas activé &amp;ndash;trace : affiche plus d&amp;rsquo;information, notemment la recherche de fichiers et les paramètres de configuration  Exemple d&amp;rsquo;utilisation :
-java -Ddebug monjar.jar  ou
-java monjar.jar --debug  On peut aussi augmenter le niveau de log (a mettre dans application.properties) :
-logging.level.org.springframework=DEBUG  pour spring security, c&amp;rsquo;est dans le code :
-// par annotation : @EnableWebSecurity(debug = true) public class SecurityConfiguration extends WebSecurityConfigurerAdapter { // etc... }  // par code : @EnableWebSecurity public class WebSecurityConfiguration extends WebSecurityConfigurerAdapter { @Override public void configure(WebSecurity web) throws Exception { web.</description>
+      <description>Débugage spring</description>
     </item>
     
     <item>
-      <title>Commandes sous dos </title>
+      <title>Commandes sous dos</title>
       <link>https://abarhub.github.io/blogprog/post/exemple_env_bat/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/exemple_env_bat/</guid>
-      <description>rem Pour extraire une partie du contenu d&#39;une variable, la syntaxe est : echo %date:~6,4% rem résultat: rem 2021 rem pour remplacer un caractere par un autre : echo %time: =0% rem résultat: rem 08:48:50,13 rem Pour récupérer la date du jour (ne fonctionne qu&#39;en france) : echo %date:~6,4%%date:~3,2%%date:~0,2% rem résultat: rem 20210131 rem Pour récupérer l&#39;heure (il faut remplacer l&#39;espace par un 0 si l&#39;heure est inferieure à 10) : set heure=%time:~0,2%-%time:~3,2%-%time:~6,2% echo %heure: =0% rem résultat: rem 08-52-01 rem Pour mettre dans une variable la date et l&#39;heure avec un format compatible pour un nom de fichier : set dateheure=%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%-%time:~3,2%-%time:~6,2% set dateheure=%dateheure: =0% echo %dateheure% rem résultat: rem 2021-01-31_08-54-57  </description>
+      <description>Commandes sous dos</description>
     </item>
     
     <item>
@@ -171,7 +158,7 @@ logging.level.org.springframework=DEBUG  pour spring security, c&amp;rsquo;est d
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</guid>
-      <description> Les versions de spring security La liste des documentations Le guide du developpeur Le guide de migration La documentation détaillée Comment l&amp;rsquo;implementé avec un SPA Implicit Flow La liste des librairies certifiée Open Id Connect  </description>
+      <description>Spring security OAuth 2 documentation</description>
     </item>
     
     <item>
@@ -200,18 +187,16 @@ logging.level.org.springframework=DEBUG  pour spring security, c&amp;rsquo;est d
       <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</guid>
-      <description>Exemple de requete sql pour détruire toutes les tables d&amp;rsquo;un schéma :
-select &#39;drop table &#39;||table_name||&#39; cascade constraints;&#39; from user_tables;  </description>
+      <description>Exemple de requete sql pour détruire toutes les tables d&amp;rsquo;un schéma</description>
     </item>
     
     <item>
-      <title>L&#39;url jdbc pour se connecter à une base MySQL </title>
+      <title>L&#39;url jdbc pour se connecter à une base MySQL</title>
       <link>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</guid>
-      <description>Exemple d&amp;rsquo;url jdbc pour se connecter à une base de données sur le schéma monschema :
-jdbc:mysql://localhost:3306/monschema?useUnicode=true&amp;amp;useJDBCCompliantTimezoneShift=true&amp;amp;useLegacyDatetimeCode=false&amp;amp;serverTimezone=UTC  </description>
+      <description>L&amp;rsquo;url jdbc pour se connecter à une base MySQL</description>
     </item>
     
     <item>
@@ -255,13 +240,12 @@ class ParametreTest { @ParameterizedTest @MethodSource(&amp;quot;provideStringsF
     </item>
     
     <item>
-      <title>Logger toutes les propriétés de Spring Boot </title>
+      <title>Logger toutes les propriétés de Spring Boot</title>
       <link>https://abarhub.github.io/blogprog/post/properties_logger_java/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/properties_logger_java/</guid>
-      <description>Classe pour logguer toutes les propriétés avec Spring boot :
-package com.toto.myapp.util; import org.slf4j.Logger; import org.slf4j.LoggerFactory; import org.springframework.boot.context.event.ApplicationPreparedEvent; import org.springframework.context.ApplicationListener; import org.springframework.core.env.ConfigurableEnvironment; import org.springframework.core.env.EnumerablePropertySource; import org.springframework.core.env.PropertySource; import java.util.LinkedList; import java.util.List; public class PropertiesLogger implements ApplicationListener&amp;lt;ApplicationPreparedEvent&amp;gt; { private static final Logger log = LoggerFactory.getLogger(PropertiesLogger.class); private ConfigurableEnvironment environment; private boolean isFirstRun = true; @Override public void onApplicationEvent(ApplicationPreparedEvent event) { if (isFirstRun) { environment = event.getApplicationContext().getEnvironment(); printProperties(); } isFirstRun = false; } public void printProperties() { for (EnumerablePropertySource propertySource : findPropertiesPropertySources()) { log.info(&amp;quot;******* &amp;quot; + propertySource.getName() + &amp;quot; *******&amp;quot;); String[] propertyNames = propertySource.getPropertyNames(); Arrays.sort(propertyNames); for (String propertyName : propertyNames) { String resolvedProperty = environment.</description>
+      <description>Logger toutes les propriétés de Spring Boot</description>
     </item>
     
     <item>
@@ -355,7 +339,7 @@ récupération de la date en epoch : https://www.epochconverter.com/</descriptio
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/update_version_sh/</guid>
-      <description># changement de version des pom mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT # changement de version des pom sans backup mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT -DgenerateBackupPoms=false  </description>
+      <description>Changement de version des pom</description>
     </item>
     
     <item>

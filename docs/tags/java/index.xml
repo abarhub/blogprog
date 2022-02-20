@@ -6,16 +6,23 @@
     <description>Recent content in java on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Récupérer la version avec spring boot</title>
+      <link>https://abarhub.github.io/blogprog/post/springboot_version/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/springboot_version/</guid>
+      <description>Récupérer la version avec spring boot</description>
+    </item>
+    
     <item>
       <title>Validation xsd en gérant la résolution des xsd</title>
       <link>https://abarhub.github.io/blogprog/post/resolve_xsd/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/resolve_xsd/</guid>
-      <description>Il faut implementer l&amp;rsquo;interface LSResourceResolver
-public class ResourceResolver implements LSResourceResolver { public LSInput resolveResource(String type, String namespaceURI, String publicId, String systemId, String baseURI) { // note: in this sample, the XSD&#39;s are expected to be in the root of the classpath InputStream resourceAsStream = this.getClass().getClassLoader() .getResourceAsStream(systemId); return new Input(publicId, systemId, resourceAsStream); } }  Ensuite, l&amp;rsquo;appel se fait comme cela :
-// note that if your XML already declares the XSD to which it has to conform, then there&#39;s no need to declare the schemaName here void validate(String xml, String schemaName) throws Exception { DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance(); builderFactory.setNamespaceAware(true); DocumentBuilder parser = builderFactory .</description>
+      <description>Validation par xsd en gérant la résolution des xsd</description>
     </item>
     
     <item>
@@ -24,21 +31,16 @@ public class ResourceResolver implements LSResourceResolver { public LSInput res
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/java_doc/</guid>
-      <description>Documentation officielle de Java Java 8 :  Documentation Javadoc JDK JRE  Java 11 :  Documentation Javadoc JDK  Autre  Liste des JDK à telecharger  </description>
+      <description>Documentation Officiel de Java</description>
     </item>
     
     <item>
-      <title>Débugage spring </title>
+      <title>Débugage spring</title>
       <link>https://abarhub.github.io/blogprog/post/debug_spring/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/debug_spring/</guid>
-      <description>Pour débuguer Spring boot, il y a 2 options :
- &amp;ndash;debug : affiche les modules de spring boot activés ou pas activé &amp;ndash;trace : affiche plus d&amp;rsquo;information, notemment la recherche de fichiers et les paramètres de configuration  Exemple d&amp;rsquo;utilisation :
-java -Ddebug monjar.jar  ou
-java monjar.jar --debug  On peut aussi augmenter le niveau de log (a mettre dans application.properties) :
-logging.level.org.springframework=DEBUG  pour spring security, c&amp;rsquo;est dans le code :
-// par annotation : @EnableWebSecurity(debug = true) public class SecurityConfiguration extends WebSecurityConfigurerAdapter { // etc... }  // par code : @EnableWebSecurity public class WebSecurityConfiguration extends WebSecurityConfigurerAdapter { @Override public void configure(WebSecurity web) throws Exception { web.</description>
+      <description>Débugage spring</description>
     </item>
     
     <item>
@@ -47,17 +49,16 @@ logging.level.org.springframework=DEBUG  pour spring security, c&amp;rsquo;est d
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</guid>
-      <description> Les versions de spring security La liste des documentations Le guide du developpeur Le guide de migration La documentation détaillée Comment l&amp;rsquo;implementé avec un SPA Implicit Flow La liste des librairies certifiée Open Id Connect  </description>
+      <description>Spring security OAuth 2 documentation</description>
     </item>
     
     <item>
-      <title>L&#39;url jdbc pour se connecter à une base MySQL </title>
+      <title>L&#39;url jdbc pour se connecter à une base MySQL</title>
       <link>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</guid>
-      <description>Exemple d&amp;rsquo;url jdbc pour se connecter à une base de données sur le schéma monschema :
-jdbc:mysql://localhost:3306/monschema?useUnicode=true&amp;amp;useJDBCCompliantTimezoneShift=true&amp;amp;useLegacyDatetimeCode=false&amp;amp;serverTimezone=UTC  </description>
+      <description>L&amp;rsquo;url jdbc pour se connecter à une base MySQL</description>
     </item>
     
     <item>
@@ -82,13 +83,12 @@ class ParametreTest { @ParameterizedTest @MethodSource(&amp;quot;provideStringsF
     </item>
     
     <item>
-      <title>Logger toutes les propriétés de Spring Boot </title>
+      <title>Logger toutes les propriétés de Spring Boot</title>
       <link>https://abarhub.github.io/blogprog/post/properties_logger_java/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/properties_logger_java/</guid>
-      <description>Classe pour logguer toutes les propriétés avec Spring boot :
-package com.toto.myapp.util; import org.slf4j.Logger; import org.slf4j.LoggerFactory; import org.springframework.boot.context.event.ApplicationPreparedEvent; import org.springframework.context.ApplicationListener; import org.springframework.core.env.ConfigurableEnvironment; import org.springframework.core.env.EnumerablePropertySource; import org.springframework.core.env.PropertySource; import java.util.LinkedList; import java.util.List; public class PropertiesLogger implements ApplicationListener&amp;lt;ApplicationPreparedEvent&amp;gt; { private static final Logger log = LoggerFactory.getLogger(PropertiesLogger.class); private ConfigurableEnvironment environment; private boolean isFirstRun = true; @Override public void onApplicationEvent(ApplicationPreparedEvent event) { if (isFirstRun) { environment = event.getApplicationContext().getEnvironment(); printProperties(); } isFirstRun = false; } public void printProperties() { for (EnumerablePropertySource propertySource : findPropertiesPropertySources()) { log.info(&amp;quot;******* &amp;quot; + propertySource.getName() + &amp;quot; *******&amp;quot;); String[] propertyNames = propertySource.getPropertyNames(); Arrays.sort(propertyNames); for (String propertyName : propertyNames) { String resolvedProperty = environment.</description>
+      <description>Logger toutes les propriétés de Spring Boot</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@ package com.toto.myapp.util; import org.slf4j.Logger; import org.slf4j.LoggerFac
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/update_version_sh/</guid>
-      <description># changement de version des pom mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT # changement de version des pom sans backup mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT -DgenerateBackupPoms=false  </description>
+      <description>Changement de version des pom</description>
     </item>
     
     <item>

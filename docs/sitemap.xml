@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://abarhub.github.io/blogprog/</loc>
-    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/build/</loc>
+    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/java/</loc>
+    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/maven/</loc>
+    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/</loc>
+    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/springboot_version/</loc>
+    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/spring-boot/</loc>
+    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/version/</loc>
+    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/ligne-de-commande/</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
@@ -12,9 +33,6 @@
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/outils/</loc>
-    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abarhub.github.io/blogprog/post/</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/post/helloworld_html/</loc>
@@ -26,13 +44,7 @@
     <loc>https://abarhub.github.io/blogprog/tags/html/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/build/</loc>
-    <lastmod>2021-10-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</loc>
-    <lastmod>2021-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/maven/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/npm/</loc>
@@ -43,9 +55,6 @@
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/python/</loc>
     <lastmod>2021-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/java/</loc>
-    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/post/resolve_xsd/</loc>
     <lastmod>2021-08-29T00:00:00+00:00</lastmod>
@@ -69,9 +78,6 @@
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</loc>
-    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/spring-boot/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/post/debug_angular/</loc>
@@ -143,6 +149,9 @@
     <loc>https://abarhub.github.io/blogprog/tags/sql/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/jdbc/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -167,6 +176,9 @@
     <loc>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/log/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://abarhub.github.io/blogprog/post/properties_logger_java/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -186,9 +198,6 @@
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/post/exemple_logger_java/</loc>
-    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/log/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/slf4j/</loc>

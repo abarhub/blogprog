@@ -38,7 +38,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://abarhub.github.io/blogprog/" /><meta property="og:image" content="https://abarhub.github.io/img/og.png" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://abarhub.github.io/img/og.png" /><meta property="og:updated_time" content="2022-01-10T00:00:00+00:00" />
+<meta name="twitter:image" content="https://abarhub.github.io/img/og.png" /><meta property="og:updated_time" content="2022-02-20T00:00:00+00:00" />
 
 
 <style>
@@ -106,6 +106,23 @@
 
 <div class="post">
     <h2 class="post-item post-title">
+        <a href="https://abarhub.github.io/blogprog/post/springboot_version/">Récupérer la version avec spring boot</a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2022-02-20</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;51 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/java">java</a>&nbsp;<a href="/blogprog/tags/spring-boot">spring boot</a>&nbsp;<a href="/blogprog/tags/version">version</a>&nbsp;<a href="/blogprog/tags/maven">maven</a>&nbsp;<a href="/blogprog/tags/build">build</a>&nbsp;</span>
+
+    </div>
+    <div class="post-item post-summary markdown-body">
+        Récupérer la version avec spring boot
+    </div>
+</div>
+
+<div class="post">
+    <h2 class="post-item post-title">
         <a href="https://abarhub.github.io/blogprog/post/liste_outils/">Liste d&#39;outils </a>
     </h2>
     <div class="post-item post-meta">
@@ -152,9 +169,7 @@
 
     </div>
     <div class="post-item post-summary markdown-body">
-        Installation de node et npm avec maven Il faut utiliser l&rsquo;outils : frontend-maven-plugin
-Exemple :
-&lt;plugin&gt; ... &lt;executions&gt; &lt;execution&gt; &lt;!-- optional: you don't really need execution ids, but it looks nice in your build log. --&gt; &lt;id&gt;install node and npm&lt;/id&gt; &lt;goals&gt; &lt;goal&gt;install-node-and-npm&lt;/goal&gt; &lt;/goals&gt; &lt;!-- optional: default phase is &quot;generate-resources&quot; --&gt; &lt;phase&gt;generate-resources&lt;/phase&gt; &lt;/execution&gt; &lt;/executions&gt; &lt;configuration&gt; &lt;nodeVersion&gt;v4.6.0&lt;/nodeVersion&gt; &lt;!-- optional: with node version greater than 4.0.0 will use npm provided by node distribution --&gt; &lt;npmVersion&gt;2.15.9&lt;/npmVersion&gt; &lt;!-- optional: where to download node and npm from. Defaults to https://nodejs.org/dist/ --&gt; &lt;downloadRoot&gt;http://myproxy.example.org/nodejs/&lt;/downloadRoot&gt; &lt;/configuration&gt; &lt;/plugin&gt;  
+        Installation de node et npm avec maven
     </div>
 </div>
 
@@ -188,9 +203,7 @@ Exemple :
 
     </div>
     <div class="post-item post-summary markdown-body">
-        Il faut implementer l&rsquo;interface LSResourceResolver
-public class ResourceResolver implements LSResourceResolver { public LSInput resolveResource(String type, String namespaceURI, String publicId, String systemId, String baseURI) { // note: in this sample, the XSD's are expected to be in the root of the classpath InputStream resourceAsStream = this.getClass().getClassLoader() .getResourceAsStream(systemId); return new Input(publicId, systemId, resourceAsStream); } }  Ensuite, l&rsquo;appel se fait comme cela :
-// note that if your XML already declares the XSD to which it has to conform, then there's no need to declare the schemaName here void validate(String xml, String schemaName) throws Exception { DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance(); builderFactory.setNamespaceAware(true); DocumentBuilder parser = builderFactory .
+        Validation par xsd en gérant la résolution des xsd
     </div>
 </div>
 
@@ -207,13 +220,7 @@ public class ResourceResolver implements LSResourceResolver { public LSInput res
 
     </div>
     <div class="post-item post-summary markdown-body">
-          Descriptinon générale du change detection d&rsquo;Angular : https://guide-angular.wishtack.io/angular/change-detection/fonctionnement-de-la-change-detection
-  Différentes façon d&rsquo;implémenter le change detection : https://dzone.com/articles/how-to-use-change-detection-in-angular
-  Description du fonctionnement interne : https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
-  Description de la classe ChangeDetectorRef https://angular.io/api/core/ChangeDetectorRef
-  Utilisation de l&rsquo;immutable : https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb https://stackoverflow.com/questions/43120022/i-want-totally-immutable-object-in-ts https://immutable-js.com/
-  Exemple d&rsquo;utilisation du onPush : https://blog.angular-university.io/onpush-change-detection-how-it-works/
-  
+        Détection du changement sur Angular
     </div>
 </div>
 
@@ -230,11 +237,7 @@ public class ResourceResolver implements LSResourceResolver { public LSInput res
 
     </div>
     <div class="post-item post-summary markdown-body">
-        Pour récupérer les dépendances d&rsquo;un projet maven : mvn dependency:tree
-Pour récupérer les dépendances d&rsquo;un projet maven, et mettre le résultat dans un fichier : mvn dependency:tree -DoutputFile=/path/to/file
-Pour que le résultat soit dans un format spécial : mvn dependency:tree -DoutputFile=/path/to/file.graphml -DoutputType=graphml
-Les sortie possibles sont :
- text dot graphml tgf  
+        Affichage de la liste des dépendances
     </div>
 </div>
 
@@ -251,7 +254,7 @@ Les sortie possibles sont :
 
     </div>
     <div class="post-item post-summary markdown-body">
-        Exemple avec le paramtre spring.config.location :  java -jar app.jar --spring.config.location=file:///Users/home/config/jdbc.properties   Autre exemple avec les paramètres spring.config.location et spring.config.name :  java -jar app.jar --spring.config.name=application,jdbc --spring.config.location=file:///Users/home/config   Exemple avec une variable d&rsquo;environnement :  export SPRING_CONFIG_LOCATION=file:///Users/home/config java -jar app.jar   Exemple avec spring.config.import :  spring.config.import=file:./additional.properties,optional:file:/Users/home/config/jdbc.properties   Exemple avec spring.config.additional-location :  java -jar app.jar --spring.config.additional-location=file:///Users/home/config/  Voir ici : https://www.baeldung.com/spring-properties-file-outside-jar https://docs.spring.io/spring-boot/docs/1.0.1.RELEASE/reference/html/boot-features-external-config.html
+        Externalisation de la configuration avec spring boot
     </div>
 </div>
 
@@ -268,27 +271,7 @@ Les sortie possibles sont :
 
     </div>
     <div class="post-item post-summary markdown-body">
-        Debugage avec Angular :
- Everything you need to know about debugging Angular applications A Guide To Debugging Angular Applications Augury Debug Angular 9 in 60 Seconds Debug Angular 9: Interacting with Components Définition ng  Exemple de code :
-ng.getComponent($0); ng.getContext($0);  
-    </div>
-</div>
-
-<div class="post">
-    <h2 class="post-item post-title">
-        <a href="https://abarhub.github.io/blogprog/post/exemple_shell_c/">Exemple de shell en c</a>
-    </h2>
-    <div class="post-item post-meta">
-        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2021-05-02</span>
-
-<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;32 words</span>
-
-<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/c">c</a>&nbsp;<a href="/blogprog/tags/shell">shell</a>&nbsp;</span>
-
-    </div>
-    <div class="post-item post-summary markdown-body">
-        Exemple de shell en c :
- Tutorial - Write a Shell in C Making your own Linux Shell in C Simple shell in C  Tutorial to code a simple shell in C  
+        Débugage avec Angular
     </div>
 </div>
 <div class="pagination"><div class="pag-item pag-current">
@@ -424,6 +407,10 @@ ng.getComponent($0); ng.getContext($0);
             </span>
             
             <span>
+                <a href="/blogprog/tags/jdbc/">jdbc</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/junit5/">junit5</a>
             </span>
             
@@ -509,6 +496,10 @@ ng.getComponent($0); ng.getContext($0);
             
             <span>
                 <a href="/blogprog/tags/themes/">themes</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/version/">version</a>
             </span>
             
             <span>
@@ -660,6 +651,10 @@ ng.getComponent($0); ng.getContext($0);
             </span>
             
             <span>
+                <a href="/blogprog/tags/jdbc/">jdbc</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/junit5/">junit5</a>
             </span>
             
@@ -745,6 +740,10 @@ ng.getComponent($0); ng.getContext($0);
             
             <span>
                 <a href="/blogprog/tags/themes/">themes</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/version/">version</a>
             </span>
             
             <span>

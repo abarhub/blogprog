@@ -8,13 +8,12 @@
     <language>en</language>
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>L&#39;url jdbc pour se connecter à une base MySQL </title>
+      <title>L&#39;url jdbc pour se connecter à une base MySQL</title>
       <link>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</guid>
-      <description>Exemple d&amp;rsquo;url jdbc pour se connecter à une base de données sur le schéma monschema :
-jdbc:mysql://localhost:3306/monschema?useUnicode=true&amp;amp;useJDBCCompliantTimezoneShift=true&amp;amp;useLegacyDatetimeCode=false&amp;amp;serverTimezone=UTC  </description>
+      <description>L&amp;rsquo;url jdbc pour se connecter à une base MySQL</description>
     </item>
     
     <item>
