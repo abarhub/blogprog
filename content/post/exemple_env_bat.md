@@ -1,8 +1,9 @@
 +++
-title = "Commandes sous dos "
+title = "Commandes sous dos"
 date = "2021-03-05"
-description = "Commandes sous dos "
+description = "Commandes sous dos"
 tags = ["dos", "windows", "shell", "bat"]
+summary = "Commandes sous dos"
 +++
 
 

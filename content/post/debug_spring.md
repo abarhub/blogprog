@@ -1,8 +1,9 @@
 +++
-title = "Débugage spring "
+title = "Débugage spring"
 date = "2021-03-06"
-description = "Débugage spring "
+description = "Débugage spring"
 tags = ["java", "spring", "spring boot"]
+summary = "Débugage spring"
 +++
 
 Pour débuguer Spring boot, il y a 2 options :

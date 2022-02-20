@@ -3,6 +3,7 @@ title = "Sytaxe de markdow"
 date = "2021-04-25"
 description = "Sytaxe de markdow"
 tags = ["markdown"]
+summary = "Sytaxe de markdow"
 +++
 
 # Sytaxe de markdow pour les gist :

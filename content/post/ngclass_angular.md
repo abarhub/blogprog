@@ -3,6 +3,7 @@ title = "Exemple de ngclass"
 date = "2021-04-25"
 description = "Exemple de ngclass"
 tags = ["angular"]
+summary = "Exemple de ngclass"
 +++
 
 # Exemple de ngclass :

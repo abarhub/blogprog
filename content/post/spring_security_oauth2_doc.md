@@ -3,6 +3,7 @@ title = "Spring security OAuth 2 documentation"
 date = "2021-01-31"
 description = "Spring security OAuth 2 documentation"
 tags = ["java", "java security", "spring boot", "OAuth2", "OpenIdConnect"]
+summary = "Spring security OAuth 2 documentation"
 +++
 
 * [Les versions de spring security](https://spring.io/projects/spring-security-oauth#learn)

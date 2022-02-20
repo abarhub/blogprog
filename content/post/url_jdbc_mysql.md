@@ -1,8 +1,9 @@
 +++
-title = "L'url jdbc pour se connecter à une base MySQL "
+title = "L'url jdbc pour se connecter à une base MySQL"
 date = "2021-01-01"
-description = "L'url jdbc pour se connecter à une base MySQL "
-tags = ["MySQL", "java"]
+description = "L'url jdbc pour se connecter à une base MySQL"
+tags = ["MySQL", "java", "jdbc"]
+summary = "L'url jdbc pour se connecter à une base MySQL"
 +++
 
 Exemple d'url jdbc pour se connecter à une base de données sur le schéma monschema :
