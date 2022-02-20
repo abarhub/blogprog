@@ -3,6 +3,7 @@ title: "Maven Dependancy"
 date: 2021-07-18T16:21:12+01:00
 draft: false
 tags: ["maven"]
+summary : "Affichage de la liste des dépendances"
 ---
 
 Pour récupérer les dépendances d'un projet maven :

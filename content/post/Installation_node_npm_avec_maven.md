@@ -3,6 +3,7 @@ title = "Installation de node et npm avec maven"
 date = "2021-10-09"
 description = "Installation de node et npm avec maven"
 tags = ["maven", "npm", "build"]
+summary = "Installation de node et npm avec maven"
 +++
 
 # Installation de node et npm avec maven

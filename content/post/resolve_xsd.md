@@ -3,6 +3,7 @@ title = "Validation xsd en gérant la résolution des xsd"
 date = "2021-08-29"
 description = "Validation par xsd en gérant la résolution des xsd"
 tags = ["java", "xsd"]
+summary = "Validation par xsd en gérant la résolution des xsd"
 +++
 
 Il faut implementer l'interface LSResourceResolver

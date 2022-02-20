@@ -3,6 +3,7 @@ title = "Détection du changement sur Angular"
 date = "2021-08-15"
 description = "Détection du changement sur Angular"
 tags = ["angular", "change detection"]
+summary = "Détection du changement sur Angular"
 +++
 
 * Descriptinon générale du change detection d'Angular :

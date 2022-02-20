@@ -3,6 +3,7 @@ title = "Exemple de shell en c"
 date = "2021-05-02"
 description = "Exemple de shell en c"
 tags = ["c", "shell"]
+summary = "Exemple de shell en c"
 +++
 
 Exemple de shell en c :

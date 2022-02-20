@@ -3,6 +3,7 @@ title = "Externalisation de la configuration avec spring boot"
 date = "2021-06-29"
 description = "Externalisation de la configuration avec spring boot"
 tags = ["spring boot", "configuration"]
+summary = "Externalisation de la configuration avec spring boot"
 +++
 
 * Exemple avec le paramtre spring.config.location :

@@ -1,8 +1,9 @@
 +++
-title = "Logger toutes les propriétés de Spring Boot "
+title = "Logger toutes les propriétés de Spring Boot"
 date = "2020-10-05"
-description = "Logger toutes les propriétés de Spring Boot "
-tags = ["java", "xsd"]
+description = "Logger toutes les propriétés de Spring Boot"
+tags = ["java", "log"]
+summary = "Logger toutes les propriétés de Spring Boot"
 +++
 
 Classe pour logguer toutes les propriétés avec Spring boot :
