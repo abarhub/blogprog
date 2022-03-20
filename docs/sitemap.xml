@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://abarhub.github.io/blogprog/</loc>
-    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/count_jpg_files/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/git/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/image/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/jpg/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/linux/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/powershell/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/shell/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/delete_merged_branche/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/windows/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/build/</loc>
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
@@ -12,9 +42,6 @@
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/maven/</loc>
-    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abarhub.github.io/blogprog/post/</loc>
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/post/springboot_version/</loc>
@@ -89,9 +116,6 @@
     <loc>https://abarhub.github.io/blogprog/post/exemple_shell_c/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/shell/</loc>
-    <lastmod>2021-05-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://abarhub.github.io/blogprog/post/java_doc/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -117,9 +141,6 @@
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/dos/</loc>
-    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/windows/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/java-security/</loc>
@@ -216,6 +237,9 @@
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/post/update_version_sh/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/classpath/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/date/</loc>

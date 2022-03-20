@@ -138,6 +138,42 @@
 
 <div class="post">
   <h2 class="post-item post-title">
+    <a href="https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/">Exemple de test paramétré </a>
+  </h2>
+  <div class="post-item post-meta">
+    <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-10-30</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;45 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/java">java</a>&nbsp;<a href="/blogprog/tags/junit5">junit5</a>&nbsp;<a href="/blogprog/tags/test">test</a>&nbsp;</span>
+
+  </div>
+  <div class="post-item post-summary markdown-body">
+    Exemple de test paramétré :
+class ParametreTest { @ParameterizedTest @MethodSource(&quot;provideStringsForIsBlank&quot;) void isBlank_ShouldReturnTrueForNullOrBlankStrings(String input, boolean expected) { assertEquals(expected, Strings.isBlank(input)); } private static Stream&lt;Arguments&gt; provideStringsForIsBlank() { return Stream.of( Arguments.of(null, true), Arguments.of(&quot;&quot;, true), Arguments.of(&quot; &quot;, true), Arguments.of(&quot;not blank&quot;, false) ); } }  Code basé sur le site Baeldung
+  </div>
+</div>
+
+<div class="post">
+  <h2 class="post-item post-title">
+    <a href="https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/">Accès à un fichier de ressource </a>
+  </h2>
+  <div class="post-item post-meta">
+    <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-06-18</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;46 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/java">java</a>&nbsp;<a href="/blogprog/tags/xsd">xsd</a>&nbsp;<a href="/blogprog/tags/test">test</a>&nbsp;<a href="/blogprog/tags/classpath">classpath</a>&nbsp;</span>
+
+  </div>
+  <div class="post-item post-summary markdown-body">
+    Accès à un fichier de ressource :
+// récupération du répertoire d'un fichier ressource File file = new File(getClass().getClassLoader().getResource(&quot;database.properties&quot;).getFile()); // lecture d'un fichier ressource InputStream inputStream = getClass().getClassLoader().getResourceAsStream(&quot;database.properties&quot;); // Dans les 2 cas, le fichier doit être src/main/resources/database.properties  Des exemples pour récupérérer le chemin : https://stackoverflow.com/questions/15713119/java-nio-file-path-for-a-classpath-resource
+  </div>
+</div>
+
+<div class="post">
+  <h2 class="post-item post-title">
     <a href="https://abarhub.github.io/blogprog/post/cjk-unicode-test/">CJK Unicode Test</a>
   </h2>
   <div class="post-item post-meta">
@@ -251,6 +287,10 @@
             </span>
             
             <span>
+                <a href="/blogprog/tags/classpath/">classpath</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/configuration/">configuration</a>
             </span>
             
@@ -275,11 +315,19 @@
             </span>
             
             <span>
+                <a href="/blogprog/tags/git/">git</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/helloworld/">helloworld</a>
             </span>
             
             <span>
                 <a href="/blogprog/tags/html/">html</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/image/">image</a>
             </span>
             
             <span>
@@ -295,11 +343,19 @@
             </span>
             
             <span>
+                <a href="/blogprog/tags/jpg/">jpg</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/junit5/">junit5</a>
             </span>
             
             <span>
                 <a href="/blogprog/tags/ligne-de-commande/">ligne de commande</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/linux/">linux</a>
             </span>
             
             <span>
@@ -344,6 +400,10 @@
             
             <span>
                 <a href="/blogprog/tags/plsql/">plsql</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/powershell/">powershell</a>
             </span>
             
             <span>
@@ -495,6 +555,10 @@
             </span>
             
             <span>
+                <a href="/blogprog/tags/classpath/">classpath</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/configuration/">configuration</a>
             </span>
             
@@ -519,11 +583,19 @@
             </span>
             
             <span>
+                <a href="/blogprog/tags/git/">git</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/helloworld/">helloworld</a>
             </span>
             
             <span>
                 <a href="/blogprog/tags/html/">html</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/image/">image</a>
             </span>
             
             <span>
@@ -539,11 +611,19 @@
             </span>
             
             <span>
+                <a href="/blogprog/tags/jpg/">jpg</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/junit5/">junit5</a>
             </span>
             
             <span>
                 <a href="/blogprog/tags/ligne-de-commande/">ligne de commande</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/linux/">linux</a>
             </span>
             
             <span>
@@ -588,6 +668,10 @@
             
             <span>
                 <a href="/blogprog/tags/plsql/">plsql</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/powershell/">powershell</a>
             </span>
             
             <span>

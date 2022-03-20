@@ -28,6 +28,26 @@
     </item>
     
     <item>
+      <title>Exemple de test paramétré </title>
+      <link>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</guid>
+      <description>Exemple de test paramétré :
+class ParametreTest { @ParameterizedTest @MethodSource(&amp;quot;provideStringsForIsBlank&amp;quot;) void isBlank_ShouldReturnTrueForNullOrBlankStrings(String input, boolean expected) { assertEquals(expected, Strings.isBlank(input)); } private static Stream&amp;lt;Arguments&amp;gt; provideStringsForIsBlank() { return Stream.of( Arguments.of(null, true), Arguments.of(&amp;quot;&amp;quot;, true), Arguments.of(&amp;quot; &amp;quot;, true), Arguments.of(&amp;quot;not blank&amp;quot;, false) ); } }  Code basé sur le site Baeldung</description>
+    </item>
+    
+    <item>
+      <title>Accès à un fichier de ressource </title>
+      <link>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</guid>
+      <description>Accès à un fichier de ressource :
+// récupération du répertoire d&#39;un fichier ressource File file = new File(getClass().getClassLoader().getResource(&amp;quot;database.properties&amp;quot;).getFile()); // lecture d&#39;un fichier ressource InputStream inputStream = getClass().getClassLoader().getResourceAsStream(&amp;quot;database.properties&amp;quot;); // Dans les 2 cas, le fichier doit être src/main/resources/database.properties  Des exemples pour récupérérer le chemin : https://stackoverflow.com/questions/15713119/java-nio-file-path-for-a-classpath-resource</description>
+    </item>
+    
+    <item>
       <title>CJK Unicode Test</title>
       <link>https://abarhub.github.io/blogprog/post/cjk-unicode-test/</link>
       <pubDate>Fri, 09 Mar 2018 00:00:00 +0800</pubDate>

@@ -38,7 +38,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://abarhub.github.io/blogprog/post/" /><meta property="og:image" content="https://abarhub.github.io/img/og.png" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://abarhub.github.io/img/og.png" /><meta property="og:updated_time" content="2022-02-20T00:00:00+00:00" />
+<meta name="twitter:image" content="https://abarhub.github.io/img/og.png" /><meta property="og:updated_time" content="2022-03-20T00:00:00+00:00" />
 
 
 <style>
@@ -103,6 +103,41 @@
                 
 
 
+
+<div class="post">
+    <h2 class="post-item post-title">
+        <a href="https://abarhub.github.io/blogprog/post/exemple_logger_java/">Exemple de loggeur avec slf4j</a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-06-24</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;19 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/java">java</a>&nbsp;<a href="/blogprog/tags/log">log</a>&nbsp;<a href="/blogprog/tags/slf4j">slf4j</a>&nbsp;</span>
+
+    </div>
+    <div class="post-item post-summary markdown-body">
+        public class ExempleLogger { private static final Logger LOGGER = LoggerFactory.getLogger(ExempleLogger.class); public void exemple(){ LOGGER.info(&quot;test {}&quot;, 52); } }  
+    </div>
+</div>
+
+<div class="post">
+    <h2 class="post-item post-title">
+        <a href="https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/">Accès à un fichier de ressource </a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-06-18</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;46 words</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/java">java</a>&nbsp;<a href="/blogprog/tags/xsd">xsd</a>&nbsp;<a href="/blogprog/tags/test">test</a>&nbsp;<a href="/blogprog/tags/classpath">classpath</a>&nbsp;</span>
+
+    </div>
+    <div class="post-item post-summary markdown-body">
+        Accès à un fichier de ressource :
+// récupération du répertoire d'un fichier ressource File file = new File(getClass().getClassLoader().getResource(&quot;database.properties&quot;).getFile()); // lecture d'un fichier ressource InputStream inputStream = getClass().getClassLoader().getResourceAsStream(&quot;database.properties&quot;); // Dans les 2 cas, le fichier doit être src/main/resources/database.properties  Des exemples pour récupérérer le chemin : https://stackoverflow.com/questions/15713119/java-nio-file-path-for-a-classpath-resource
+    </div>
+</div>
 
 <div class="post">
     <h2 class="post-item post-title">
@@ -258,47 +293,6 @@ https://www.baeldung.com/spring-tutorial
 </ul>
     </div>
 </div>
-
-<div class="post">
-    <h2 class="post-item post-title">
-        <a href="https://abarhub.github.io/blogprog/post/placeholder-text/">Placeholder Text</a>
-    </h2>
-    <div class="post-item post-meta">
-        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2019-03-09</span>
-
-<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;269 words</span>
-
-<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/markdown">markdown</a>&nbsp;<a href="/blogprog/tags/text">text</a>&nbsp;</span>
-
-    </div>
-    <div class="post-item post-summary markdown-body">
-        <p>Lorem est tota propiore conpellat pectoribus de
-pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
-caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
-lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
-    </div>
-</div>
-
-<div class="post">
-    <h2 class="post-item post-title">
-        <a href="https://abarhub.github.io/blogprog/post/emoji-support/">Emoji Support</a>
-    </h2>
-    <div class="post-item post-meta">
-        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2019-03-05</span>
-
-<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;138 words</span>
-
-<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/emoji">emoji</a>&nbsp;</span>
-
-    </div>
-    <div class="post-item post-summary markdown-body">
-        <p>Emoji can be enabled in a Hugo project in a number of ways.</p>
-<p>The <a href="https://gohugo.io/functions/emojify/" target="_blank"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes" target="_blank">Inline Shortcodes</a>.</p>
-<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site’s <a href="https://gohugo.io/getting-started/configuration/" target="_blank">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
-<p><code>:s ee_no_evil:[Remove the space]</code> 🙈 <code>:h ear_no_evil:[Remove the space]</code> 🙉 <code>:s peak_no_evil:[Remove the space]</code> 🙊</p>
-    </div>
-</div>
 <div class="pagination"><div class="pag-first">
     <a href="/blogprog/post/"><i class="iconfont icon-caret-back-circle-sharp"></i></a>
   </div><div class="pag-previous">
@@ -396,6 +390,10 @@ lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
             </span>
             
             <span>
+                <a href="/blogprog/tags/classpath/">classpath</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/configuration/">configuration</a>
             </span>
             
@@ -420,11 +418,19 @@ lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
             </span>
             
             <span>
+                <a href="/blogprog/tags/git/">git</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/helloworld/">helloworld</a>
             </span>
             
             <span>
                 <a href="/blogprog/tags/html/">html</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/image/">image</a>
             </span>
             
             <span>
@@ -440,11 +446,19 @@ lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
             </span>
             
             <span>
+                <a href="/blogprog/tags/jpg/">jpg</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/junit5/">junit5</a>
             </span>
             
             <span>
                 <a href="/blogprog/tags/ligne-de-commande/">ligne de commande</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/linux/">linux</a>
             </span>
             
             <span>
@@ -489,6 +503,10 @@ lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
             
             <span>
                 <a href="/blogprog/tags/plsql/">plsql</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/powershell/">powershell</a>
             </span>
             
             <span>
@@ -640,6 +658,10 @@ lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
             </span>
             
             <span>
+                <a href="/blogprog/tags/classpath/">classpath</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/configuration/">configuration</a>
             </span>
             
@@ -664,11 +686,19 @@ lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
             </span>
             
             <span>
+                <a href="/blogprog/tags/git/">git</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/helloworld/">helloworld</a>
             </span>
             
             <span>
                 <a href="/blogprog/tags/html/">html</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/image/">image</a>
             </span>
             
             <span>
@@ -684,11 +714,19 @@ lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
             </span>
             
             <span>
+                <a href="/blogprog/tags/jpg/">jpg</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/junit5/">junit5</a>
             </span>
             
             <span>
                 <a href="/blogprog/tags/ligne-de-commande/">ligne de commande</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/linux/">linux</a>
             </span>
             
             <span>
@@ -733,6 +771,10 @@ lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
             
             <span>
                 <a href="/blogprog/tags/plsql/">plsql</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/powershell/">powershell</a>
             </span>
             
             <span>

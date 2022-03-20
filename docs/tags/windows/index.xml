@@ -6,7 +6,16 @@
     <description>Recent content in windows on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Suppression des branches mergées</title>
+      <link>https://abarhub.github.io/blogprog/post/delete_merged_branche/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/delete_merged_branche/</guid>
+      <description>Suppression des branches mergées</description>
+    </item>
+    
     <item>
       <title>Commandes sous dos</title>
       <link>https://abarhub.github.io/blogprog/post/exemple_env_bat/</link>
