@@ -2,7 +2,7 @@
 title = "Accès à un fichier de ressource "
 date = "2020-06-18"
 description = "Accès à un fichier de ressource "
-tags = ["java", "xsd"]
+tags = ["java", "xsd", "test", "classpath"]
 +++
 
 Accès à un fichier de ressource :

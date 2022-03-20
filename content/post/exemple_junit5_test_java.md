@@ -2,7 +2,7 @@
 title = "Exemple de test paramétré "
 date = "2020-10-30"
 description = "Exemple de test paramétré "
-tags = ["java", "junit5"]
+tags = ["java", "junit5", "test"]
 +++
 
 Exemple de test paramétré :
