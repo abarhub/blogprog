@@ -16,6 +16,7 @@
       <description>&lt;div class=&#34;post-player-wrapper&#34;&gt;
   &lt;div
     class=&#34;post-aplayer&#34;
+    data-base=&#34;https://abarhub.github.io/blogprog&#34;
     data-urls=&#34;/theme/hugo-theme-fuji/aplayer/berlin.mp3&#34;
     data-names=&#34;Berlin&#34;
     data-artists=&#34;Crowander&#34;

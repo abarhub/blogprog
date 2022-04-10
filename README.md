@@ -12,7 +12,7 @@ Pour générer les pages :
 ```shell
 hugo -D
 ```
-Les fichiers sont générés dans le répertoire docs. Il penser a supprimer le contenu avant de lancer la génération.
+Les fichiers sont générés dans le répertoire docs/. Il faut penser à supprimer le contenu avant de lancer la génération.
 
 
 Le site généré est [ici](https://abarhub.github.io/blogprog/).
