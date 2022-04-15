@@ -2,7 +2,7 @@
 title = "Débugage avec Angular"
 date = "2021-05-08"
 description = "Débugage avec Angular"
-tags = ["spring boot", "configuration"]
+tags = ["angular", "debug"]
 summary = "Débugage avec Angular"
 +++
 

@@ -2,7 +2,7 @@
 title = "Débugage spring"
 date = "2021-03-06"
 description = "Débugage spring"
-tags = ["java", "spring", "spring boot"]
+tags = ["java", "spring", "spring boot", "debug"]
 summary = "Débugage spring"
 +++
 
