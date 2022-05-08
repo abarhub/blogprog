@@ -5,8 +5,26 @@
     <link>https://abarhub.github.io/blogprog/post/</link>
     <description>Recent content in Posts on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 23 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devoxx 2022</title>
+      <link>https://abarhub.github.io/blogprog/post/devoxx_2022/</link>
+      <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/devoxx_2022/</guid>
+      <description>Devoxx 2022 du 20 au 22 avril</description>
+    </item>
+    
+    <item>
+      <title>Encode et décode en Base64</title>
+      <link>https://abarhub.github.io/blogprog/post/base64/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/base64/</guid>
+      <description>Encode et décode en Base64 des fichiers sous Linux et Windows</description>
+    </item>
+    
     <item>
       <title>Angular cheatsheet</title>
       <link>https://abarhub.github.io/blogprog/post/angular_cheatsheet/</link>

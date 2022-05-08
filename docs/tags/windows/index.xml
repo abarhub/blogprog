@@ -5,8 +5,17 @@
     <link>https://abarhub.github.io/blogprog/tags/windows/</link>
     <description>Recent content in windows on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 27 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Encode et décode en Base64</title>
+      <link>https://abarhub.github.io/blogprog/post/base64/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/base64/</guid>
+      <description>Encode et décode en Base64 des fichiers sous Linux et Windows</description>
+    </item>
+    
     <item>
       <title>Internal Programming</title>
       <link>https://abarhub.github.io/blogprog/post/internal_programming/</link>

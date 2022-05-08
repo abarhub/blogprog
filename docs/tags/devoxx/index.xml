@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devoxx on Blog de programmation</title>
+    <link>https://abarhub.github.io/blogprog/tags/devoxx/</link>
+    <description>Recent content in devoxx on Blog de programmation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 23 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/devoxx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devoxx 2022</title>
+      <link>https://abarhub.github.io/blogprog/post/devoxx_2022/</link>
+      <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/devoxx_2022/</guid>
+      <description>Devoxx 2022 du 20 au 22 avril</description>
+    </item>
+    
+  </channel>
+</rss>
