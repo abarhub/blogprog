@@ -26,12 +26,12 @@ git branch -r --merged | grep -v '\*\|master\|main\|develop' | sed 's/origin\///
 
 Suppression des branches locales mergées
 ```Powershell
-git branch --format "%(refname:short)" -r --merged develop | Select-String "develop|master|HEAD" -notMatch | Out-GridView -PassThru | % { git branch -d $_ }
+git branch --format "%(refname:short)" --merged develop | Select-String "develop|master|HEAD" -notMatch | where{$_ -ne ""} | Out-GridView -PassThru | % { git branch -d $_ }
 ```
 
-Suppression des branches distantes mergées (ne marche pas)
+Suppression des branches distantes mergées
 ```Powershell
-git branch --format "%(refname:short)" -r --merged develop | Select-String "develop|master|HEAD" -notMatch | Out-String -Stream  | ($_) -replace "\(origin\/\)","" | Out-GridView -PassThru | % {  echo $_  }
+git branch --format "%(refname:short)" -r --merged develop | Select-String "develop|master|HEAD" -notMatch | Out-String -Stream | where{$_ -ne ""} | Out-GridView -PassThru | Foreach-Object { ($_) -replace "origin\/","" } | where{$_ -ne ""} | % {  git push origin --delete $_  }
 ```
 
 cf :
