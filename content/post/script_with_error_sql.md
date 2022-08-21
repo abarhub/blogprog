@@ -10,3 +10,6 @@ tags = ["sql", "plsql"]
 -- a utiliser au début d'un script
 WHENEVER SQLERROR EXIT FAILURE
 ```
+
+<!--more-->
+

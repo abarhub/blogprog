@@ -1,8 +1,9 @@
 +++
-title = "Gestion des dates en oracle "
+title = "Gestion des dates en oracle"
 date = "2020-10-05"
-description = "Gestion des dates en oracle "
+description = "Gestion des dates en oracle"
 tags = ["sql"]
+summary = "Gestion des dates en oracle"
 +++
 
 

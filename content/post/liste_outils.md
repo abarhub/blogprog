@@ -54,6 +54,7 @@ Voici une liste d'outils :
 * [mkcert](https://github.com/FiloSottile/mkcert) : création de certificat local
 * [ugrep](https://github.com/Genivia/ugrep) : recherche dans les archives zip/gz/etc...
 * [csvkit](https://github.com/wireservice/csvkit) : traitement de fichier CSV
+* [fzf](https://github.com/junegunn/fzf) : outils pour filter les fichiers à traiter
 
 # Analyses des logs
 

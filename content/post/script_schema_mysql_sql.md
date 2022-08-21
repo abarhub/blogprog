@@ -1,8 +1,9 @@
 +++
-title = "Script de création d'un schéma Mysql avec l'utilisateur "
+title = "Script de création d'un schéma Mysql avec l'utilisateur"
 date = "2021-01-01"
-description = "Script de création d'un schéma Mysql avec l'utilisateur "
+description = "Script de création d'un schéma Mysql avec l'utilisateur"
 tags = ["sql", "MySQL"]
+summary = "Script de création d'un schéma Mysql avec l'utilisateur"
 +++
 
 Voici un exemple pour créer un utiliser MySQL et le schéma associé :

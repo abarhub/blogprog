@@ -1,8 +1,9 @@
 +++
-title = "Aide mémoire sur ElasticSearch "
+title = "Aide mémoire sur ElasticSearch"
 date = "2020-06-18"
-description = "Aide mémoire sur ElasticSearch "
-tags = ["elasticsearch"]
+description = "Aide mémoire sur ElasticSearch"
+tags = ["elasticsearch","cheatsheet"]
+summary = "Aide mémoire sur ElasticSearch"
 +++
 
 Aide mémoires des requetes ElasticSearch :

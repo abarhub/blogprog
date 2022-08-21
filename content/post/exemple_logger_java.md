@@ -3,6 +3,7 @@ title = "Exemple de loggeur avec slf4j"
 date = "2020-06-24"
 description = "Exemple de loggeur avec slf4j"
 tags = ["java", "log", "slf4j"]
+summary = "Exemple de loggeur avec slf4j"
 +++
 
 

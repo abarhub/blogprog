@@ -2,7 +2,7 @@
 title = "Angular cheatsheet"
 date = "2022-04-03"
 description = "Angular cheatsheet"
-tags = ["angular"]
+tags = ["angular","cheatsheet"]
 summary = "Angular cheatsheet"
 +++
 

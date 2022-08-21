@@ -1,8 +1,9 @@
 +++
-title = "tutorial bootstrap 4 "
+title = "Tutoriel bootstrap 4"
 date = "2020-07-25"
-description = "tutorial bootstrap 4 "
+description = "Tutoriel bootstrap 4"
 tags = ["bootstrap", "css"]
+summary = "Tutoriel bootstrap 4"
 +++
 
 

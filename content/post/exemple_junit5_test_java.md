@@ -1,8 +1,9 @@
 +++
-title = "Exemple de test paramétré "
+title = "Exemple de test paramétré"
 date = "2020-10-30"
-description = "Exemple de test paramétré "
+description = "Exemple de test paramétré"
 tags = ["java", "junit5", "test"]
+summary = "Exemple de test paramétré"
 +++
 
 Exemple de test paramétré :

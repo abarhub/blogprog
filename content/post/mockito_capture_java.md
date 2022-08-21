@@ -1,8 +1,9 @@
 +++
-title = "Capture des paramètres avec Mockito "
+title = "Capture des paramètres avec Mockito"
 date = "2020-06-18"
-description = "Capture des paramètres avec Mockito "
-tags = ["java", "mockito"]
+description = "Capture des paramètres avec Mockito"
+tags = ["java", "mockito", "test"]
+summary = "Capture des paramètres avec Mockito"
 +++
 
 

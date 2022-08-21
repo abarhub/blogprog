@@ -1,8 +1,9 @@
 +++
-title = "Accès à un fichier de ressource "
+title = "Accès à un fichier de ressource"
 date = "2020-06-18"
-description = "Accès à un fichier de ressource "
+description = "Accès à un fichier de ressource"
 tags = ["java", "xsd", "test", "classpath"]
+summary = "Accès à un fichier de ressource"
 +++
 
 Accès à un fichier de ressource :

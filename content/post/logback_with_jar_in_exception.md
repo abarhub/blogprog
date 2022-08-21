@@ -1,8 +1,9 @@
 +++
-title = "Ajout des jar dans la stacktrace pour LogBack "
+title = "Ajout des jar dans la stacktrace pour LogBack"
 date = "2020-10-08"
-description = "Validation par xsd en gérant la résolution des xsd"
+description = "Ajout des jar dans la stacktrace pour LogBack"
 tags = ["java", "logback"]
+summary = "Ajout des jar dans la stacktrace pour LogBack"
 +++
 
 Pour avoir les jar dans les exceptions, il faut mettre 'packagingData="true"' dans la configuration :

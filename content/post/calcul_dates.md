@@ -1,8 +1,9 @@
 +++
-title = "Calcul de dates "
+title = "Calcul de dates"
 date = "2020-06-18"
-description = "Calcul de dates "
+description = "Calcul de dates"
 tags = ["date"]
+summary = "Calcul de dates"
 +++
 
 

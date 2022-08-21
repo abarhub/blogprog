@@ -1,8 +1,9 @@
 +++
-title = "Création d'un composant avec un module et une route "
+title = "Création d'un composant avec un module et une route"
 date = "2020-09-16"
-description = "Création d'un composant avec un module et une route "
+description = "Création d'un composant avec un module et une route"
 tags = ["shell", "angular"]
+summary = "Création d'un composant avec un module et une route"
 +++
 
 Voici les commandes pour créer un module, puis un composant associé a ce module :
