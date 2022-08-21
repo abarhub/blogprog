@@ -6,7 +6,108 @@
     <description>Recent content on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 23 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Execution du plugin maven dependancy tree en indiquant la version</title>
+      <link>https://abarhub.github.io/blogprog/post/depandancy_tree_version/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/depandancy_tree_version/</guid>
+      <description>&lt;p&gt;Pour executer la commande dependency-tree en fixant la version, il faut executer la commande :&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;mvn org.apache.maven.plugins:maven-dependency-plugin:3.3.0:tree
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistique de codage</title>
+      <link>https://abarhub.github.io/blogprog/post/stat_coding/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/stat_coding/</guid>
+      <description>Statistique de codage</description>
+    </item>
+    
+    <item>
+      <title>Exemple de requete en elasticsearch</title>
+      <link>https://abarhub.github.io/blogprog/post/elasticsearch_cheat_sheet/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/elasticsearch_cheat_sheet/</guid>
+      <description>Exemple de requete en elasticsearch</description>
+    </item>
+    
+    <item>
+      <title>Librairie pour usage standard en Golang</title>
+      <link>https://abarhub.github.io/blogprog/post/go_library/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/go_library/</guid>
+      <description>Librairie pour usage standard en Golang</description>
+    </item>
+    
+    <item>
+      <title>Java Code analyser</title>
+      <link>https://abarhub.github.io/blogprog/post/java_code_analyser/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/java_code_analyser/</guid>
+      <description>Java Code analyser</description>
+    </item>
+    
+    <item>
+      <title>Liste de langages</title>
+      <link>https://abarhub.github.io/blogprog/post/langages/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/langages/</guid>
+      <description>Liste de langages</description>
+    </item>
+    
+    <item>
+      <title>C library and tools</title>
+      <link>https://abarhub.github.io/blogprog/post/c_library_tools/</link>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/c_library_tools/</guid>
+      <description>C library and tools</description>
+    </item>
+    
+    <item>
+      <title>Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex</title>
+      <link>https://abarhub.github.io/blogprog/post/grid_flex_css/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/grid_flex_css/</guid>
+      <description>Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex</description>
+    </item>
+    
+    <item>
+      <title>Unsubscribe des observables</title>
+      <link>https://abarhub.github.io/blogprog/post/unsubscribe/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/unsubscribe/</guid>
+      <description>Unsubscribe des observables</description>
+    </item>
+    
+    <item>
+      <title>Injection un fichier dans du json en l&#39;encodant en base64</title>
+      <link>https://abarhub.github.io/blogprog/post/include_file_in_json/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/include_file_in_json/</guid>
+      <description>Injecter un fichier dans du json en l&amp;rsquo;encodant en base64</description>
+    </item>
+    
+    <item>
+      <title>Gestion de la batterie sous Windows</title>
+      <link>https://abarhub.github.io/blogprog/post/battery/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/battery/</guid>
+      <description>Test de la batterie sous windows pour PC Portable</description>
+    </item>
+    
     <item>
       <title>Devoxx 2022</title>
       <link>https://abarhub.github.io/blogprog/post/devoxx_2022/</link>
@@ -104,7 +205,7 @@
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/helloworld_python/</guid>
-      <description>def main(): print(&amp;quot;Hello World!&amp;quot;) if __name__ == &amp;quot;__main__&amp;quot;: main()  </description>
+      <description>Hello world en Python</description>
     </item>
     
     <item>
@@ -255,43 +356,39 @@
     </item>
     
     <item>
-      <title>Script de création d&#39;un schéma Mysql avec l&#39;utilisateur </title>
+      <title>Script de création d&#39;un schéma Mysql avec l&#39;utilisateur</title>
       <link>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</guid>
-      <description>Voici un exemple pour créer un utiliser MySQL et le schéma associé :
-CREATE USER &#39;monutilisateur&#39;@&#39;localhost&#39; IDENTIFIED BY &#39;1234&#39;; CREATE DATABASE monschema CHARACTER SET utf8 COLLATE utf8_unicode_ci; GRANT ALL PRIVILEGES ON monschema.* TO &#39;monutilisateur&#39;@&#39;localhost&#39;; FLUSH PRIVILEGES;  </description>
+      <description>Script de création d&amp;rsquo;un schéma Mysql avec l&amp;rsquo;utilisateur</description>
     </item>
     
     <item>
-      <title>Exemple de test paramétré </title>
+      <title>Exemple de test paramétré</title>
       <link>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</guid>
-      <description>Exemple de test paramétré :
-class ParametreTest { @ParameterizedTest @MethodSource(&amp;quot;provideStringsForIsBlank&amp;quot;) void isBlank_ShouldReturnTrueForNullOrBlankStrings(String input, boolean expected) { assertEquals(expected, Strings.isBlank(input)); } private static Stream&amp;lt;Arguments&amp;gt; provideStringsForIsBlank() { return Stream.of( Arguments.of(null, true), Arguments.of(&amp;quot;&amp;quot;, true), Arguments.of(&amp;quot; &amp;quot;, true), Arguments.of(&amp;quot;not blank&amp;quot;, false) ); } }  Code basé sur le site Baeldung</description>
+      <description>Exemple de test paramétré</description>
     </item>
     
     <item>
-      <title>Ajout des jar dans la stacktrace pour LogBack </title>
+      <title>Ajout des jar dans la stacktrace pour LogBack</title>
       <link>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</guid>
-      <description>Pour avoir les jar dans les exceptions, il faut mettre &amp;lsquo;packagingData=&amp;ldquo;true&amp;rdquo;&amp;rsquo; dans la configuration :
-&amp;lt;configuration packagingData=&amp;quot;true&amp;quot;&amp;gt; ... &amp;lt;/configuration&amp;gt;  Cela donne des exceptions de la forme :
-14:28:48.835 [btpool0-7] INFO c.q.l.demo.prime.PrimeAction - 99 is not a valid value java.lang.Exception: 99 is invalid at ch.qos.logback.demo.prime.PrimeAction.execute(PrimeAction.java:28) [classes/:na] at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:431) [struts-1.2.9.jar:1.2.9] at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:236) [struts-1.2.9.jar:1.2.9] at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:432) [struts-1.2.9.jar:1.2.9] at javax.servlet.http.HttpServlet.service(HttpServlet.java:820) [servlet-api-2.5-6.1.12.jar:6.1.12] at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:502) [jetty-6.1.12.jar:6.1.12] at ch.qos.logback.demo.UserServletFilter.doFilter(UserServletFilter.java:44) [classes/:na] at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1115) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:361) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:417) [jetty-6.1.12.jar:6.1.12] at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:230) [jetty-6.1.12.jar:6.1.12]  Voir ici plus plus d&amp;rsquo;information : http://logback.qos.ch/manual/layouts.html#xThrowable</description>
+      <description>Ajout des jar dans la stacktrace pour LogBack</description>
     </item>
     
     <item>
-      <title>Gestion des dates en oracle </title>
+      <title>Gestion des dates en oracle</title>
       <link>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</guid>
-      <description>-- affichage de dates select to_char( mon_champs, &#39;dd-mm-yyyy hh24:mi:ss&#39; ) from ma_table; -- affichage de la date et de l&#39;heure de la session ALTER SESSION SET NLS_DATE_FORMAT = &#39;dd-mm-yyyy hh24:mi:ss&#39;; -- insertion d&#39;une date dans un champs insert into ma_table(ID, START_DATE) values (3,TO_DATE(&#39;20200301&#39;,&#39;YYYYMMDD&#39;)); -- recherche de données entre deux dates select * from ma_table where START_DATE BETWEEN TO_DATE(&#39;28-02-2014 10:15:00&#39;, &#39;dd-mm-yyyy hh24:mi:ss&#39;) AND TO_DATE(&#39;20-06-2014 16:34:00&#39;, &#39;dd-mm-yyyy hh24:mi:ss&#39;);  </description>
+      <description>Gestion des dates en oracle</description>
     </item>
     
     <item>
@@ -304,41 +401,30 @@ class ParametreTest { @ParameterizedTest @MethodSource(&amp;quot;provideStringsF
     </item>
     
     <item>
-      <title>Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances </title>
-      <link>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirrement_txt_sh/</link>
+      <title>Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances</title>
+      <link>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirrement_txt_sh/</guid>
-      <description>Voici les commandes pour installer ou désinstaller un module python :
-# install module python : pip install flask # desinstalle module python : pip uninstall flask # recré le fichier requirements.txt : pip3 freeze &amp;gt; requirements.txt  </description>
+      <guid>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</guid>
+      <description>Installation ou désinstallation d&amp;rsquo;un module Python. Création du fichier requirements.txt avec les dépendances</description>
     </item>
     
     <item>
-      <title>Création d&#39;un composant avec un module et une route </title>
+      <title>Création d&#39;un composant avec un module et une route</title>
       <link>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</guid>
-      <description>Voici les commandes pour créer un module, puis un composant associé a ce module :
-ng generate module app/modules/monmodule --routing=true ng generate component app/modules/monmodule/moncomposant -m=app/modules/monmodule  </description>
+      <description>Création d&amp;rsquo;un composant avec un module et une route</description>
     </item>
     
     <item>
-      <title>tutorial bootstrap 4 </title>
+      <title>Tutoriel bootstrap 4</title>
       <link>https://abarhub.github.io/blogprog/post/site_bootstrap_tutorial/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/site_bootstrap_tutorial/</guid>
-      <description>tutorial https://mdbootstrap.com/docs/jquery/utilities/borders/
-https://www.w3schools.com/bootstrap4/bootstrap_ref_all_classes.asp
-https://getbootstrap.com/docs/4.5/getting-started/browsers-devices/#supported-browsers
-https://getbootstrap.com/docs/4.0/components/card/
-ng bootstrap https://github.com/ng-bootstrap/ng-bootstrap
-awesome bootstrap https://github.com/therebelrobot/awesome-bootstrap
-cheat sheet https://hackerthemes.com/bootstrap-cheatsheet/
-https://websitesetup.org/bootstrap-cheat-sheet/
-https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/
-https://www.creative-tim.com/cheatsheet/bootstrap4</description>
+      <description>Tutoriel bootstrap 4</description>
     </item>
     
     <item>
@@ -347,45 +433,43 @@ https://www.creative-tim.com/cheatsheet/bootstrap4</description>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/exemple_logger_java/</guid>
-      <description>public class ExempleLogger { private static final Logger LOGGER = LoggerFactory.getLogger(ExempleLogger.class); public void exemple(){ LOGGER.info(&amp;quot;test {}&amp;quot;, 52); } }  </description>
+      <description>Exemple de loggeur avec slf4j</description>
     </item>
     
     <item>
-      <title>Accès à un fichier de ressource </title>
+      <title>Accès à un fichier de ressource</title>
       <link>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</guid>
-      <description>Accès à un fichier de ressource :
-// récupération du répertoire d&#39;un fichier ressource File file = new File(getClass().getClassLoader().getResource(&amp;quot;database.properties&amp;quot;).getFile()); // lecture d&#39;un fichier ressource InputStream inputStream = getClass().getClassLoader().getResourceAsStream(&amp;quot;database.properties&amp;quot;); // Dans les 2 cas, le fichier doit être src/main/resources/database.properties  Des exemples pour récupérérer le chemin : https://stackoverflow.com/questions/15713119/java-nio-file-path-for-a-classpath-resource</description>
+      <description>Accès à un fichier de ressource</description>
     </item>
     
     <item>
-      <title>Aide mémoire sur ElasticSearch </title>
+      <title>Aide mémoire sur ElasticSearch</title>
       <link>https://abarhub.github.io/blogprog/post/elasticsearch/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/elasticsearch/</guid>
-      <description>Aide mémoires des requetes ElasticSearch : https://elasticsearch-cheatsheet.jolicode.com/ https://gist.github.com/ruanbekker/e8a09604b14f37e8d2f743a87b930f93 https://github.com/adelean/elasticsearch-cheatsheet https://www.bmc.com/blogs/elasticsearch-commands/</description>
+      <description>Aide mémoire sur ElasticSearch</description>
     </item>
     
     <item>
-      <title>Calcul de dates </title>
+      <title>Calcul de dates</title>
       <link>https://abarhub.github.io/blogprog/post/calcul_dates/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/calcul_dates/</guid>
-      <description>calcul de date : https://icalendrier.fr/outils/ajouter-retirer-date
-récupération de la date en epoch : https://www.epochconverter.com/</description>
+      <description>Calcul de dates</description>
     </item>
     
     <item>
-      <title>Capture des paramètres avec Mockito </title>
+      <title>Capture des paramètres avec Mockito</title>
       <link>https://abarhub.github.io/blogprog/post/mockito_capture_java/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/mockito_capture_java/</guid>
-      <description>ArgumentCapto&amp;lt;Person&amp;gt; peopleCaptor = ArgumentCaptor.forClass(Person.class); verify(mock, times(2)).doSomething(peopleCaptor.capture()); List&amp;lt;Person&amp;gt; capturedPeople = peopleCaptor.getAllValues(); assertEquals(&amp;quot;John&amp;quot;, capturedPeople.get(0).getName()); assertEquals(&amp;quot;Jane&amp;quot;, capturedPeople.get(1).getName());  </description>
+      <description>Capture des paramètres avec Mockito</description>
     </item>
     
     <item>
@@ -394,7 +478,12 @@ récupération de la date en epoch : https://www.epochconverter.com/</descriptio
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/update_version_sh/</guid>
-      <description>Changement de version des pom</description>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;# changement de version des pom
+mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT
+
+# changement de version des pom sans backup
+mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT -DgenerateBackupPoms=false
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -414,7 +503,10 @@ https://www.baeldung.com/spring-tutorial</description>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/script_with_error_sql/</guid>
-      <description>-- pour stoper l&#39;execution à la première erreur -- a utiliser au début d&#39;un script WHENEVER SQLERROR EXIT FAILURE  </description>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-sql&#34;&gt;-- pour stoper l&#39;execution à la première erreur
+-- a utiliser au début d&#39;un script
+WHENEVER SQLERROR EXIT FAILURE
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>

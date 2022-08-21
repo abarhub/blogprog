@@ -8,13 +8,12 @@
     <language>fr-FR</language>
     <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/date/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Calcul de dates </title>
+      <title>Calcul de dates</title>
       <link>https://abarhub.github.io/blogprog/post/calcul_dates/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/calcul_dates/</guid>
-      <description>calcul de date : https://icalendrier.fr/outils/ajouter-retirer-date
-récupération de la date en epoch : https://www.epochconverter.com/</description>
+      <description>Calcul de dates</description>
     </item>
     
   </channel>

@@ -13,7 +13,10 @@
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/script_with_error_sql/</guid>
-      <description>-- pour stoper l&#39;execution à la première erreur -- a utiliser au début d&#39;un script WHENEVER SQLERROR EXIT FAILURE  </description>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-sql&#34;&gt;-- pour stoper l&#39;execution à la première erreur
+-- a utiliser au début d&#39;un script
+WHENEVER SQLERROR EXIT FAILURE
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
   </channel>

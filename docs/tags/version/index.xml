@@ -22,7 +22,12 @@
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/update_version_sh/</guid>
-      <description>Changement de version des pom</description>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;# changement de version des pom
+mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT
+
+# changement de version des pom sans backup
+mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT -DgenerateBackupPoms=false
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
   </channel>

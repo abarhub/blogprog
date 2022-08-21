@@ -6,14 +6,23 @@
     <description>Recent content in elasticsearch on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Aide mémoire sur ElasticSearch </title>
+      <title>Exemple de requete en elasticsearch</title>
+      <link>https://abarhub.github.io/blogprog/post/elasticsearch_cheat_sheet/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/elasticsearch_cheat_sheet/</guid>
+      <description>Exemple de requete en elasticsearch</description>
+    </item>
+    
+    <item>
+      <title>Aide mémoire sur ElasticSearch</title>
       <link>https://abarhub.github.io/blogprog/post/elasticsearch/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/elasticsearch/</guid>
-      <description>Aide mémoires des requetes ElasticSearch : https://elasticsearch-cheatsheet.jolicode.com/ https://gist.github.com/ruanbekker/e8a09604b14f37e8d2f743a87b930f93 https://github.com/adelean/elasticsearch-cheatsheet https://www.bmc.com/blogs/elasticsearch-commands/</description>
+      <description>Aide mémoire sur ElasticSearch</description>
     </item>
     
   </channel>

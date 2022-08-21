@@ -6,7 +6,18 @@
     <description>Recent content in maven on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/maven/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/maven/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Execution du plugin maven dependancy tree en indiquant la version</title>
+      <link>https://abarhub.github.io/blogprog/post/depandancy_tree_version/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/depandancy_tree_version/</guid>
+      <description>&lt;p&gt;Pour executer la commande dependency-tree en fixant la version, il faut executer la commande :&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;mvn org.apache.maven.plugins:maven-dependency-plugin:3.3.0:tree
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
     <item>
       <title>Récupérer la version avec spring boot</title>
       <link>https://abarhub.github.io/blogprog/post/springboot_version/</link>
@@ -40,7 +51,12 @@
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/update_version_sh/</guid>
-      <description>Changement de version des pom</description>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;# changement de version des pom
+mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT
+
+# changement de version des pom sans backup
+mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT -DgenerateBackupPoms=false
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
   </channel>

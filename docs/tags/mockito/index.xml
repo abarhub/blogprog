@@ -8,12 +8,12 @@
     <language>fr-FR</language>
     <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/mockito/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Capture des paramètres avec Mockito </title>
+      <title>Capture des paramètres avec Mockito</title>
       <link>https://abarhub.github.io/blogprog/post/mockito_capture_java/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/mockito_capture_java/</guid>
-      <description>ArgumentCapto&amp;lt;Person&amp;gt; peopleCaptor = ArgumentCaptor.forClass(Person.class); verify(mock, times(2)).doSomething(peopleCaptor.capture()); List&amp;lt;Person&amp;gt; capturedPeople = peopleCaptor.getAllValues(); assertEquals(&amp;quot;John&amp;quot;, capturedPeople.get(0).getName()); assertEquals(&amp;quot;Jane&amp;quot;, capturedPeople.get(1).getName());  </description>
+      <description>Capture des paramètres avec Mockito</description>
     </item>
     
   </channel>

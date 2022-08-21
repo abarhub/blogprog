@@ -13,17 +13,16 @@
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/helloworld_python/</guid>
-      <description>def main(): print(&amp;quot;Hello World!&amp;quot;) if __name__ == &amp;quot;__main__&amp;quot;: main()  </description>
+      <description>Hello world en Python</description>
     </item>
     
     <item>
-      <title>Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances </title>
-      <link>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirrement_txt_sh/</link>
+      <title>Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances</title>
+      <link>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirrement_txt_sh/</guid>
-      <description>Voici les commandes pour installer ou désinstaller un module python :
-# install module python : pip install flask # desinstalle module python : pip uninstall flask # recré le fichier requirements.txt : pip3 freeze &amp;gt; requirements.txt  </description>
+      <guid>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</guid>
+      <description>Installation ou désinstallation d&amp;rsquo;un module Python. Création du fichier requirements.txt avec les dépendances</description>
     </item>
     
   </channel>

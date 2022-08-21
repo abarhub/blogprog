@@ -17,13 +17,12 @@
     </item>
     
     <item>
-      <title>Script de création d&#39;un schéma Mysql avec l&#39;utilisateur </title>
+      <title>Script de création d&#39;un schéma Mysql avec l&#39;utilisateur</title>
       <link>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</guid>
-      <description>Voici un exemple pour créer un utiliser MySQL et le schéma associé :
-CREATE USER &#39;monutilisateur&#39;@&#39;localhost&#39; IDENTIFIED BY &#39;1234&#39;; CREATE DATABASE monschema CHARACTER SET utf8 COLLATE utf8_unicode_ci; GRANT ALL PRIVILEGES ON monschema.* TO &#39;monutilisateur&#39;@&#39;localhost&#39;; FLUSH PRIVILEGES;  </description>
+      <description>Script de création d&amp;rsquo;un schéma Mysql avec l&amp;rsquo;utilisateur</description>
     </item>
     
   </channel>

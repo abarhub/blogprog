@@ -6,7 +6,16 @@
     <description>Recent content in angular on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unsubscribe des observables</title>
+      <link>https://abarhub.github.io/blogprog/post/unsubscribe/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/unsubscribe/</guid>
+      <description>Unsubscribe des observables</description>
+    </item>
+    
     <item>
       <title>Angular cheatsheet</title>
       <link>https://abarhub.github.io/blogprog/post/angular_cheatsheet/</link>
@@ -44,13 +53,12 @@
     </item>
     
     <item>
-      <title>Création d&#39;un composant avec un module et une route </title>
+      <title>Création d&#39;un composant avec un module et une route</title>
       <link>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</guid>
-      <description>Voici les commandes pour créer un module, puis un composant associé a ce module :
-ng generate module app/modules/monmodule --routing=true ng generate component app/modules/monmodule/moncomposant -m=app/modules/monmodule  </description>
+      <description>Création d&amp;rsquo;un composant avec un module et une route</description>
     </item>
     
   </channel>

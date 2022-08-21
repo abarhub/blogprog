@@ -22,25 +22,25 @@
 <meta name="theme-color" content="#ffffff" />
 
 
-<title>Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances  - Blog de programmation</title>
+<title>Unsubscribe des observables - Blog de programmation</title>
 
 
 <meta name="author" content="abarhub" />
 
 
-<meta name="description" content="Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances " />
+<meta name="description" content="Unsubscribe des observables" />
 
 
-<meta name="keywords" content="python, shell" />
+<meta name="keywords" content="angular, web" />
 
 
-<meta property="og:title" content="Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances " />
-<meta name="twitter:title" content="Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances " />
+<meta property="og:title" content="Unsubscribe des observables" />
+<meta name="twitter:title" content="Unsubscribe des observables" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirrement_txt_sh/" /><meta property="og:description" content="Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances " />
-<meta name="twitter:description" content="Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances " /><meta property="og:image" content="https://abarhub.github.io/img/og.png" />
+<meta property="og:url" content="https://abarhub.github.io/blogprog/post/unsubscribe/" /><meta property="og:description" content="Unsubscribe des observables" />
+<meta name="twitter:description" content="Unsubscribe des observables" /><meta property="og:image" content="https://abarhub.github.io/img/og.png" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://abarhub.github.io/img/og.png" /><meta property="article:published_time" content="2020-09-20T00:00:00+00:00" /><meta property="article:modified_time" content="2020-09-20T00:00:00+00:00" />
+<meta name="twitter:image" content="https://abarhub.github.io/img/og.png" /><meta property="article:published_time" content="2022-05-27T00:00:00+00:00" /><meta property="article:modified_time" content="2022-05-27T00:00:00+00:00" />
 
 
 <style>
@@ -106,27 +106,61 @@
 <article>
     
     <h2 class="post-item post-title">
-        <a href="https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirrement_txt_sh/">Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances </a>
+        <a href="https://abarhub.github.io/blogprog/post/unsubscribe/">Unsubscribe des observables</a>
     </h2>
     <div class="post-item post-meta">
-        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-09-20</span>
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2022-05-27</span>
 
-<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;37 mots</span>
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;107 mots</span>
 
-<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/python">python</a>&nbsp;<a href="/blogprog/tags/shell">shell</a>&nbsp;</span>
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/blogprog/tags/angular">angular</a>&nbsp;<a href="/blogprog/tags/web">web</a>&nbsp;</span>
 
     </div>
     
     <div class="post-content markdown-body">
-        <p>Voici les commandes pour installer ou désinstaller un module python :</p>
-<pre><code class="language-shell"># install module python :
-pip install flask
+        <p>Il faut penser à unsubscribe les observables.</p>
+<pre><code class="language-typescript">import { interval } from 'rxjs';
 
-# desinstalle module python :
-pip uninstall flask
+const data$ = interval(1000);
 
-# recré le fichier requirements.txt :
-pip3 freeze &gt; requirements.txt
+
+const subscription = data$.subscribe({
+    next: value =&gt; console.log(value),
+    error: error =&gt; console.error(error),
+    complete: () =&gt; console.log('DONE!')
+});
+
+// dans le ngOnDestroy()
+subscription.unsubscribe();
+</code></pre>
+<p>Une façon simple de le gérer, c&rsquo;est d&rsquo;utiliser takeUntil</p>
+<pre><code class="language-typescript">import { Component, OnInit, OnDestroy } from '@angular/core';
+
+import { Subject, interval } from 'rxjs';
+import { takeUntil } from 'rxjs/operators';
+
+@Component({ ... })
+export class AppComponent implements OnInit, OnDestroy {
+  isOver$: Subject&lt;boolean&gt; = new Subject&lt;boolean&gt;();
+
+  constructor(private apollo: Apollo) {}
+
+  ngOnInit() {
+    this.myService.getAll()
+           .pipe(takeUntil(this.isOver$))
+           .subscribe(data =&gt; {
+              console.info(data);
+           },(e)=&gt;{
+              console.error(&quot;Error&quot;, e);
+           });    
+  }
+
+  ngOnDestroy() {
+    this.isOver$.next(true);
+    this.isOver$.unsubscribe();
+  }
+}
+
 </code></pre>
 
     </div>
@@ -216,6 +250,10 @@ pip3 freeze &gt; requirements.txt
             </span>
             
             <span>
+                <a href="/blogprog/tags/cheatsheet/">cheatsheet</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/cjk/">cjk</a>
             </span>
             
@@ -229,6 +267,10 @@ pip3 freeze &gt; requirements.txt
             
             <span>
                 <a href="/blogprog/tags/css/">css</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/curl/">curl</a>
             </span>
             
             <span>
@@ -260,6 +302,10 @@ pip3 freeze &gt; requirements.txt
             </span>
             
             <span>
+                <a href="/blogprog/tags/go/">go</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/helloworld/">helloworld</a>
             </span>
             
@@ -288,7 +334,19 @@ pip3 freeze &gt; requirements.txt
             </span>
             
             <span>
+                <a href="/blogprog/tags/json/">json</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/junit5/">junit5</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/langages/">langages</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/librairie/">librairie</a>
             </span>
             
             <span>
@@ -385,6 +443,10 @@ pip3 freeze &gt; requirements.txt
             
             <span>
                 <a href="/blogprog/tags/version/">version</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/web/">web</a>
             </span>
             
             <span>
@@ -491,6 +553,10 @@ pip3 freeze &gt; requirements.txt
             </span>
             
             <span>
+                <a href="/blogprog/tags/cheatsheet/">cheatsheet</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/cjk/">cjk</a>
             </span>
             
@@ -504,6 +570,10 @@ pip3 freeze &gt; requirements.txt
             
             <span>
                 <a href="/blogprog/tags/css/">css</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/curl/">curl</a>
             </span>
             
             <span>
@@ -535,6 +605,10 @@ pip3 freeze &gt; requirements.txt
             </span>
             
             <span>
+                <a href="/blogprog/tags/go/">go</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/helloworld/">helloworld</a>
             </span>
             
@@ -563,7 +637,19 @@ pip3 freeze &gt; requirements.txt
             </span>
             
             <span>
+                <a href="/blogprog/tags/json/">json</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/junit5/">junit5</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/langages/">langages</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/librairie/">librairie</a>
             </span>
             
             <span>
@@ -663,6 +749,10 @@ pip3 freeze &gt; requirements.txt
             </span>
             
             <span>
+                <a href="/blogprog/tags/web/">web</a>
+            </span>
+            
+            <span>
                 <a href="/blogprog/tags/windows/">windows</a>
             </span>
             
@@ -699,7 +789,7 @@ pip3 freeze &gt; requirements.txt
                 | Propulsé par <a href="https://github.com/dsrkafuu/hugo-theme-fuji/"
                    target="_blank">Fuji-v2</a> &amp; <a href="https://gohugo.io/"
                                                     target="_blank">Hugo</a> 
-				| Dernières modifications : 8 mai 2022
+				| Dernières modifications : 21 août 2022
             </span>
         </div>
     </div>

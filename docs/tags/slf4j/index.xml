@@ -13,7 +13,7 @@
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/exemple_logger_java/</guid>
-      <description>public class ExempleLogger { private static final Logger LOGGER = LoggerFactory.getLogger(ExempleLogger.class); public void exemple(){ LOGGER.info(&amp;quot;test {}&amp;quot;, 52); } }  </description>
+      <description>Exemple de loggeur avec slf4j</description>
     </item>
     
   </channel>

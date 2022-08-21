@@ -62,23 +62,21 @@
     </item>
     
     <item>
-      <title>Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances </title>
-      <link>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirrement_txt_sh/</link>
+      <title>Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances</title>
+      <link>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirrement_txt_sh/</guid>
-      <description>Voici les commandes pour installer ou désinstaller un module python :
-# install module python : pip install flask # desinstalle module python : pip uninstall flask # recré le fichier requirements.txt : pip3 freeze &amp;gt; requirements.txt  </description>
+      <guid>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</guid>
+      <description>Installation ou désinstallation d&amp;rsquo;un module Python. Création du fichier requirements.txt avec les dépendances</description>
     </item>
     
     <item>
-      <title>Création d&#39;un composant avec un module et une route </title>
+      <title>Création d&#39;un composant avec un module et une route</title>
       <link>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</guid>
-      <description>Voici les commandes pour créer un module, puis un composant associé a ce module :
-ng generate module app/modules/monmodule --routing=true ng generate component app/modules/monmodule/moncomposant -m=app/modules/monmodule  </description>
+      <description>Création d&amp;rsquo;un composant avec un module et une route</description>
     </item>
     
   </channel>

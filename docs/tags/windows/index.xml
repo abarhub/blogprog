@@ -6,7 +6,25 @@
     <description>Recent content in windows on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Statistique de codage</title>
+      <link>https://abarhub.github.io/blogprog/post/stat_coding/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/stat_coding/</guid>
+      <description>Statistique de codage</description>
+    </item>
+    
+    <item>
+      <title>Gestion de la batterie sous Windows</title>
+      <link>https://abarhub.github.io/blogprog/post/battery/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/battery/</guid>
+      <description>Test de la batterie sous windows pour PC Portable</description>
+    </item>
+    
     <item>
       <title>Encode et décode en Base64</title>
       <link>https://abarhub.github.io/blogprog/post/base64/</link>

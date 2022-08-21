@@ -17,22 +17,21 @@
     </item>
     
     <item>
-      <title>Script de création d&#39;un schéma Mysql avec l&#39;utilisateur </title>
+      <title>Script de création d&#39;un schéma Mysql avec l&#39;utilisateur</title>
       <link>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</guid>
-      <description>Voici un exemple pour créer un utiliser MySQL et le schéma associé :
-CREATE USER &#39;monutilisateur&#39;@&#39;localhost&#39; IDENTIFIED BY &#39;1234&#39;; CREATE DATABASE monschema CHARACTER SET utf8 COLLATE utf8_unicode_ci; GRANT ALL PRIVILEGES ON monschema.* TO &#39;monutilisateur&#39;@&#39;localhost&#39;; FLUSH PRIVILEGES;  </description>
+      <description>Script de création d&amp;rsquo;un schéma Mysql avec l&amp;rsquo;utilisateur</description>
     </item>
     
     <item>
-      <title>Gestion des dates en oracle </title>
+      <title>Gestion des dates en oracle</title>
       <link>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</guid>
-      <description>-- affichage de dates select to_char( mon_champs, &#39;dd-mm-yyyy hh24:mi:ss&#39; ) from ma_table; -- affichage de la date et de l&#39;heure de la session ALTER SESSION SET NLS_DATE_FORMAT = &#39;dd-mm-yyyy hh24:mi:ss&#39;; -- insertion d&#39;une date dans un champs insert into ma_table(ID, START_DATE) values (3,TO_DATE(&#39;20200301&#39;,&#39;YYYYMMDD&#39;)); -- recherche de données entre deux dates select * from ma_table where START_DATE BETWEEN TO_DATE(&#39;28-02-2014 10:15:00&#39;, &#39;dd-mm-yyyy hh24:mi:ss&#39;) AND TO_DATE(&#39;20-06-2014 16:34:00&#39;, &#39;dd-mm-yyyy hh24:mi:ss&#39;);  </description>
+      <description>Gestion des dates en oracle</description>
     </item>
     
     <item>
@@ -41,7 +40,10 @@ CREATE USER &#39;monutilisateur&#39;@&#39;localhost&#39; IDENTIFIED BY &#39;1234
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/script_with_error_sql/</guid>
-      <description>-- pour stoper l&#39;execution à la première erreur -- a utiliser au début d&#39;un script WHENEVER SQLERROR EXIT FAILURE  </description>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-sql&#34;&gt;-- pour stoper l&#39;execution à la première erreur
+-- a utiliser au début d&#39;un script
+WHENEVER SQLERROR EXIT FAILURE
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
   </channel>

@@ -22,7 +22,7 @@
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://abarhub.github.io/blogprog/post/helloworld_python/</guid>
-      <description>def main(): print(&amp;quot;Hello World!&amp;quot;) if __name__ == &amp;quot;__main__&amp;quot;: main()  </description>
+      <description>Hello world en Python</description>
     </item>
     
   </channel>
