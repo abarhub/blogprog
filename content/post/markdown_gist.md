@@ -9,3 +9,4 @@ summary = "Sytaxe de markdow"
 # Sytaxe de markdow pour les gist :
 * [Lien 1](https://gist.github.com/benstr/8744304)
 * [Lien 2 (plus complet)](https://gist.github.com/ww9/44f08d44327a40d2ab309a349bebec57)
+* [Lien officiel](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

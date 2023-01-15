@@ -17,6 +17,7 @@ summary = "Statistique de codage"
 
 * [2021](https://insights.stackoverflow.com/survey/2021)
 * [2020](https://insights.stackoverflow.com/survey/2020)
+* [2022](https://survey.stackoverflow.co/2022/)
 
 # Index Toibe
 
