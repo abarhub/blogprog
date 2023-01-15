@@ -6,7 +6,16 @@
     <description>Recent content in python on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calcul la taille des répertoires</title>
+      <link>https://abarhub.github.io/blogprog/post/size_analyse.py/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/size_analyse.py/</guid>
+      <description>Calcul la taille des répertoires</description>
+    </item>
+    
     <item>
       <title>Hello world en Python</title>
       <link>https://abarhub.github.io/blogprog/post/helloworld_python/</link>

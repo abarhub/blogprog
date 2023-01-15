@@ -6,7 +6,97 @@
     <description>Recent content in Posts on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liste de Design Patterns</title>
+      <link>https://abarhub.github.io/blogprog/post/liste_design_patern/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/liste_design_patern/</guid>
+      <description>Liste de Design Patterns</description>
+    </item>
+    
+    <item>
+      <title>Liste d&#39;outils CSS</title>
+      <link>https://abarhub.github.io/blogprog/post/outils_css/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/outils_css/</guid>
+      <description>Liste d&amp;rsquo;outils CSS</description>
+    </item>
+    
+    <item>
+      <title>Devenir propriété d&#39;un répertoire sous windows</title>
+      <link>https://abarhub.github.io/blogprog/post/change_ownership_windows/</link>
+      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/change_ownership_windows/</guid>
+      <description>Devenir propriété d&amp;rsquo;un répertoire sous windows</description>
+    </item>
+    
+    <item>
+      <title>Extraction d&#39;une table à partir de json</title>
+      <link>https://abarhub.github.io/blogprog/post/extract_table_from_json/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/extract_table_from_json/</guid>
+      <description>Extraction d&amp;rsquo;une table à partir de json</description>
+    </item>
+    
+    <item>
+      <title>Calcul la taille des répertoires</title>
+      <link>https://abarhub.github.io/blogprog/post/size_analyse.py/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/size_analyse.py/</guid>
+      <description>Calcul la taille des répertoires</description>
+    </item>
+    
+    <item>
+      <title>Liste de sites pour générer tester les technologies web</title>
+      <link>https://abarhub.github.io/blogprog/post/tools_test_web/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/tools_test_web/</guid>
+      <description>Liste de sites pour générer tester les technologies web</description>
+    </item>
+    
+    <item>
+      <title>Liste les fichiers plus grands qu&#39;une certaine taille</title>
+      <link>https://abarhub.github.io/blogprog/post/liste_files_windows/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/liste_files_windows/</guid>
+      <description>Liste les fichiers plus grands qu&amp;rsquo;une certaine taille</description>
+    </item>
+    
+    <item>
+      <title>Création d&#39;un menu en bat</title>
+      <link>https://abarhub.github.io/blogprog/post/menu.bat/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/menu.bat/</guid>
+      <description>Création d&amp;rsquo;un menu en bat</description>
+    </item>
+    
+    <item>
+      <title>Description of tar command</title>
+      <link>https://abarhub.github.io/blogprog/post/tar/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/tar/</guid>
+      <description>Description of tar command</description>
+    </item>
+    
+    <item>
+      <title>Disable button if input is empty</title>
+      <link>https://abarhub.github.io/blogprog/post/disable_button_if_empty/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/disable_button_if_empty/</guid>
+      <description>Disable button if input is empty</description>
+    </item>
+    
     <item>
       <title>Execution du plugin maven dependancy tree en indiquant la version</title>
       <link>https://abarhub.github.io/blogprog/post/depandancy_tree_version/</link>
@@ -224,6 +314,15 @@
       
       <guid>https://abarhub.github.io/blogprog/post/angular_change_detection/</guid>
       <description>Détection du changement sur Angular</description>
+    </item>
+    
+    <item>
+      <title>Liste d&#39;outils</title>
+      <link>https://abarhub.github.io/blogprog/post/tools/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/tools/</guid>
+      <description>Liste d&amp;rsquo;outils</description>
     </item>
     
     <item>

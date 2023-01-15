@@ -6,7 +6,16 @@
     <description>Recent content in web on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disable button if input is empty</title>
+      <link>https://abarhub.github.io/blogprog/post/disable_button_if_empty/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/disable_button_if_empty/</guid>
+      <description>Disable button if input is empty</description>
+    </item>
+    
     <item>
       <title>Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex</title>
       <link>https://abarhub.github.io/blogprog/post/grid_flex_css/</link>

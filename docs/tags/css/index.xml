@@ -6,7 +6,16 @@
     <description>Recent content in css on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liste d&#39;outils CSS</title>
+      <link>https://abarhub.github.io/blogprog/post/outils_css/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/outils_css/</guid>
+      <description>Liste d&amp;rsquo;outils CSS</description>
+    </item>
+    
     <item>
       <title>Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex</title>
       <link>https://abarhub.github.io/blogprog/post/grid_flex_css/</link>

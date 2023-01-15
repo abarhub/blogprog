@@ -6,7 +6,34 @@
     <description>Recent content in windows on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devenir propriété d&#39;un répertoire sous windows</title>
+      <link>https://abarhub.github.io/blogprog/post/change_ownership_windows/</link>
+      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/change_ownership_windows/</guid>
+      <description>Devenir propriété d&amp;rsquo;un répertoire sous windows</description>
+    </item>
+    
+    <item>
+      <title>Liste les fichiers plus grands qu&#39;une certaine taille</title>
+      <link>https://abarhub.github.io/blogprog/post/liste_files_windows/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/liste_files_windows/</guid>
+      <description>Liste les fichiers plus grands qu&amp;rsquo;une certaine taille</description>
+    </item>
+    
+    <item>
+      <title>Création d&#39;un menu en bat</title>
+      <link>https://abarhub.github.io/blogprog/post/menu.bat/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/menu.bat/</guid>
+      <description>Création d&amp;rsquo;un menu en bat</description>
+    </item>
+    
     <item>
       <title>Statistique de codage</title>
       <link>https://abarhub.github.io/blogprog/post/stat_coding/</link>

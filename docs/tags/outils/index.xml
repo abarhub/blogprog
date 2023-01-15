@@ -6,7 +6,16 @@
     <description>Recent content in outils on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/outils/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/outils/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liste de sites pour générer tester les technologies web</title>
+      <link>https://abarhub.github.io/blogprog/post/tools_test_web/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/tools_test_web/</guid>
+      <description>Liste de sites pour générer tester les technologies web</description>
+    </item>
+    
     <item>
       <title>Liste d&#39;outils </title>
       <link>https://abarhub.github.io/blogprog/post/liste_outils/</link>
@@ -15,6 +24,15 @@
       <guid>https://abarhub.github.io/blogprog/post/liste_outils/</guid>
       <description>&lt;h1 id=&#34;liste-doutils-en-ligne-de-commande&#34;&gt;Liste d&amp;rsquo;outils en ligne de commande&lt;/h1&gt;
 &lt;p&gt;Voici une liste d&amp;rsquo;outils :&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Liste d&#39;outils</title>
+      <link>https://abarhub.github.io/blogprog/post/tools/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/tools/</guid>
+      <description>Liste d&amp;rsquo;outils</description>
     </item>
     
   </channel>

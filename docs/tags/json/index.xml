@@ -6,7 +6,16 @@
     <description>Recent content in json on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/json/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/json/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extraction d&#39;une table à partir de json</title>
+      <link>https://abarhub.github.io/blogprog/post/extract_table_from_json/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/extract_table_from_json/</guid>
+      <description>Extraction d&amp;rsquo;une table à partir de json</description>
+    </item>
+    
     <item>
       <title>Injection un fichier dans du json en l&#39;encodant en base64</title>
       <link>https://abarhub.github.io/blogprog/post/include_file_in_json/</link>
