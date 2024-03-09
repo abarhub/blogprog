@@ -6,7 +6,16 @@
     <description>Recent content in devoxx on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 23 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/devoxx/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/devoxx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devoxx 2023 du 12 au 14 avril</title>
+      <link>https://abarhub.github.io/blogprog/post/devoxx_2023/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/devoxx_2023/</guid>
+      <description>Devoxx 2023 du 12 au 14 avril</description>
+    </item>
+    
     <item>
       <title>Devoxx 2022</title>
       <link>https://abarhub.github.io/blogprog/post/devoxx_2022/</link>

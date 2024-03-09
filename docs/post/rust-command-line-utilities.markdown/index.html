@@ -1,0 +1,1048 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta name="HandheldFriendly" content="True" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="generator" content="Hugo 0.92.0" />
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.jsdelivr.net/gh/amzrk2/cdn-stcapi@1/favicons/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.jsdelivr.net/gh/amzrk2/cdn-stcapi@1/favicons/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jsdelivr.net/gh/amzrk2/cdn-stcapi@1/favicons/favicon-16x16.png" />
+<link rel="manifest" href="https://cdn.jsdelivr.net/gh/amzrk2/cdn-stcapi@1/favicons/site.webmanifest" />
+<link rel="mask-icon" href="https://cdn.jsdelivr.net/gh/amzrk2/cdn-stcapi@1/favicons/safari-pinned-tab.svg" color="#8aa2d3" />
+<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/amzrk2/cdn-stcapi@1/favicons/favicon.ico" />
+<meta name="theme-color" content="#ffffff" />
+
+
+<title>A curated list of command-line utilities written in Rust - Blog de programmation</title>
+
+
+<meta name="author" content="abarhub" />
+
+
+<meta name="description" content="A curated list of command-line utilities written in Rust" />
+
+
+
+<meta property="og:title" content="A curated list of command-line utilities written in Rust" />
+<meta name="twitter:title" content="A curated list of command-line utilities written in Rust" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://abarhub.github.io/blogprog/post/rust-command-line-utilities.markdown/" /><meta property="og:description" content="A curated list of command-line utilities written in Rust" />
+<meta name="twitter:description" content="A curated list of command-line utilities written in Rust" /><meta property="og:image" content="https://abarhub.github.io/img/og.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://abarhub.github.io/img/og.png" /><meta property="article:published_time" content="2023-04-30T00:00:00+00:00" /><meta property="article:modified_time" content="2023-04-30T00:00:00+00:00" />
+
+
+<style>
+    @media (prefers-color-scheme: dark) {
+        body[data-theme='auto'] img {
+            filter: brightness(60%);
+        }
+    }
+
+    body[data-theme='dark'] img {
+        filter: brightness(60%);
+    }
+</style>
+
+
+
+
+<link rel="stylesheet" href="https://abarhub.github.io/blogprog/assets/css/fuji.min.b4a21b5d3eb1d0a51297e31230a65fc25e387843e45ec3a2d9176cd8d163c216d99b9b13a618b28f537c3b559ec8a408183b0fbfad48daddb9befa7d3ef90eed.css" integrity="sha512-tKIbXT6x0KUSl&#43;MSMKZfwl44eEPkXsOi2Rds2NFjwhbZm5sTphiyj1N8O1WeyKQIGDsPv61I2t25vvp9PvkO7Q==" />
+
+
+
+
+
+
+
+
+</head>
+
+<body
+  data-theme="auto"
+  data-theme-auto='true'
+  >
+    <script data-cfasync="false">
+  
+  var fujiThemeData = localStorage.getItem('fuji_data-theme');
+  
+  if (!fujiThemeData) {
+    localStorage.setItem('fuji_data-theme', 'auto');
+  } else {
+    
+    if (fujiThemeData !== 'auto') {
+      document.body.setAttribute('data-theme', fujiThemeData === 'dark' ? 'dark' : 'light');
+    }
+  }
+</script>
+
+    <header>
+    <div class="container-lg clearfix">
+        <div class="col-12 header">
+            <a class="title-main" href="https://abarhub.github.io/blogprog">Blog de programmation</a>
+            
+            <span class="title-sub">Blog de programmation.</span>
+            
+        </div>
+    </div>
+</header>
+
+    <main>
+        <div class="container-lg clearfix">
+            
+            <div class="col-12 col-md-9 float-left content">
+                
+<article>
+    
+    <h2 class="post-item post-title">
+        <a href="https://abarhub.github.io/blogprog/post/rust-command-line-utilities.markdown/">A curated list of command-line utilities written in Rust</a>
+    </h2>
+    <div class="post-item post-meta">
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2023-04-30</span>
+
+<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;1089 mots</span>
+
+<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;Aucune étiquette</span>
+
+    </div>
+    
+    <div class="post-content markdown-body">
+        <h1 id="a-curated-list-of-command-line-utilities-written-in-rust">A curated list of command-line utilities written in Rust</h1>
+<p><strong>Note: I have moved this list to <a href="https://github.com/sts10/rust-command-line-utilities" target="_blank">a proper repository</a>. I&rsquo;ll leave this gist up, but it won&rsquo;t be updated. To submit an idea, open a PR on the repo.</strong></p>
+<p>Note that I have not tried all of these personally, and <strong>cannot and do not vouch for all of the tools listed here</strong>. In most cases, the descriptions here are copied directly from their code repos. Some may have been abandoned. Investigate before installing/using.</p>
+<p>The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, ripgrep, just, cargo-audit and cargo-wipe.</p>
+<ul>
+<li><a href="https://github.com/ellie/atuin" target="_blank">atuin</a>: &ldquo;Magical shell history&rdquo;</li>
+<li><a href="https://github.com/imsnif/bandwhich" target="_blank">bandwhich</a>: Terminal bandwidth utilization tool</li>
+<li><a href="https://github.com/sharkdp/bat" target="_blank">bat</a>: A replacement for <code>cat</code> that provides syntax highlighting and other features.</li>
+<li><a href="https://github.com/ClementTsang/bottom" target="_blank">bottom</a>: Yet another cross-platform graphical process/system monitor.</li>
+<li><a href="https://github.com/Canop/broot" target="_blank">broot</a>: A new way to see and navigate directory trees</li>
+<li><a href="https://github.com/nnethercote/counts" target="_blank">counts</a>: &ldquo;A tool for ad hoc profiling&rdquo;</li>
+<li><a href="https://github.com/theryangeary/choose" target="_blank">choose</a>: A human-friendly and fast alternative to <code>cut</code> and (sometimes) <code>awk</code></li>
+<li><a href="https://github.com/dandavison/delta" target="_blank">delta</a>: A syntax-highlighting pager for git, <code>diff</code>, and grep output</li>
+<li><a href="https://github.com/Wilfred/difftastic/" target="_blank">difftastic</a>: A syntax-aware diff</li>
+<li><a href="https://github.com/ogham/dog" target="_blank">dog</a>: A command-line DNS client</li>
+<li><a href="https://github.com/Byron/dua-cli" target="_blank">dua</a>: &ldquo;View disk space usage and delete unwanted data, fast.&rdquo;</li>
+<li><a href="https://github.com/bootandy/dust" target="_blank">dust</a>: &ldquo;a more intuitive version of <code>du</code> in Rust&rdquo;</li>
+<li><a href="https://the.exa.website/" target="_blank">exa</a>: &ldquo;A modern version of <code>ls</code>&rdquo;. Note: latest release is from April 2021. See <a href="https://github.com/ogham/exa/issues/1139" target="_blank">discussion re: maintenance</a>.</li>
+<li><a href="https://github.com/pkolaczk/fclones" target="_blank">fclones</a>: an &ldquo;efficient duplicate file finder&rdquo;</li>
+<li><a href="https://github.com/sharkdp/fd" target="_blank">fd</a>: &ldquo;A simple, fast and user-friendly alternative to <code>find</code>&rdquo;</li>
+<li><a href="https://github.com/kyoheiu/felix" target="_blank">felix</a>: tui file manager with vim-like key mapping</li>
+<li><a href="https://github.com/timvisee/ffsend" target="_blank">ffsend</a>: &ldquo;Easily and securely share files from the command line. A fully featured Firefox Send client.&rdquo;</li>
+<li><a href="https://github.com/TaKO8Ki/frum" target="_blank">frum</a>: A modern Ruby version manager written in Rust</li>
+<li><a href="https://github.com/jhspetersson/fselect" target="_blank">fselect</a>: &ldquo;Find files with SQL-like queries&rdquo;</li>
+<li><a href="https://github.com/orhun/git-cliff" target="_blank">git-cliff</a>: &ldquo;A highly customizable Changelog Generator that follows Conventional Commit specifications&rdquo;</li>
+<li><a href="https://github.com/rust-disk-partition-management/gptman" target="_blank">gptman</a>: &ldquo;A GPT manager that allows you to copy partitions from one disk to another and more&rdquo;</li>
+<li><a href="https://github.com/pemistahl/grex" target="_blank">grex</a>: A command-line tool and library for generating regular expressions from user-provided test cases</li>
+<li><a href="https://github.com/soywod/himalaya" target="_blank">Himalaya</a>: Command-line interface for email management</li>
+<li><a href="https://github.com/mgdm/htmlq" target="_blank">htmlq</a>: Like jq, but for HTML. Uses CSS selectors to extract bits of content from HTML files.</li>
+<li><a href="https://github.com/sharkdp/hyperfine" target="_blank">hyperfine</a>: Command-line benchmarking tool</li>
+<li><a href="https://github.com/trimental/inlyne" target="_blank">inlyne</a>: &ldquo;GPU powered yet browsless tool to help you quickly view markdown files&rdquo;</li>
+<li><a href="https://github.com/PaulJuliusMartinez/jless" target="_blank">jless</a>: &ldquo;command-line JSON viewer designed for reading, exploring, and searching through JSON data.&rdquo;</li>
+<li><a href="https://github.com/yamafaktory/jql" target="_blank">jql</a>: A JSON query language CLI tool</li>
+<li><a href="https://github.com/casey/just" target="_blank">just</a>: Just a command runner (seems like an alternative to <code>make</code>)</li>
+<li><a href="https://hg.sr.ht/~cyplo/legdur" target="_blank">legdur</a>: A &ldquo;simple CLI program to compute hashes of large sets of files in large directory structures and compare them with a previous snapshot.&rdquo;</li>
+<li><a href="https://github.com/swanandx/lemmeknow" target="_blank">lemmeknow</a>: Identify mysterious text or analyze hard-coded strings from captured network packets, malwares, and more.</li>
+<li><a href="https://github.com/Canop/lfs" target="_blank">lfs</a>: A Linux utility to get information on filesystems; like <code>df</code> but better</li>
+<li><a href="https://github.com/Peltoche/lsd" target="_blank">lsd</a>: The next generation <code>ls</code> command (though personally I prefer <code>exa</code>)</li>
+<li><a href="https://github.com/macchina-cli/macchina" target="_blank">macchina</a>: Fast, minimal and customizable system information frontend.</li>
+<li><a href="https://github.com/rust-lang/mdBook" target="_blank">mdBook</a>: Create books from markdown files. Like Gitbook but implemented in Rust</li>
+<li><a href="https://github.com/lunaryorn/mdcat" target="_blank">mdcat</a>: Fancy <code>cat</code> for Markdown</li>
+<li><a href="https://github.com/svenstaro/miniserve" target="_blank">miniserve</a> is &ldquo;a CLI tool to serve files and dirs over HTTP&rdquo;. I use this as a replacement for <code>python -m SimpleHTTPServer</code>, or whatever the latest version of that command is.</li>
+<li><a href="https://github.com/y2z/monolith" target="_blank">monolith</a>: Save complete web pages as a single HTML file</li>
+<li><a href="https://github.com/ouch-org/ouch" target="_blank">ouch</a>: &ldquo;Painless compression and decompression for your terminal&rdquo;</li>
+<li><a href="https://github.com/sharkdp/pastel" target="_blank">pastel</a>: A command-line tool to generate, analyze, convert and manipulate colors.</li>
+<li><a href="https://github.com/Elkowar/pipr" target="_blank">pipr</a>: &ldquo;A tool to interactively write shell pipelines.&rdquo;</li>
+<li><a href="https://github.com/dalance/procs" target="_blank">procs</a>: A modern replacement for <code>ps</code> written in Rust</li>
+<li><a href="https://github.com/jqnatividad/qsv" target="_blank">qsv</a>: CSVs sliced, diced &amp; analyzed. (A fork of <code>xsv</code>)</li>
+<li><a href="https://github.com/lotabout/rargs" target="_blank">rargs</a>: xargs + awk with pattern matching support.</li>
+<li><a href="https://github.com/nivekuil/rip" target="_blank">rip</a>: A safe and ergonomic alternative to <code>rm</code></li>
+<li><a href="https://github.com/BurntSushi/ripgrep" target="_blank">ripgrep</a>: A faster replacement for GNU’s <code>grep</code> command. This tool is very good. See <a href="https://github.com/phiresky/ripgrep-all" target="_blank">ripgrep-all</a> to search PDFs, E-Books, Office documents, zip, tar.gz, etc.</li>
+<li><a href="https://github.com/sirwart/ripsecrets" target="_blank">ripsecrets</a>: Find secret keys in your code before commiting them to git. I&rsquo;ve contributed to this one!</li>
+<li><a href="https://github.com/ismaelgv/rnr" target="_blank">rnr</a>: &ldquo;A command-line tool to batch rename files and directories&rdquo;</li>
+<li><a href="https://github.com/chmln/sd" target="_blank">sd</a>: Intuitive find &amp; replace CLI (<code>sed</code> alternative).</li>
+<li><a href="https://github.com/lotabout/skim" target="_blank">skim</a>: A command-line fuzzy finder.</li>
+<li><a href="https://github.com/dbrgn/tealdeer" target="_blank">tealdear</a>: A very fast implementation of <code>tldr</code> in Rust.</li>
+<li><a href="https://github.com/Gskartwii/teehee" target="_blank">teehee</a>: &ldquo;A modal terminal hex editor&rdquo;</li>
+<li><a href="https://github.com/vmchale/tin-summer" target="_blank">tin-summer</a>: Find build artifacts that are taking up disk space</li>
+<li><a href="https://github.com/XAMPPRocky/tokei" target="_blank">tokei</a>: Count your (lines of) code, quickly</li>
+<li><a href="https://github.com/topgrade-rs/topgrade" target="_blank">topgrade</a>: Upgrade all of your tools</li>
+<li><a href="https://github.com/watchexec/watchexec" target="_blank">watchexec</a>: Execute commands in response to file modifications. (Note: See <a href="https://github.com/watchexec/cargo-watch" target="_blank">cargo watch</a> if you want to watch a Rust project.)</li>
+<li><a href="https://github.com/tarka/xcp" target="_blank">xcp</a>: An extended <code>cp</code></li>
+<li><a href="https://github.com/ducaale/xh" target="_blank">xh</a>: &ldquo;Friendly and fast tool for sending HTTP requests&rdquo;</li>
+<li><a href="https://github.com/BurntSushi/xsv" target="_blank">xsv</a>: A fast CSV command line toolkit written in Rust. (Last updated in 2018)</li>
+<li><a href="https://github.com/ajeetdsouza/zoxide" target="_blank">zoxide</a>: A smarter <code>cd</code> command.</li>
+</ul>
+<h3 id="calculators">Calculators</h3>
+<ul>
+<li><a href="https://github.com/nerdypepper/eva" target="_blank">eva</a>: &ldquo;a calculator REPL, similar to bc(1)&rdquo; (be sure to check out fend as well)</li>
+<li><a href="https://github.com/printfn/fend" target="_blank">fend</a>: &ldquo;Arbitrary-precision unit-aware calculator&rdquo; (<a href="https://printfn.github.io/fend/documentation" target="_blank">Documentation</a>)</li>
+<li><a href="https://github.com/PaddiM8/kalker" target="_blank">Kalker</a>: &ldquo;a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals&rdquo;</li>
+<li><a href="https://github.com/printfn/fend" target="_blank">printfn</a>: &ldquo;Arbitrary-precision unit-aware calculator&rdquo;</li>
+</ul>
+<h2 id="tools-to-help-working-with-rust-lang-itself">Tools to help working with Rust lang itself</h2>
+<ul>
+<li><a href="https://github.com/RustSec/rustsec/tree/main/cargo-audit" target="_blank">cargo-audit</a>: Audit Cargo.lock files for crates with security vulnerabilities reported to the RustSec Advisory Database. See also: <a href="https://github.com/EmbarkStudios/cargo-deny" target="_blank">cargo-deny</a>.</li>
+<li><a href="https://github.com/rust-secure-code/cargo-geiger" target="_blank">cargo-geiger</a>: Detects usage of unsafe Rust in a Rust crate and its dependencies.</li>
+<li><a href="https://github.com/mihai-dinculescu/cargo-wipe" target="_blank">cargo-wipe</a>: Cargo subcommand that recursively finds and optionally wipes all &ldquo;target&rdquo; or &ldquo;node_modules&rdquo; folders that are found in the current path. See also: <a href="https://github.com/tbillington/kondo" target="_blank">kondo</a>.</li>
+<li><a href="https://github.com/crev-dev/cargo-crev" target="_blank">cargo-crev</a>: A cryptographically verifiable code review system for the cargo (Rust) package manager.</li>
+<li><a href="https://github.com/Canop/bacon" target="_blank">bacon</a>: A background Rust code checker</li>
+<li><a href="https://github.com/watchexec/cargo-watch" target="_blank">cargo watch</a>: Watches over your Cargo project&rsquo;s source.</li>
+<li><a href="https://github.com/cargo-bins/cargo-binstall" target="_blank">cargo-binstall</a>: &ldquo;Binary installation for [R]ust projects&rdquo;</li>
+<li><a href="https://github.com/model-checking/kani" target="_blank">kani-verifier</a>: A &ldquo;bit-precise model checker for Rust.&rdquo;</li>
+</ul>
+<h2 id="terminal-emulators--terminal-related">Terminal emulators / terminal-related</h2>
+<ul>
+<li><a href="https://github.com/alacritty/alacritty" target="_blank">Alacritty</a>: A cross-platform, OpenGL terminal emulator.</li>
+<li><a href="https://github.com/wez/wezterm" target="_blank">Wezterm</a>: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust</li>
+<li><a href="https://starship.rs/" target="_blank">Starship</a>: Customizable prompt for any shell.</li>
+<li><a href="https://github.com/zellij-org/zellij" target="_blank">Zellij</a>: A terminal workspace with batteries included.</li>
+</ul>
+<h2 id="text-editors-written-in-rust">Text editors written in Rust</h2>
+<ul>
+<li><a href="https://github.com/jmacdonald/amp" target="_blank">amp</a></li>
+<li><a href="https://github.com/helix-editor/helix" target="_blank">helix</a></li>
+<li><a href="https://github.com/ilai-deutel/kibi" target="_blank">kibi</a>: &ldquo;A text editor in ≤1024 lines of code, written in Rust&rdquo;</li>
+<li><a href="https://github.com/lapce/lapce" target="_blank">lapce</a></li>
+<li><a href="https://github.com/vamolessa/pepper" target="_blank">pepper</a></li>
+<li><a href="https://github.com/xi-editor/xi-editor" target="_blank">xi</a></li>
+<li><a href="https://github.com/zee-editor/zee" target="_blank">zee</a></li>
+</ul>
+<p>See <a href="https://matduggan.com/battle-of-the-text-editors/" target="_blank">this &ldquo;Battle of the [Rust] text editors&rdquo; post from 2022</a>.</p>
+<h2 id="email-clients">Email clients</h2>
+<ul>
+<li><a href="https://github.com/soywod/himalaya" target="_blank">himalaya</a>: &ldquo;Command-line interface for email management&rdquo;</li>
+</ul>
+<h2 id="other-lists-of-rust-command-line-utilities">Other lists of Rust command line utilities</h2>
+<ul>
+<li><a href="https://lib.rs/command-line-utilities" target="_blank">lib.rs&rsquo;s list</a></li>
+<li><a href="https://github.com/rust-unofficial/awesome-rust" target="_blank">&ldquo;Awesome Rust&rdquo;</a></li>
+<li><a href="https://github.com/TaKO8Ki/awesome-alternatives-in-rust" target="_blank">Awesome Alternatives in Rust</a></li>
+</ul>
+<h2 id="tips">Tips</h2>
+<h3 id="exa-aliases-i-use-in-my-bashrc"><code>exa</code> aliases I use in my <code>~/.bashrc</code></h3>
+<pre><code class="language-bash">if hash exa 2&gt;/dev/null; then
+    alias ls='exa'
+    alias l='exa -l --all --group-directories-first --git'
+    alias ll='exa -l --all --all --group-directories-first --git'
+    alias lt='exa -T --git-ignore --level=2 --group-directories-first'
+    alias llt='exa -lT --git-ignore --level=2 --group-directories-first'
+    alias lT='exa -T --git-ignore --level=4 --group-directories-first'
+else
+    alias l='ls -lah'
+    alias ll='ls -alF'
+    alias la='ls -A'
+fi
+</code></pre>
+<h2 id="shameless-plug-tools-that-ive-written-in-rust">Shameless plug: Tools that I&rsquo;ve written in Rust</h2>
+<ul>
+<li><a href="https://github.com/sts10/tidy" target="_blank">Tidy</a>: A command-line tool for combining and cleaning large word list files.</li>
+<li><a href="https://github.com/sts10/medic" target="_blank">Medic</a>: Check the &ldquo;health&rdquo; of passwords in a KeePass database</li>
+</ul>
+<h2 id="know-a-good-one-that-i-dont-have-listed-here">Know a good one that I don&rsquo;t have listed here?</h2>
+<p>Let me know in the comments, a PR, on <a href="https://octodon.social/@schlink" target="_blank">Mastodon</a> or <a href="https://twitter.com/sts10/" target="_blank">Twitter</a>.</p>
+<h2 id="licensing">Licensing</h2>
+<p>This document is licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode" target="_blank">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</a>.</p>
+
+    </div>
+</article>
+
+
+<div class="license markdown-body">
+    <blockquote>
+        <p>Sauf indication contraire, le contenu de ce site est mis à disposition selon les termes de la Licence <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+               target="_blank">CC BY-NC-SA 4.0</a>.</p>
+    </blockquote>
+</div>
+
+
+
+            </div>
+            <aside class="col-12 col-md-3 float-left sidebar">
+    
+    <div class="sidebar-item sidebar-pages">
+        <h3>Pages</h3>
+        <ul>
+            
+            <li>
+                <a href="/blogprog/">Home</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/archives/">Archives</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/about/">About</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/search/">Search</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/index.xml">RSS</a>
+            </li>
+            
+        </ul>
+    </div>
+    
+    <div class="sidebar-item sidebar-links">
+        <h3>Liens</h3>
+        <ul>
+            
+            <li>
+                <a href="https://github.com/abarhub" target="_blank"><span>GitHub</span></a>
+            </li>
+            
+        </ul>
+    </div>
+    
+    <div class="sidebar-item sidebar-tags">
+        <h3>Étiquettes</h3>
+        <div>
+            
+            <span>
+                <a href="/blogprog/tags/angular/">angular</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/aplayer/">aplayer</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/backup/">backup</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/bat/">bat</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/bootstrap/">bootstrap</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/build/">build</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/c/">c</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/change-detection/">change detection</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/cheatsheet/">cheatsheet</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/cjk/">cjk</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/classpath/">classpath</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/configuration/">configuration</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/css/">css</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/curl/">curl</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/date/">date</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/debug/">debug</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/design-patterns/">design patterns</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/devoxx/">devoxx</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/dos/">dos</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/elasticsearch/">elasticsearch</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/emoji/">emoji</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/git/">git</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/go/">go</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/golang/">golang</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/grep/">grep</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/helloworld/">helloworld</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/html/">html</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/ia/">ia</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/image/">image</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/java/">java</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/java-security/">java security</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/javascript/">javascript</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/jdbc/">jdbc</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/jpg/">jpg</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/json/">json</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/junit5/">junit5</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/langages/">langages</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/librairie/">librairie</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/ligne-de-commande/">ligne de commande</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/linux/">linux</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/log/">log</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/logback/">logback</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/markdown/">markdown</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/maven/">maven</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/mockito/">mockito</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/mysql/">MySQL</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/npm/">npm</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/oauth2/">OAuth2</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/openidconnect/">OpenIdConnect</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/oracle/">oracle</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/outils/">outils</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/plsql/">plsql</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/powershell/">powershell</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/python/">python</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/robocopy/">robocopy</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/shell/">shell</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/slf4j/">slf4j</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/spring/">spring</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/spring-boot/">spring boot</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/sql/">sql</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/tar/">tar</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/test/">test</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/text/">text</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/themes/">themes</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/typescript/">typescript</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/version/">version</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/volume-shadow-copy-service/">Volume Shadow Copy Service</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/vss/">VSS</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/web/">web</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/windows/">windows</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/wtf/">wtf</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/xml/">xml</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/xsd/">xsd</a>
+            </span>
+            
+        </div>
+    </div>
+    <div class="sidebar-item sidebar-toc">
+        <h3>Table des matières</h3><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#calculators">Calculators</a></li>
+      </ul>
+    </li>
+    <li><a href="#tools-to-help-working-with-rust-lang-itself">Tools to help working with Rust lang itself</a></li>
+    <li><a href="#terminal-emulators--terminal-related">Terminal emulators / terminal-related</a></li>
+    <li><a href="#text-editors-written-in-rust">Text editors written in Rust</a></li>
+    <li><a href="#email-clients">Email clients</a></li>
+    <li><a href="#other-lists-of-rust-command-line-utilities">Other lists of Rust command line utilities</a></li>
+    <li><a href="#tips">Tips</a>
+      <ul>
+        <li><a href="#exa-aliases-i-use-in-my-bashrc"><code>exa</code> aliases I use in my <code>~/.bashrc</code></a></li>
+      </ul>
+    </li>
+    <li><a href="#shameless-plug-tools-that-ive-written-in-rust">Shameless plug: Tools that I&rsquo;ve written in Rust</a></li>
+    <li><a href="#know-a-good-one-that-i-dont-have-listed-here">Know a good one that I don&rsquo;t have listed here?</a></li>
+    <li><a href="#licensing">Licensing</a></li>
+  </ul>
+</nav></div>
+</aside>
+
+        </div>
+        <div class="btn">
+    <div class="btn-menu" id="btn-menu">
+        <i class="iconfont icon-grid-sharp"></i>
+    </div>
+    <div class="btn-toggle-mode">
+        <i class="iconfont icon-contrast-sharp"></i>
+    </div>
+    <div class="btn-scroll-top">
+        <i class="iconfont icon-chevron-up-circle-sharp"></i>
+    </div>
+</div>
+<aside class="sidebar-mobile" style="display: none;">
+  <div class="sidebar-wrapper">
+    
+    <div class="sidebar-item sidebar-pages">
+        <h3>Pages</h3>
+        <ul>
+            
+            <li>
+                <a href="/blogprog/">Home</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/archives/">Archives</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/about/">About</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/search/">Search</a>
+            </li>
+            
+            <li>
+                <a href="/blogprog/index.xml">RSS</a>
+            </li>
+            
+        </ul>
+    </div>
+    
+    <div class="sidebar-item sidebar-links">
+        <h3>Liens</h3>
+        <ul>
+            
+            <li>
+                <a href="https://github.com/abarhub" target="_blank"><span>GitHub</span></a>
+            </li>
+            
+        </ul>
+    </div>
+    
+    <div class="sidebar-item sidebar-tags">
+        <h3>Étiquettes</h3>
+        <div>
+            
+            <span>
+                <a href="/blogprog/tags/angular/">angular</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/aplayer/">aplayer</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/backup/">backup</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/bat/">bat</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/bootstrap/">bootstrap</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/build/">build</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/c/">c</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/change-detection/">change detection</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/cheatsheet/">cheatsheet</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/cjk/">cjk</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/classpath/">classpath</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/configuration/">configuration</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/css/">css</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/curl/">curl</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/date/">date</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/debug/">debug</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/design-patterns/">design patterns</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/devoxx/">devoxx</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/dos/">dos</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/elasticsearch/">elasticsearch</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/emoji/">emoji</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/git/">git</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/go/">go</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/golang/">golang</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/grep/">grep</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/helloworld/">helloworld</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/html/">html</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/ia/">ia</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/image/">image</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/java/">java</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/java-security/">java security</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/javascript/">javascript</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/jdbc/">jdbc</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/jpg/">jpg</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/json/">json</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/junit5/">junit5</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/langages/">langages</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/librairie/">librairie</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/ligne-de-commande/">ligne de commande</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/linux/">linux</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/log/">log</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/logback/">logback</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/markdown/">markdown</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/maven/">maven</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/mockito/">mockito</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/mysql/">MySQL</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/npm/">npm</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/oauth2/">OAuth2</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/openidconnect/">OpenIdConnect</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/oracle/">oracle</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/outils/">outils</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/plsql/">plsql</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/powershell/">powershell</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/python/">python</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/robocopy/">robocopy</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/shell/">shell</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/slf4j/">slf4j</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/spring/">spring</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/spring-boot/">spring boot</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/sql/">sql</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/tar/">tar</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/test/">test</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/text/">text</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/themes/">themes</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/typescript/">typescript</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/version/">version</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/volume-shadow-copy-service/">Volume Shadow Copy Service</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/vss/">VSS</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/web/">web</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/windows/">windows</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/wtf/">wtf</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/xml/">xml</a>
+            </span>
+            
+            <span>
+                <a href="/blogprog/tags/xsd/">xsd</a>
+            </span>
+            
+        </div>
+    </div>
+    
+    
+    
+    <div class="sidebar-item sidebar-toc">
+        <h3>Table des matières</h3>
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#calculators">Calculators</a></li>
+      </ul>
+    </li>
+    <li><a href="#tools-to-help-working-with-rust-lang-itself">Tools to help working with Rust lang itself</a></li>
+    <li><a href="#terminal-emulators--terminal-related">Terminal emulators / terminal-related</a></li>
+    <li><a href="#text-editors-written-in-rust">Text editors written in Rust</a></li>
+    <li><a href="#email-clients">Email clients</a></li>
+    <li><a href="#other-lists-of-rust-command-line-utilities">Other lists of Rust command line utilities</a></li>
+    <li><a href="#tips">Tips</a>
+      <ul>
+        <li><a href="#exa-aliases-i-use-in-my-bashrc"><code>exa</code> aliases I use in my <code>~/.bashrc</code></a></li>
+      </ul>
+    </li>
+    <li><a href="#shameless-plug-tools-that-ive-written-in-rust">Shameless plug: Tools that I&rsquo;ve written in Rust</a></li>
+    <li><a href="#know-a-good-one-that-i-dont-have-listed-here">Know a good one that I don&rsquo;t have listed here?</a></li>
+    <li><a href="#licensing">Licensing</a></li>
+  </ul>
+</nav>
+    </div>
+    
+    
+  </div>
+</aside>
+    </main>
+
+    <footer>
+    <div class="container-lg clearfix">
+        <div class="col-12 footer">
+            
+            <span>&copy; 2021-2024
+                <a href="https://abarhub.github.io/blogprog">abarhub</a>
+                 | <a href="https://github.com/abarhub/blogprog">Source code</a> 
+                | Propulsé par <a href="https://github.com/dsrkafuu/hugo-theme-fuji/"
+                   target="_blank">Fuji-v2</a> &amp; <a href="https://gohugo.io/"
+                                                    target="_blank">Hugo</a> 
+				| Dernières modifications : 15 janv. 2023
+            </span>
+        </div>
+    </div>
+</footer>
+
+    
+<script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" integrity="sha512-N9IJRoc3LaP3NDoiGkcPa4gG94kapGpaA5Zq9/Dr04uf5TbLFU5q0o8AbRhLKUUlp8QFS2u7S+Yti0U7QtuZvQ==" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js" integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/prismjs@1.27.0/components/prism-core.min.js" integrity="sha512-LCKPTo0gtJ74zCNMbWw04ltmujpzSR4oW+fgN+Y1YclhM5ZrHCZQAJE4quEodcI/G122sRhSGU2BsSRUZ2Gu3w==" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/prismjs@1.27.0/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-GP4x8UWxWyh4BMbyJGOGneiTbkrWEF5izsVJByzVLodP8CuJH/n936+yQDMJJrOPUHLgyPbLiGw2rXmdvGdXHA==" crossorigin="anonymous"></script>
+
+
+
+<script defer src="/blogprog/assets/js/fuji.min.c452db0895356f9c44c6ef6c66f8159165623a3eae37655f86a239265e4dccd142d2f221e20bc53a1b7ac769219431c28bd9be196d1189dcbd0af316cd41a644.js" integrity="sha512-xFLbCJU1b5xExu9sZvgVkWViOj6uN2VfhqI5Jl5NzNFC0vIh4gvFOht6x2khlDHCi9m&#43;GW0Ridy9CvMWzUGmRA=="></script>
+
+
+
+</body>
+
+</html>

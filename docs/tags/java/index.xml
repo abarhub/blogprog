@@ -6,7 +6,25 @@
     <description>Recent content in java on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 31 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Génération du xml à partir du XSD</title>
+      <link>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</guid>
+      <description>Génération du xml à partir du XSD</description>
+    </item>
+    
+    <item>
+      <title>Supprimer une balise xml et son contenu grace a une regex en Java</title>
+      <link>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</guid>
+      <description>Supprimer une balise xml et son contenu grace a une regex en Java</description>
+    </item>
+    
     <item>
       <title>Java Code analyser</title>
       <link>https://abarhub.github.io/blogprog/post/java_code_analyser/</link>

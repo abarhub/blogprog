@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>backup on Blog de programmation</title>
+    <link>https://abarhub.github.io/blogprog/tags/backup/</link>
+    <description>Recent content in backup on Blog de programmation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/backup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liste de logiciels de backup</title>
+      <link>https://abarhub.github.io/blogprog/post/logiciel_backup/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/logiciel_backup/</guid>
+      <description>Liste de logiciels de backup</description>
+    </item>
+    
+  </channel>
+</rss>

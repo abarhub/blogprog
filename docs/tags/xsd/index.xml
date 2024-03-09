@@ -6,7 +6,25 @@
     <description>Recent content in xsd on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/xsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/xsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Génération du xml à partir du XSD</title>
+      <link>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</guid>
+      <description>Génération du xml à partir du XSD</description>
+    </item>
+    
+    <item>
+      <title>Heritage de type en xsd</title>
+      <link>https://abarhub.github.io/blogprog/post/heritage_type_xsd/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/heritage_type_xsd/</guid>
+      <description>Heritage de type en xsd</description>
+    </item>
+    
     <item>
       <title>Validation xsd en gérant la résolution des xsd</title>
       <link>https://abarhub.github.io/blogprog/post/resolve_xsd/</link>

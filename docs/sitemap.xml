@@ -3,15 +3,123 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://abarhub.github.io/blogprog/</loc>
-    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/heritage_type_xsd/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/java/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/oracle/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/sql/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/table_locke/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/xml/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/xsd/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/bat/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/dos/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/robocopy/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/suppression_repertoire_robocopy/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/angular/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/formation_angular/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/backup/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/logiciel_backup/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/ia/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/ia/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/execute_jar/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/trie_typescript_objet/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/typescript/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/shadow_copy/</loc>
+    <lastmod>2023-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/volume-shadow-copy-service/</loc>
+    <lastmod>2023-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/vss/</loc>
+    <lastmod>2023-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/windows/</loc>
+    <lastmod>2023-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/grep.go/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/golang/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/grep/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/rust-command-line-utilities.markdown/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/devoxx/</loc>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/devoxx_2023/</loc>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/repertoire_script_bat/</loc>
+    <lastmod>2023-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/tags/linux/</loc>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abarhub.github.io/blogprog/post/rename_files/</loc>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/design-patterns/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/post/liste_design_patern/</loc>
-    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abarhub.github.io/blogprog/post/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/css/</loc>
@@ -21,9 +129,6 @@
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/post/change_ownership_windows/</loc>
-    <lastmod>2022-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/windows/</loc>
     <lastmod>2022-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/post/extract_table_from_json/</loc>
@@ -89,9 +194,6 @@
     <loc>https://abarhub.github.io/blogprog/post/go_library/</loc>
     <lastmod>2022-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/java/</loc>
-    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://abarhub.github.io/blogprog/post/java_code_analyser/</loc>
     <lastmod>2022-07-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -113,9 +215,6 @@
     <loc>https://abarhub.github.io/blogprog/post/grid_flex_css/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/angular/</loc>
-    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://abarhub.github.io/blogprog/post/unsubscribe/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -128,16 +227,10 @@
     <loc>https://abarhub.github.io/blogprog/post/battery/</loc>
     <lastmod>2022-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/devoxx/</loc>
-    <lastmod>2022-04-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://abarhub.github.io/blogprog/post/devoxx_2022/</loc>
     <lastmod>2022-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/post/base64/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/linux/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/shell/</loc>
@@ -206,9 +299,6 @@
     <loc>https://abarhub.github.io/blogprog/post/resolve_xsd/</loc>
     <lastmod>2021-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/xsd/</loc>
-    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/change-detection/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -254,13 +344,7 @@
     <loc>https://abarhub.github.io/blogprog/tags/spring/</loc>
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/bat/</loc>
-    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://abarhub.github.io/blogprog/post/exemple_env_bat/</loc>
-    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/dos/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/java-security/</loc>
@@ -285,9 +369,6 @@
     <lastmod>2021-01-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</loc>
-    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://abarhub.github.io/blogprog/tags/sql/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://abarhub.github.io/blogprog/tags/jdbc/</loc>

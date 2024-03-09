@@ -6,7 +6,160 @@
     <description>Recent content on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Génération du xml à partir du XSD</title>
+      <link>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</guid>
+      <description>Génération du xml à partir du XSD</description>
+    </item>
+    
+    <item>
+      <title>Heritage de type en xsd</title>
+      <link>https://abarhub.github.io/blogprog/post/heritage_type_xsd/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/heritage_type_xsd/</guid>
+      <description>Heritage de type en xsd</description>
+    </item>
+    
+    <item>
+      <title>Lister les transactions ouvertes en Oracle</title>
+      <link>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</guid>
+      <description>Lister les transactions ouvertes en Oracle</description>
+    </item>
+    
+    <item>
+      <title>Suppression du lock sur une table Oracle</title>
+      <link>https://abarhub.github.io/blogprog/post/table_locke/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/table_locke/</guid>
+      <description>Suppression du lock sur une table Oracle</description>
+    </item>
+    
+    <item>
+      <title>Supprimer une balise xml et son contenu grace a une regex en Java</title>
+      <link>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</guid>
+      <description>Supprimer une balise xml et son contenu grace a une regex en Java</description>
+    </item>
+    
+    <item>
+      <title>suppression d&#39;une grand arborescence sous windows rapidement (robocopy)</title>
+      <link>https://abarhub.github.io/blogprog/post/suppression_repertoire_robocopy/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/suppression_repertoire_robocopy/</guid>
+      <description>suppression d&amp;rsquo;une grand arborescence sous windows rapidement (robocopy)</description>
+    </item>
+    
+    <item>
+      <title>Formation Angular 17 (02/2024)</title>
+      <link>https://abarhub.github.io/blogprog/post/formation_angular/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/formation_angular/</guid>
+      <description>Formation Angular 17 (02/2024)</description>
+    </item>
+    
+    <item>
+      <title>Liste de logiciels de backup</title>
+      <link>https://abarhub.github.io/blogprog/post/logiciel_backup/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/logiciel_backup/</guid>
+      <description>Liste de logiciels de backup</description>
+    </item>
+    
+    <item>
+      <title>Les outils pour l&#39;ia</title>
+      <link>https://abarhub.github.io/blogprog/post/ia/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/ia/</guid>
+      <description>Les outils pour l&amp;rsquo;ia</description>
+    </item>
+    
+    <item>
+      <title>Execution du premier jar trouvé</title>
+      <link>https://abarhub.github.io/blogprog/post/execute_jar/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/execute_jar/</guid>
+      <description>Execution du premier jar trouvé</description>
+    </item>
+    
+    <item>
+      <title>Trie en Typescript d&#39;un objet sur 2 champs</title>
+      <link>https://abarhub.github.io/blogprog/post/trie_typescript_objet/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/trie_typescript_objet/</guid>
+      <description>Trie en Typescript d&amp;rsquo;un objet sur 2 champs</description>
+    </item>
+    
+    <item>
+      <title>gestion des shadow copy (vss) sous windows</title>
+      <link>https://abarhub.github.io/blogprog/post/shadow_copy/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/shadow_copy/</guid>
+      <description>gestion des shadow copy (vss) sous windows</description>
+    </item>
+    
+    <item>
+      <title>A simple grep implementation in Go</title>
+      <link>https://abarhub.github.io/blogprog/post/grep.go/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/grep.go/</guid>
+      <description>A simple grep implementation in Go</description>
+    </item>
+    
+    <item>
+      <title>A curated list of command-line utilities written in Rust</title>
+      <link>https://abarhub.github.io/blogprog/post/rust-command-line-utilities.markdown/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/rust-command-line-utilities.markdown/</guid>
+      <description>A curated list of command-line utilities written in Rust</description>
+    </item>
+    
+    <item>
+      <title>Devoxx 2023 du 12 au 14 avril</title>
+      <link>https://abarhub.github.io/blogprog/post/devoxx_2023/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/devoxx_2023/</guid>
+      <description>Devoxx 2023 du 12 au 14 avril</description>
+    </item>
+    
+    <item>
+      <title>Récupération du répertoire du script BAT</title>
+      <link>https://abarhub.github.io/blogprog/post/repertoire_script_bat/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/repertoire_script_bat/</guid>
+      <description>Récupération du répertoire du script BAT</description>
+    </item>
+    
+    <item>
+      <title>Renommage de fichiers</title>
+      <link>https://abarhub.github.io/blogprog/post/rename_files/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/rename_files/</guid>
+      <description>Renommage de fichiers</description>
+    </item>
+    
     <item>
       <title>Liste de Design Patterns</title>
       <link>https://abarhub.github.io/blogprog/post/liste_design_patern/</link>
