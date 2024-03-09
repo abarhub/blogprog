@@ -16,3 +16,6 @@ Les fichiers sont générés dans le répertoire docs/. Il faut penser à suppri
 
 
 Le site généré est [ici](https://abarhub.github.io/blogprog/).
+
+Pour le mettre àjour, il faut executer l'outils updatesite.
+
