@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Langages on Blog de programmation</title>
-    <link>http://localhost:1313/tags/langages/</link>
+    <link>https://example.com/tags/langages/</link>
     <description>Recent content in Langages on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/langages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/langages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Liste de langages</title>
-      <link>http://localhost:1313/post/langages/</link>
+      <link>https://example.com/post/langages/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/langages/</guid>
+      <guid>https://example.com/post/langages/</guid>
       <description>
         
           

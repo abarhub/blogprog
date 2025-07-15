@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elasticsearch on Blog de programmation</title>
-    <link>http://localhost:1313/tags/elasticsearch/</link>
+    <link>https://example.com/tags/elasticsearch/</link>
     <description>Recent content in Elasticsearch on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exemple de requete en elasticsearch</title>
-      <link>http://localhost:1313/post/elasticsearch_cheat_sheet/</link>
+      <link>https://example.com/post/elasticsearch_cheat_sheet/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/elasticsearch_cheat_sheet/</guid>
+      <guid>https://example.com/post/elasticsearch_cheat_sheet/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Aide mémoire sur ElasticSearch</title>
-      <link>http://localhost:1313/post/elasticsearch/</link>
+      <link>https://example.com/post/elasticsearch/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/elasticsearch/</guid>
+      <guid>https://example.com/post/elasticsearch/</guid>
       <description>
         
           

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Backup on Blog de programmation</title>
-    <link>http://localhost:1313/tags/backup/</link>
+    <link>https://example.com/tags/backup/</link>
     <description>Recent content in Backup on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/backup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/backup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Liste de logiciels de backup</title>
-      <link>http://localhost:1313/post/logiciel_backup/</link>
+      <link>https://example.com/post/logiciel_backup/</link>
       <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/logiciel_backup/</guid>
+      <guid>https://example.com/post/logiciel_backup/</guid>
       <description>
         
           

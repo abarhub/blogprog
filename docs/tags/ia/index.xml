@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ia on Blog de programmation</title>
-    <link>http://localhost:1313/tags/ia/</link>
+    <link>https://example.com/tags/ia/</link>
     <description>Recent content in Ia on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/ia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les outils pour l&#39;ia</title>
-      <link>http://localhost:1313/post/ia/</link>
+      <link>https://example.com/post/ia/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/ia/</guid>
+      <guid>https://example.com/post/ia/</guid>
       <description>
         
           

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shell on Blog de programmation</title>
-    <link>http://localhost:1313/tags/shell/</link>
+    <link>https://example.com/tags/shell/</link>
     <description>Recent content in Shell on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Encode et décode en Base64</title>
-      <link>http://localhost:1313/post/base64/</link>
+      <link>https://example.com/post/base64/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/base64/</guid>
+      <guid>https://example.com/post/base64/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Internal Programming</title>
-      <link>http://localhost:1313/post/internal_programming/</link>
+      <link>https://example.com/post/internal_programming/</link>
       <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/internal_programming/</guid>
+      <guid>https://example.com/post/internal_programming/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Compter les fichiers jpeg par répertoire</title>
-      <link>http://localhost:1313/post/count_jpg_files/</link>
+      <link>https://example.com/post/count_jpg_files/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/count_jpg_files/</guid>
+      <guid>https://example.com/post/count_jpg_files/</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Suppression des branches mergées</title>
-      <link>http://localhost:1313/post/delete_merged_branche/</link>
+      <link>https://example.com/post/delete_merged_branche/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/delete_merged_branche/</guid>
+      <guid>https://example.com/post/delete_merged_branche/</guid>
       <description>
         
           
@@ -74,10 +74,10 @@
     
     <item>
       <title>Exemple de shell en c</title>
-      <link>http://localhost:1313/post/exemple_shell_c/</link>
+      <link>https://example.com/post/exemple_shell_c/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/exemple_shell_c/</guid>
+      <guid>https://example.com/post/exemple_shell_c/</guid>
       <description>
         
           
@@ -90,10 +90,10 @@
     
     <item>
       <title>Commandes sous dos</title>
-      <link>http://localhost:1313/post/exemple_env_bat/</link>
+      <link>https://example.com/post/exemple_env_bat/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/exemple_env_bat/</guid>
+      <guid>https://example.com/post/exemple_env_bat/</guid>
       <description>
         
           
@@ -106,10 +106,10 @@
     
     <item>
       <title>Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances</title>
-      <link>http://localhost:1313/post/install_desinstall_generation_requirement_txt_sh/</link>
+      <link>https://example.com/post/install_desinstall_generation_requirement_txt_sh/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/install_desinstall_generation_requirement_txt_sh/</guid>
+      <guid>https://example.com/post/install_desinstall_generation_requirement_txt_sh/</guid>
       <description>
         
           
@@ -122,10 +122,10 @@
     
     <item>
       <title>Création d&#39;un composant avec un module et une route</title>
-      <link>http://localhost:1313/post/create_component_with_module_and_routes/</link>
+      <link>https://example.com/post/create_component_with_module_and_routes/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/create_component_with_module_and_routes/</guid>
+      <guid>https://example.com/post/create_component_with_module_and_routes/</guid>
       <description>
         
           

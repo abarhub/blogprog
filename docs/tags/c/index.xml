@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C on Blog de programmation</title>
-    <link>http://localhost:1313/tags/c/</link>
+    <link>https://example.com/tags/c/</link>
     <description>Recent content in C on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C library and tools</title>
-      <link>http://localhost:1313/post/c_library_tools/</link>
+      <link>https://example.com/post/c_library_tools/</link>
       <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/c_library_tools/</guid>
+      <guid>https://example.com/post/c_library_tools/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Exemple de shell en c</title>
-      <link>http://localhost:1313/post/exemple_shell_c/</link>
+      <link>https://example.com/post/exemple_shell_c/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/exemple_shell_c/</guid>
+      <guid>https://example.com/post/exemple_shell_c/</guid>
       <description>
         
           
