@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spring Boot on Blog de programmation</title>
-    <link>https://example.com/tags/spring-boot/</link>
+    <link>https://abarhub.github.io/blogprog/tags/spring-boot/</link>
     <description>Recent content in Spring Boot on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Récupérer la version avec spring boot</title>
-      <link>https://example.com/post/springboot_version/</link>
+      <link>https://abarhub.github.io/blogprog/post/springboot_version/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/springboot_version/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/springboot_version/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Externalisation de la configuration avec spring boot</title>
-      <link>https://example.com/post/external_config_spring_boot/</link>
+      <link>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/external_config_spring_boot/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Débugage spring</title>
-      <link>https://example.com/post/debug_spring/</link>
+      <link>https://abarhub.github.io/blogprog/post/debug_spring/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/debug_spring/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/debug_spring/</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Spring security OAuth 2 documentation</title>
-      <link>https://example.com/post/spring_security_oauth2_doc/</link>
+      <link>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/spring_security_oauth2_doc/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</guid>
       <description>
         
           
@@ -74,10 +74,10 @@
     
     <item>
       <title>Sites sur Spring</title>
-      <link>https://example.com/post/site_spring/</link>
+      <link>https://abarhub.github.io/blogprog/post/site_spring/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/site_spring/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/site_spring/</guid>
       <description>
         
           

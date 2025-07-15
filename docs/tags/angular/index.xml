@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Angular on Blog de programmation</title>
-    <link>https://example.com/tags/angular/</link>
+    <link>https://abarhub.github.io/blogprog/tags/angular/</link>
     <description>Recent content in Angular on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/angular/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formation Angular 17 (02/2024)</title>
-      <link>https://example.com/post/formation_angular/</link>
+      <link>https://abarhub.github.io/blogprog/post/formation_angular/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/formation_angular/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/formation_angular/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Unsubscribe des observables</title>
-      <link>https://example.com/post/unsubscribe/</link>
+      <link>https://abarhub.github.io/blogprog/post/unsubscribe/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/unsubscribe/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/unsubscribe/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Angular cheatsheet</title>
-      <link>https://example.com/post/angular_cheatsheet/</link>
+      <link>https://abarhub.github.io/blogprog/post/angular_cheatsheet/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/angular_cheatsheet/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/angular_cheatsheet/</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Détection du changement sur Angular</title>
-      <link>https://example.com/post/angular_change_detection/</link>
+      <link>https://abarhub.github.io/blogprog/post/angular_change_detection/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/angular_change_detection/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/angular_change_detection/</guid>
       <description>
         
           
@@ -74,10 +74,10 @@
     
     <item>
       <title>Débugage avec Angular</title>
-      <link>https://example.com/post/debug_angular/</link>
+      <link>https://abarhub.github.io/blogprog/post/debug_angular/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/debug_angular/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/debug_angular/</guid>
       <description>
         
           
@@ -90,10 +90,10 @@
     
     <item>
       <title>Exemple de ngclass</title>
-      <link>https://example.com/post/ngclass_angular/</link>
+      <link>https://abarhub.github.io/blogprog/post/ngclass_angular/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/ngclass_angular/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/ngclass_angular/</guid>
       <description>
         
           
@@ -106,10 +106,10 @@
     
     <item>
       <title>Création d&#39;un composant avec un module et une route</title>
-      <link>https://example.com/post/create_component_with_module_and_routes/</link>
+      <link>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/create_component_with_module_and_routes/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</guid>
       <description>
         
           

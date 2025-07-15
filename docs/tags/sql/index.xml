@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sql on Blog de programmation</title>
-    <link>https://example.com/tags/sql/</link>
+    <link>https://abarhub.github.io/blogprog/tags/sql/</link>
     <description>Recent content in Sql on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lister les transactions ouvertes en Oracle</title>
-      <link>https://example.com/post/liste_transactions_ouvertes_oracle/</link>
+      <link>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/liste_transactions_ouvertes_oracle/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Suppression du lock sur une table Oracle</title>
-      <link>https://example.com/post/table_locke/</link>
+      <link>https://abarhub.github.io/blogprog/post/table_locke/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/table_locke/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/table_locke/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Exemple de requete sql pour détruire toutes les tables d&#39;un schéma</title>
-      <link>https://example.com/post/drop_all_table_oracle_sql/</link>
+      <link>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/drop_all_table_oracle_sql/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Script de création d&#39;un schéma Mysql avec l&#39;utilisateur</title>
-      <link>https://example.com/post/script_schema_mysql_sql/</link>
+      <link>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/script_schema_mysql_sql/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</guid>
       <description>
         
           
@@ -74,10 +74,10 @@
     
     <item>
       <title>Gestion des dates en oracle</title>
-      <link>https://example.com/post/use_date_oracle_sql/</link>
+      <link>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/use_date_oracle_sql/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</guid>
       <description>
         
           
@@ -90,10 +90,10 @@
     
     <item>
       <title>Stopper l&#39;execution d&#39;un script à la première erreur en Oracle</title>
-      <link>https://example.com/post/script_with_error_sql/</link>
+      <link>https://abarhub.github.io/blogprog/post/script_with_error_sql/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/script_with_error_sql/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/script_with_error_sql/</guid>
       <description>
         
           

@@ -2,110 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/pt/</loc>
+    <loc>https://abarhub.github.io/blogprog/pt/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://abarhub.github.io/blogprog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/"
+                href="https://abarhub.github.io/blogprog/pt/"
                 />
   </url><url>
-    <loc>https://example.com/pt/tags/css/</loc>
+    <loc>https://abarhub.github.io/blogprog/pt/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/css/"
+                href="https://abarhub.github.io/blogprog/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/css/"
+                href="https://abarhub.github.io/blogprog/pt/tags/css/"
                 />
   </url><url>
-    <loc>https://example.com/pt/tags/destacado/</loc>
+    <loc>https://abarhub.github.io/blogprog/pt/tags/destacado/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/pt/post/markdown-syntax/</loc>
+    <loc>https://abarhub.github.io/blogprog/pt/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/markdown-syntax/"
+                href="https://abarhub.github.io/blogprog/post/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/post/markdown-syntax/"
+                href="https://abarhub.github.io/blogprog/pt/post/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://example.com/pt/series/guia-de-temas/</loc>
+    <loc>https://abarhub.github.io/blogprog/pt/series/guia-de-temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/pt/tags/html/</loc>
+    <loc>https://abarhub.github.io/blogprog/pt/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/html/"
+                href="https://abarhub.github.io/blogprog/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/html/"
+                href="https://abarhub.github.io/blogprog/pt/tags/html/"
                 />
   </url><url>
-    <loc>https://example.com/pt/tags/markdown/</loc>
+    <loc>https://abarhub.github.io/blogprog/pt/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/markdown/"
+                href="https://abarhub.github.io/blogprog/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/markdown/"
+                href="https://abarhub.github.io/blogprog/pt/tags/markdown/"
                 />
   </url><url>
-    <loc>https://example.com/pt/post/</loc>
+    <loc>https://abarhub.github.io/blogprog/pt/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="https://abarhub.github.io/blogprog/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/post/"
+                href="https://abarhub.github.io/blogprog/pt/post/"
                 />
   </url><url>
-    <loc>https://example.com/pt/categories/sintaxe/</loc>
+    <loc>https://abarhub.github.io/blogprog/pt/categories/sintaxe/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/pt/categories/temas/</loc>
+    <loc>https://abarhub.github.io/blogprog/pt/categories/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/pt/tags/temas/</loc>
+    <loc>https://abarhub.github.io/blogprog/pt/tags/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/pt/about/</loc>
+    <loc>https://abarhub.github.io/blogprog/pt/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://abarhub.github.io/blogprog/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/about/"
+                href="https://abarhub.github.io/blogprog/pt/about/"
                 />
   </url>
 </urlset>

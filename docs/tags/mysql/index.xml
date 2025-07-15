@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MySQL on Blog de programmation</title>
-    <link>https://example.com/tags/mysql/</link>
+    <link>https://abarhub.github.io/blogprog/tags/mysql/</link>
     <description>Recent content in MySQL on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;url jdbc pour se connecter à une base MySQL</title>
-      <link>https://example.com/post/url_jdbc_mysql/</link>
+      <link>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/url_jdbc_mysql/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Script de création d&#39;un schéma Mysql avec l&#39;utilisateur</title>
-      <link>https://example.com/post/script_schema_mysql_sql/</link>
+      <link>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/script_schema_mysql_sql/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</guid>
       <description>
         
           

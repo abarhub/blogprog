@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on Blog de programmation</title>
-    <link>https://example.com/tags/java/</link>
+    <link>https://abarhub.github.io/blogprog/tags/java/</link>
     <description>Recent content in Java on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Génération du xml à partir du XSD</title>
-      <link>https://example.com/post/generation_xml_a_partir_xsd/</link>
+      <link>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/generation_xml_a_partir_xsd/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Supprimer une balise xml et son contenu grace a une regex en Java</title>
-      <link>https://example.com/post/supprimerbalidexml/</link>
+      <link>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/supprimerbalidexml/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Java Code analyser</title>
-      <link>https://example.com/post/java_code_analyser/</link>
+      <link>https://abarhub.github.io/blogprog/post/java_code_analyser/</link>
       <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/java_code_analyser/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/java_code_analyser/</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Récupérer la version avec spring boot</title>
-      <link>https://example.com/post/springboot_version/</link>
+      <link>https://abarhub.github.io/blogprog/post/springboot_version/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/springboot_version/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/springboot_version/</guid>
       <description>
         
           
@@ -74,10 +74,10 @@
     
     <item>
       <title>Validation xsd en gérant la résolution des xsd</title>
-      <link>https://example.com/post/resolve_xsd/</link>
+      <link>https://abarhub.github.io/blogprog/post/resolve_xsd/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/resolve_xsd/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/resolve_xsd/</guid>
       <description>
         
           
@@ -90,10 +90,10 @@
     
     <item>
       <title>Documentation Officiel de Java</title>
-      <link>https://example.com/post/java_doc/</link>
+      <link>https://abarhub.github.io/blogprog/post/java_doc/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/java_doc/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/java_doc/</guid>
       <description>
         
           
@@ -106,10 +106,10 @@
     
     <item>
       <title>Débugage spring</title>
-      <link>https://example.com/post/debug_spring/</link>
+      <link>https://abarhub.github.io/blogprog/post/debug_spring/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/debug_spring/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/debug_spring/</guid>
       <description>
         
           
@@ -122,10 +122,10 @@
     
     <item>
       <title>Spring security OAuth 2 documentation</title>
-      <link>https://example.com/post/spring_security_oauth2_doc/</link>
+      <link>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/spring_security_oauth2_doc/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</guid>
       <description>
         
           
@@ -138,10 +138,10 @@
     
     <item>
       <title>L&#39;url jdbc pour se connecter à une base MySQL</title>
-      <link>https://example.com/post/url_jdbc_mysql/</link>
+      <link>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/url_jdbc_mysql/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</guid>
       <description>
         
           
@@ -154,10 +154,10 @@
     
     <item>
       <title>Exemple de test paramétré</title>
-      <link>https://example.com/post/exemple_junit5_test_java/</link>
+      <link>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/exemple_junit5_test_java/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</guid>
       <description>
         
           
@@ -170,10 +170,10 @@
     
     <item>
       <title>Ajout des jar dans la stacktrace pour LogBack</title>
-      <link>https://example.com/post/logback_with_jar_in_exception/</link>
+      <link>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/logback_with_jar_in_exception/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</guid>
       <description>
         
           
@@ -186,10 +186,10 @@
     
     <item>
       <title>Logger toutes les propriétés de Spring Boot</title>
-      <link>https://example.com/post/properties_logger_java/</link>
+      <link>https://abarhub.github.io/blogprog/post/properties_logger_java/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/properties_logger_java/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/properties_logger_java/</guid>
       <description>
         
           
@@ -202,10 +202,10 @@
     
     <item>
       <title>Exemple de loggeur avec slf4j</title>
-      <link>https://example.com/post/exemple_logger_java/</link>
+      <link>https://abarhub.github.io/blogprog/post/exemple_logger_java/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/exemple_logger_java/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/exemple_logger_java/</guid>
       <description>
         
           
@@ -218,10 +218,10 @@
     
     <item>
       <title>Accès à un fichier de ressource</title>
-      <link>https://example.com/post/read_ressouce_in_classpath_java/</link>
+      <link>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/read_ressouce_in_classpath_java/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</guid>
       <description>
         
           
@@ -234,10 +234,10 @@
     
     <item>
       <title>Capture des paramètres avec Mockito</title>
-      <link>https://example.com/post/mockito_capture_java/</link>
+      <link>https://abarhub.github.io/blogprog/post/mockito_capture_java/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/mockito_capture_java/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/mockito_capture_java/</guid>
       <description>
         
           
@@ -250,10 +250,10 @@
     
     <item>
       <title>Changement de version des pom</title>
-      <link>https://example.com/post/update_version_sh/</link>
+      <link>https://abarhub.github.io/blogprog/post/update_version_sh/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/update_version_sh/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/update_version_sh/</guid>
       <description>
         
           
@@ -271,10 +271,10 @@
     
     <item>
       <title>Sites sur Spring</title>
-      <link>https://example.com/post/site_spring/</link>
+      <link>https://abarhub.github.io/blogprog/post/site_spring/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/site_spring/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/site_spring/</guid>
       <description>
         
           

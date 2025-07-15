@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xsd on Blog de programmation</title>
-    <link>https://example.com/tags/xsd/</link>
+    <link>https://abarhub.github.io/blogprog/tags/xsd/</link>
     <description>Recent content in Xsd on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/xsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/xsd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Génération du xml à partir du XSD</title>
-      <link>https://example.com/post/generation_xml_a_partir_xsd/</link>
+      <link>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/generation_xml_a_partir_xsd/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Heritage de type en xsd</title>
-      <link>https://example.com/post/heritage_type_xsd/</link>
+      <link>https://abarhub.github.io/blogprog/post/heritage_type_xsd/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/heritage_type_xsd/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/heritage_type_xsd/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Validation xsd en gérant la résolution des xsd</title>
-      <link>https://example.com/post/resolve_xsd/</link>
+      <link>https://abarhub.github.io/blogprog/post/resolve_xsd/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/resolve_xsd/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/resolve_xsd/</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Accès à un fichier de ressource</title>
-      <link>https://example.com/post/read_ressouce_in_classpath_java/</link>
+      <link>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/read_ressouce_in_classpath_java/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</guid>
       <description>
         
           

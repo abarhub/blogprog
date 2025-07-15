@@ -2,585 +2,585 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://abarhub.github.io/blogprog/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/"
+                href="https://abarhub.github.io/blogprog/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://abarhub.github.io/blogprog/"
                 />
   </url><url>
-    <loc>https://example.com/post/generation_xml_a_partir_xsd/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/heritage_type_xsd/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/heritage_type_xsd/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/index/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/java/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/java/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/liste_transactions_ouvertes_oracle/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/oracle/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/oracle/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/post/"
+                href="https://abarhub.github.io/blogprog/pt/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="https://abarhub.github.io/blogprog/post/"
                 />
   </url><url>
-    <loc>https://example.com/tags/sql/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/sql/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/table_locke/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/table_locke/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/supprimerbalidexml/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/xml/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/xml/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/xsd/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/xsd/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/bat/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/bat/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/dos/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/dos/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/robocopy/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/robocopy/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/suppression_repertoire_robocopy/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/suppression_repertoire_robocopy/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/angular/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/angular/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/formation_angular/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/formation_angular/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/backup/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/backup/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/logiciel_backup/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/logiciel_backup/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/ia/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/ia/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/ia/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/ia/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/execute_jar/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/execute_jar/</loc>
     <lastmod>2023-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/trie_typescript_objet/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/trie_typescript_objet/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/typescript/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/typescript/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/shadow_copy/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/shadow_copy/</loc>
     <lastmod>2023-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/volume-shadow-copy-service/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/volume-shadow-copy-service/</loc>
     <lastmod>2023-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/vss/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/vss/</loc>
     <lastmod>2023-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/windows/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/windows/</loc>
     <lastmod>2023-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/grep.go/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/grep.go/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/golang/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/golang/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/grep/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/grep/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/rust-command-line-utilities.markdown/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/rust-command-line-utilities.markdown/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/devoxx/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/devoxx/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/devoxx_2023/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/devoxx_2023/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/repertoire_script_bat/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/repertoire_script_bat/</loc>
     <lastmod>2023-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/linux/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/linux/</loc>
     <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/rename_files/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/rename_files/</loc>
     <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/design-patterns/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/design-patterns/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/liste_design_patern/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/liste_design_patern/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/css/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/css/"
+                href="https://abarhub.github.io/blogprog/pt/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/css/"
+                href="https://abarhub.github.io/blogprog/tags/css/"
                 />
   </url><url>
-    <loc>https://example.com/post/outils_css/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/outils_css/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/change_ownership_windows/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/change_ownership_windows/</loc>
     <lastmod>2022-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/extract_table_from_json/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/extract_table_from_json/</loc>
     <lastmod>2022-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/json/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/json/</loc>
     <lastmod>2022-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/size_analyse.py/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/size_analyse.py/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/python/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/python/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/tools_test_web/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/tools_test_web/</loc>
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/outils/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/outils/</loc>
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/liste_files_windows/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/liste_files_windows/</loc>
     <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/menu.bat/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/menu.bat/</loc>
     <lastmod>2022-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/tar/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/tar/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/tar/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/tar/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/disable_button_if_empty/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/disable_button_if_empty/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/javascript/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/javascript/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/web/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/web/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/depandancy_tree_version/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/depandancy_tree_version/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/maven/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/maven/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/stat_coding/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/stat_coding/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/cheatsheet/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/cheatsheet/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/elasticsearch/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/elasticsearch/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/elasticsearch_cheat_sheet/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/elasticsearch_cheat_sheet/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/go/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/go/</loc>
     <lastmod>2022-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/go_library/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/go_library/</loc>
     <lastmod>2022-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/java_code_analyser/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/java_code_analyser/</loc>
     <lastmod>2022-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/langages/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/langages/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/langages/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/langages/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/c/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/c/</loc>
     <lastmod>2022-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/c_library_tools/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/c_library_tools/</loc>
     <lastmod>2022-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/librairie/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/librairie/</loc>
     <lastmod>2022-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/grid_flex_css/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/grid_flex_css/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/unsubscribe/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/unsubscribe/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/curl/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/curl/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/include_file_in_json/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/include_file_in_json/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/battery/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/battery/</loc>
     <lastmod>2022-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/devoxx_2022/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/devoxx_2022/</loc>
     <lastmod>2022-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/base64/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/base64/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/shell/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/shell/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/angular_cheatsheet/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/angular_cheatsheet/</loc>
     <lastmod>2022-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/internal_programming/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/internal_programming/</loc>
     <lastmod>2022-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/hugo/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/hugo/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/syntax/</loc>
+    <loc>https://abarhub.github.io/blogprog/categories/syntax/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/themes-guide/</loc>
+    <loc>https://abarhub.github.io/blogprog/series/themes-guide/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/bundle/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/bundle/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/count_jpg_files/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/count_jpg_files/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/git/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/git/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/image/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/image/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/jpg/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/jpg/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/powershell/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/powershell/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/delete_merged_branche/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/delete_merged_branche/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/build/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/build/</loc>
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/springboot_version/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/springboot_version/</loc>
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/spring-boot/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/spring-boot/</loc>
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/version/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/version/</loc>
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/map/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/map/</loc>
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/ligne-de-commande/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/ligne-de-commande/</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/liste_outils/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/liste_outils/</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/helloworld_html/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/helloworld_html/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/helloworld/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/helloworld/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/html/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/html/"
+                href="https://abarhub.github.io/blogprog/pt/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/html/"
+                href="https://abarhub.github.io/blogprog/tags/html/"
                 />
   </url><url>
-    <loc>https://example.com/post/installation_node_npm_avec_maven/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/npm/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/npm/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/helloworld_python/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/helloworld_python/</loc>
     <lastmod>2021-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/resolve_xsd/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/resolve_xsd/</loc>
     <lastmod>2021-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/notices/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/notices/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/change-detection/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/change-detection/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/angular_change_detection/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/angular_change_detection/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/tools/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/tools/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/maven-dependancy/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/maven-dependancy/</loc>
     <lastmod>2021-07-18T16:21:12+01:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/configuration/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/configuration/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/external_config_spring_boot/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/debug/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/debug/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/debug_angular/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/debug_angular/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/exemple_shell_c/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/exemple_shell_c/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/java_doc/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/java_doc/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/ngclass_angular/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/ngclass_angular/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/markdown/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/markdown/"
+                href="https://abarhub.github.io/blogprog/pt/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/markdown/"
+                href="https://abarhub.github.io/blogprog/tags/markdown/"
                 />
   </url><url>
-    <loc>https://example.com/post/markdown_gist/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/markdown_gist/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/debug_spring/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/debug_spring/</loc>
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/spring/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/spring/</loc>
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/exemple_env_bat/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/exemple_env_bat/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/java-security/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/java-security/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/oauth2/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/oauth2/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/openidconnect/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/openidconnect/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/spring_security_oauth2_doc/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/drop_all_table_oracle_sql/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/jdbc/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/jdbc/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/url_jdbc_mysql/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/mysql/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/mysql/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/script_schema_mysql_sql/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/exemple_junit5_test_java/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/junit5/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/junit5/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/test/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/test/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/logback_with_jar_in_exception/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/logback/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/logback/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/use_date_oracle_sql/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/log/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/log/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/properties_logger_java/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/properties_logger_java/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/install_desinstall_generation_requirement_txt_sh/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/create_component_with_module_and_routes/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/bootstrap/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/bootstrap/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/site_bootstrap_tutorial/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/site_bootstrap_tutorial/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/exemple_logger_java/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/exemple_logger_java/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/slf4j/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/slf4j/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/read_ressouce_in_classpath_java/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/elasticsearch/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/elasticsearch/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/calcul_dates/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/calcul_dates/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/mockito_capture_java/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/mockito_capture_java/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/update_version_sh/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/update_version_sh/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/classpath/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/classpath/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/date/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/date/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/mockito/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/mockito/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/plsql/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/plsql/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/site_spring/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/site_spring/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/script_with_error_sql/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/script_with_error_sql/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/featured/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/featured/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/markdown-syntax/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/post/markdown-syntax/"
+                href="https://abarhub.github.io/blogprog/pt/post/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/markdown-syntax/"
+                href="https://abarhub.github.io/blogprog/post/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://example.com/categories/themes/</loc>
+    <loc>https://abarhub.github.io/blogprog/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/themes/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/privacy/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/rich-content/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/shortcodes/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/placeholder-text/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/text/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/math-typesetting/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>https://abarhub.github.io/blogprog/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/emoji-support/</loc>
+    <loc>https://abarhub.github.io/blogprog/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://abarhub.github.io/blogprog/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/about/"
+                href="https://abarhub.github.io/blogprog/pt/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://abarhub.github.io/blogprog/about/"
                 />
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://abarhub.github.io/blogprog/archives/</loc>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://abarhub.github.io/blogprog/search/</loc>
   </url>
 </urlset>

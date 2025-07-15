@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Build on Blog de programmation</title>
-    <link>https://example.com/tags/build/</link>
+    <link>https://abarhub.github.io/blogprog/tags/build/</link>
     <description>Recent content in Build on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/build/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/build/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Récupérer la version avec spring boot</title>
-      <link>https://example.com/post/springboot_version/</link>
+      <link>https://abarhub.github.io/blogprog/post/springboot_version/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/springboot_version/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/springboot_version/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Installation de node et npm avec maven</title>
-      <link>https://example.com/post/installation_node_npm_avec_maven/</link>
+      <link>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</link>
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/installation_node_npm_avec_maven/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</guid>
       <description>
         
           
