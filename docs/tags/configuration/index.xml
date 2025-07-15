@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>configuration on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/configuration/</link>
-    <description>Recent content in configuration on Blog de programmation</description>
+    <title>Configuration on Clarity</title>
+    <link>http://localhost:1313/tags/configuration/</link>
+    <description>Recent content in Configuration on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Externalisation de la configuration avec spring boot</title>
-      <link>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</link>
+      <link>http://localhost:1313/post/external_config_spring_boot/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</guid>
-      <description>Externalisation de la configuration avec spring boot</description>
+      <guid>http://localhost:1313/post/external_config_spring_boot/</guid>
+      <description>
+        
+          
+            Externalisation de la configuration avec spring boot
+          
+          
+        
+      </description>
     </item>
     
   </channel>

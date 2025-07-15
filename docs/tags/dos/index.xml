@@ -1,46 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dos on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/dos/</link>
-    <description>Recent content in dos on Blog de programmation</description>
+    <title>Dos on Clarity</title>
+    <link>http://localhost:1313/tags/dos/</link>
+    <description>Recent content in Dos on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/dos/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/dos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>suppression d&#39;une grand arborescence sous windows rapidement (robocopy)</title>
-      <link>https://abarhub.github.io/blogprog/post/suppression_repertoire_robocopy/</link>
+      <link>http://localhost:1313/post/suppression_repertoire_robocopy/</link>
       <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/suppression_repertoire_robocopy/</guid>
-      <description>suppression d&amp;rsquo;une grand arborescence sous windows rapidement (robocopy)</description>
+      <guid>http://localhost:1313/post/suppression_repertoire_robocopy/</guid>
+      <description>
+        
+          
+            suppression d&#39;une grand arborescence sous windows rapidement (robocopy)
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Execution du premier jar trouvé</title>
-      <link>https://abarhub.github.io/blogprog/post/execute_jar/</link>
+      <link>http://localhost:1313/post/execute_jar/</link>
       <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/execute_jar/</guid>
-      <description>Execution du premier jar trouvé</description>
+      <guid>http://localhost:1313/post/execute_jar/</guid>
+      <description>
+        
+          
+            Execution du premier jar trouvé
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Récupération du répertoire du script BAT</title>
-      <link>https://abarhub.github.io/blogprog/post/repertoire_script_bat/</link>
+      <link>http://localhost:1313/post/repertoire_script_bat/</link>
       <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/repertoire_script_bat/</guid>
-      <description>Récupération du répertoire du script BAT</description>
+      <guid>http://localhost:1313/post/repertoire_script_bat/</guid>
+      <description>
+        
+          
+            Récupération du répertoire du script BAT
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Commandes sous dos</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_env_bat/</link>
+      <link>http://localhost:1313/post/exemple_env_bat/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_env_bat/</guid>
-      <description>Commandes sous dos</description>
+      <guid>http://localhost:1313/post/exemple_env_bat/</guid>
+      <description>
+        
+          
+            Commandes sous dos
+          
+          
+        
+      </description>
     </item>
     
   </channel>

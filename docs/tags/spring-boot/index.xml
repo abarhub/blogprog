@@ -1,57 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>spring boot on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/spring-boot/</link>
-    <description>Recent content in spring boot on Blog de programmation</description>
+    <title>Spring Boot on Clarity</title>
+    <link>http://localhost:1313/tags/spring-boot/</link>
+    <description>Recent content in Spring Boot on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Récupérer la version avec spring boot</title>
-      <link>https://abarhub.github.io/blogprog/post/springboot_version/</link>
+      <link>http://localhost:1313/post/springboot_version/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/springboot_version/</guid>
-      <description>Récupérer la version avec spring boot</description>
+      <guid>http://localhost:1313/post/springboot_version/</guid>
+      <description>
+        
+          
+            Récupérer la version avec spring boot
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Externalisation de la configuration avec spring boot</title>
-      <link>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</link>
+      <link>http://localhost:1313/post/external_config_spring_boot/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</guid>
-      <description>Externalisation de la configuration avec spring boot</description>
+      <guid>http://localhost:1313/post/external_config_spring_boot/</guid>
+      <description>
+        
+          
+            Externalisation de la configuration avec spring boot
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Débugage spring</title>
-      <link>https://abarhub.github.io/blogprog/post/debug_spring/</link>
+      <link>http://localhost:1313/post/debug_spring/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/debug_spring/</guid>
-      <description>Débugage spring</description>
+      <guid>http://localhost:1313/post/debug_spring/</guid>
+      <description>
+        
+          
+            Débugage spring
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Spring security OAuth 2 documentation</title>
-      <link>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</link>
+      <link>http://localhost:1313/post/spring_security_oauth2_doc/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</guid>
-      <description>Spring security OAuth 2 documentation</description>
+      <guid>http://localhost:1313/post/spring_security_oauth2_doc/</guid>
+      <description>
+        
+          
+            Spring security OAuth 2 documentation
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Sites sur Spring</title>
-      <link>https://abarhub.github.io/blogprog/post/site_spring/</link>
+      <link>http://localhost:1313/post/site_spring/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/site_spring/</guid>
-      <description>site sur spring :
-https://spring.io/
-https://www.baeldung.com/spring-tutorial</description>
+      <guid>http://localhost:1313/post/site_spring/</guid>
+      <description>
+        
+          
+            &lt;p&gt;site sur spring :&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://spring.io/&#34;&gt;https://spring.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.baeldung.com/spring-tutorial&#34;&gt;https://www.baeldung.com/spring-tutorial&lt;/a&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
     
   </channel>

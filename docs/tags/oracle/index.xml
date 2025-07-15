@@ -1,28 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>oracle on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/oracle/</link>
-    <description>Recent content in oracle on Blog de programmation</description>
+    <title>Oracle on Clarity</title>
+    <link>http://localhost:1313/tags/oracle/</link>
+    <description>Recent content in Oracle on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lister les transactions ouvertes en Oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</link>
+      <link>http://localhost:1313/post/liste_transactions_ouvertes_oracle/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</guid>
-      <description>Lister les transactions ouvertes en Oracle</description>
+      <guid>http://localhost:1313/post/liste_transactions_ouvertes_oracle/</guid>
+      <description>
+        
+          
+            Lister les transactions ouvertes en Oracle
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Suppression du lock sur une table Oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/table_locke/</link>
+      <link>http://localhost:1313/post/table_locke/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/table_locke/</guid>
-      <description>Suppression du lock sur une table Oracle</description>
+      <guid>http://localhost:1313/post/table_locke/</guid>
+      <description>
+        
+          
+            Suppression du lock sur une table Oracle
+          
+          
+        
+      </description>
     </item>
     
   </channel>

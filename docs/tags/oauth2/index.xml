@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OAuth2 on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/oauth2/</link>
-    <description>Recent content in OAuth2 on Blog de programmation</description>
+    <title>OAuth2 on Clarity</title>
+    <link>http://localhost:1313/tags/oauth2/</link>
+    <description>Recent content in OAuth2 on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/oauth2/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/oauth2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spring security OAuth 2 documentation</title>
-      <link>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</link>
+      <link>http://localhost:1313/post/spring_security_oauth2_doc/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</guid>
-      <description>Spring security OAuth 2 documentation</description>
+      <guid>http://localhost:1313/post/spring_security_oauth2_doc/</guid>
+      <description>
+        
+          
+            Spring security OAuth 2 documentation
+          
+          
+        
+      </description>
     </item>
     
   </channel>

@@ -46,7 +46,7 @@ Présentation de copilote. Ca a de gros potentiel, mais le fonctionnement n'est 
 Il peut refactoriser, générer des commentaires, expliquer du code, générer le code du controleur à partir d'une liste, etc...
 pendant la demo, plusieurs fois, copilote a supprimer tout le code au lieux de faire ce qu'on lui demander.
 
-## [Alice au pays d'OpenTelemetry]([https://cfp.devoxx.fr/2023/talk/ZHL-4882/_Alice_au_pays_d'OpenTelemetry)
+## [Alice au pays d'OpenTelemetry](https://cfp.devoxx.fr/2023/talk/ZHL-4882/_Alice_au_pays_d'OpenTelemetry)
 
 [Video](https://www.youtube.com/watch?v=0xSCUgHxZu0)
 

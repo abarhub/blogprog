@@ -1,170 +1,290 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>java on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/java/</link>
-    <description>Recent content in java on Blog de programmation</description>
+    <title>Java on Clarity</title>
+    <link>http://localhost:1313/tags/java/</link>
+    <description>Recent content in Java on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Génération du xml à partir du XSD</title>
-      <link>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</link>
+      <link>http://localhost:1313/post/generation_xml_a_partir_xsd/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</guid>
-      <description>Génération du xml à partir du XSD</description>
+      <guid>http://localhost:1313/post/generation_xml_a_partir_xsd/</guid>
+      <description>
+        
+          
+            Génération du xml à partir du XSD
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Supprimer une balise xml et son contenu grace a une regex en Java</title>
-      <link>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</link>
+      <link>http://localhost:1313/post/supprimerbalidexml/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</guid>
-      <description>Supprimer une balise xml et son contenu grace a une regex en Java</description>
+      <guid>http://localhost:1313/post/supprimerbalidexml/</guid>
+      <description>
+        
+          
+            Supprimer une balise xml et son contenu grace a une regex en Java
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Java Code analyser</title>
-      <link>https://abarhub.github.io/blogprog/post/java_code_analyser/</link>
+      <link>http://localhost:1313/post/java_code_analyser/</link>
       <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/java_code_analyser/</guid>
-      <description>Java Code analyser</description>
+      <guid>http://localhost:1313/post/java_code_analyser/</guid>
+      <description>
+        
+          
+            Java Code analyser
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Récupérer la version avec spring boot</title>
-      <link>https://abarhub.github.io/blogprog/post/springboot_version/</link>
+      <link>http://localhost:1313/post/springboot_version/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/springboot_version/</guid>
-      <description>Récupérer la version avec spring boot</description>
+      <guid>http://localhost:1313/post/springboot_version/</guid>
+      <description>
+        
+          
+            Récupérer la version avec spring boot
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Validation xsd en gérant la résolution des xsd</title>
-      <link>https://abarhub.github.io/blogprog/post/resolve_xsd/</link>
+      <link>http://localhost:1313/post/resolve_xsd/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/resolve_xsd/</guid>
-      <description>Validation par xsd en gérant la résolution des xsd</description>
+      <guid>http://localhost:1313/post/resolve_xsd/</guid>
+      <description>
+        
+          
+            Validation par xsd en gérant la résolution des xsd
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Documentation Officiel de Java</title>
-      <link>https://abarhub.github.io/blogprog/post/java_doc/</link>
+      <link>http://localhost:1313/post/java_doc/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/java_doc/</guid>
-      <description>Documentation Officiel de Java</description>
+      <guid>http://localhost:1313/post/java_doc/</guid>
+      <description>
+        
+          
+            Documentation Officiel de Java
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Débugage spring</title>
-      <link>https://abarhub.github.io/blogprog/post/debug_spring/</link>
+      <link>http://localhost:1313/post/debug_spring/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/debug_spring/</guid>
-      <description>Débugage spring</description>
+      <guid>http://localhost:1313/post/debug_spring/</guid>
+      <description>
+        
+          
+            Débugage spring
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Spring security OAuth 2 documentation</title>
-      <link>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</link>
+      <link>http://localhost:1313/post/spring_security_oauth2_doc/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</guid>
-      <description>Spring security OAuth 2 documentation</description>
+      <guid>http://localhost:1313/post/spring_security_oauth2_doc/</guid>
+      <description>
+        
+          
+            Spring security OAuth 2 documentation
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>L&#39;url jdbc pour se connecter à une base MySQL</title>
-      <link>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</link>
+      <link>http://localhost:1313/post/url_jdbc_mysql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</guid>
-      <description>L&amp;rsquo;url jdbc pour se connecter à une base MySQL</description>
+      <guid>http://localhost:1313/post/url_jdbc_mysql/</guid>
+      <description>
+        
+          
+            L&#39;url jdbc pour se connecter à une base MySQL
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Exemple de test paramétré</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</link>
+      <link>http://localhost:1313/post/exemple_junit5_test_java/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</guid>
-      <description>Exemple de test paramétré</description>
+      <guid>http://localhost:1313/post/exemple_junit5_test_java/</guid>
+      <description>
+        
+          
+            Exemple de test paramétré
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Ajout des jar dans la stacktrace pour LogBack</title>
-      <link>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</link>
+      <link>http://localhost:1313/post/logback_with_jar_in_exception/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</guid>
-      <description>Ajout des jar dans la stacktrace pour LogBack</description>
+      <guid>http://localhost:1313/post/logback_with_jar_in_exception/</guid>
+      <description>
+        
+          
+            Ajout des jar dans la stacktrace pour LogBack
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Logger toutes les propriétés de Spring Boot</title>
-      <link>https://abarhub.github.io/blogprog/post/properties_logger_java/</link>
+      <link>http://localhost:1313/post/properties_logger_java/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/properties_logger_java/</guid>
-      <description>Logger toutes les propriétés de Spring Boot</description>
+      <guid>http://localhost:1313/post/properties_logger_java/</guid>
+      <description>
+        
+          
+            Logger toutes les propriétés de Spring Boot
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Exemple de loggeur avec slf4j</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_logger_java/</link>
+      <link>http://localhost:1313/post/exemple_logger_java/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_logger_java/</guid>
-      <description>Exemple de loggeur avec slf4j</description>
+      <guid>http://localhost:1313/post/exemple_logger_java/</guid>
+      <description>
+        
+          
+            Exemple de loggeur avec slf4j
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Accès à un fichier de ressource</title>
-      <link>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</link>
+      <link>http://localhost:1313/post/read_ressouce_in_classpath_java/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</guid>
-      <description>Accès à un fichier de ressource</description>
+      <guid>http://localhost:1313/post/read_ressouce_in_classpath_java/</guid>
+      <description>
+        
+          
+            Accès à un fichier de ressource
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Capture des paramètres avec Mockito</title>
-      <link>https://abarhub.github.io/blogprog/post/mockito_capture_java/</link>
+      <link>http://localhost:1313/post/mockito_capture_java/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/mockito_capture_java/</guid>
-      <description>Capture des paramètres avec Mockito</description>
+      <guid>http://localhost:1313/post/mockito_capture_java/</guid>
+      <description>
+        
+          
+            Capture des paramètres avec Mockito
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Changement de version des pom</title>
-      <link>https://abarhub.github.io/blogprog/post/update_version_sh/</link>
+      <link>http://localhost:1313/post/update_version_sh/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/update_version_sh/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;# changement de version des pom
-mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT
-
-# changement de version des pom sans backup
-mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT -DgenerateBackupPoms=false
-&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>http://localhost:1313/post/update_version_sh/</guid>
+      <description>
+        
+          
+            &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# changement de version des pom&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;mvn versions:set -DnewVersion&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;1.0.0.0-SNAPSHOT
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# changement de version des pom sans backup&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;mvn versions:set -DnewVersion&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;1.0.0.0-SNAPSHOT -DgenerateBackupPoms&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;false&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Sites sur Spring</title>
-      <link>https://abarhub.github.io/blogprog/post/site_spring/</link>
+      <link>http://localhost:1313/post/site_spring/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/site_spring/</guid>
-      <description>site sur spring :
-https://spring.io/
-https://www.baeldung.com/spring-tutorial</description>
+      <guid>http://localhost:1313/post/site_spring/</guid>
+      <description>
+        
+          
+            &lt;p&gt;site sur spring :&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://spring.io/&#34;&gt;https://spring.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.baeldung.com/spring-tutorial&#34;&gt;https://www.baeldung.com/spring-tutorial&lt;/a&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
     
   </channel>

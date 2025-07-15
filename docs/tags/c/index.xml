@@ -1,28 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>c on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/c/</link>
-    <description>Recent content in c on Blog de programmation</description>
+    <title>C on Clarity</title>
+    <link>http://localhost:1313/tags/c/</link>
+    <description>Recent content in C on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C library and tools</title>
-      <link>https://abarhub.github.io/blogprog/post/c_library_tools/</link>
+      <link>http://localhost:1313/post/c_library_tools/</link>
       <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/c_library_tools/</guid>
-      <description>C library and tools</description>
+      <guid>http://localhost:1313/post/c_library_tools/</guid>
+      <description>
+        
+          
+            C library and tools
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Exemple de shell en c</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_shell_c/</link>
+      <link>http://localhost:1313/post/exemple_shell_c/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_shell_c/</guid>
-      <description>Exemple de shell en c</description>
+      <guid>http://localhost:1313/post/exemple_shell_c/</guid>
+      <description>
+        
+          
+            Exemple de shell en c
+          
+          
+        
+      </description>
     </item>
     
   </channel>

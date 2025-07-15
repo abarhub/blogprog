@@ -1,37 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>web on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/web/</link>
-    <description>Recent content in web on Blog de programmation</description>
+    <title>Web on Clarity</title>
+    <link>http://localhost:1313/tags/web/</link>
+    <description>Recent content in Web on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Disable button if input is empty</title>
-      <link>https://abarhub.github.io/blogprog/post/disable_button_if_empty/</link>
+      <link>http://localhost:1313/post/disable_button_if_empty/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/disable_button_if_empty/</guid>
-      <description>Disable button if input is empty</description>
+      <guid>http://localhost:1313/post/disable_button_if_empty/</guid>
+      <description>
+        
+          
+            Disable button if input is empty
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex</title>
-      <link>https://abarhub.github.io/blogprog/post/grid_flex_css/</link>
+      <link>http://localhost:1313/post/grid_flex_css/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/grid_flex_css/</guid>
-      <description>Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex</description>
+      <guid>http://localhost:1313/post/grid_flex_css/</guid>
+      <description>
+        
+          
+            Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Unsubscribe des observables</title>
-      <link>https://abarhub.github.io/blogprog/post/unsubscribe/</link>
+      <link>http://localhost:1313/post/unsubscribe/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/unsubscribe/</guid>
-      <description>Unsubscribe des observables</description>
+      <guid>http://localhost:1313/post/unsubscribe/</guid>
+      <description>
+        
+          
+            Unsubscribe des observables
+          
+          
+        
+      </description>
     </item>
     
   </channel>

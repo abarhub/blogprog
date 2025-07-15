@@ -1,37 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cheatsheet on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/cheatsheet/</link>
-    <description>Recent content in cheatsheet on Blog de programmation</description>
+    <title>Cheatsheet on Clarity</title>
+    <link>http://localhost:1313/tags/cheatsheet/</link>
+    <description>Recent content in Cheatsheet on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exemple de requete en elasticsearch</title>
-      <link>https://abarhub.github.io/blogprog/post/elasticsearch_cheat_sheet/</link>
+      <link>http://localhost:1313/post/elasticsearch_cheat_sheet/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/elasticsearch_cheat_sheet/</guid>
-      <description>Exemple de requete en elasticsearch</description>
+      <guid>http://localhost:1313/post/elasticsearch_cheat_sheet/</guid>
+      <description>
+        
+          
+            Exemple de requete en elasticsearch
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Angular cheatsheet</title>
-      <link>https://abarhub.github.io/blogprog/post/angular_cheatsheet/</link>
+      <link>http://localhost:1313/post/angular_cheatsheet/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/angular_cheatsheet/</guid>
-      <description>Angular cheatsheet</description>
+      <guid>http://localhost:1313/post/angular_cheatsheet/</guid>
+      <description>
+        
+          
+            Angular cheatsheet
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Aide mémoire sur ElasticSearch</title>
-      <link>https://abarhub.github.io/blogprog/post/elasticsearch/</link>
+      <link>http://localhost:1313/post/elasticsearch/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/elasticsearch/</guid>
-      <description>Aide mémoire sur ElasticSearch</description>
+      <guid>http://localhost:1313/post/elasticsearch/</guid>
+      <description>
+        
+          
+            Aide mémoire sur ElasticSearch
+          
+          
+        
+      </description>
     </item>
     
   </channel>
