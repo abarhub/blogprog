@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slf4j on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/slf4j/</link>
+    <link>http://localhost:1313/blogprog/tags/slf4j/</link>
     <description>Recent content in Slf4j on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/slf4j/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/slf4j/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exemple de loggeur avec slf4j</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_logger_java/</link>
+      <link>http://localhost:1313/blogprog/post/exemple_logger_java/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_logger_java/</guid>
+      <guid>http://localhost:1313/blogprog/post/exemple_logger_java/</guid>
       <description>
         
           

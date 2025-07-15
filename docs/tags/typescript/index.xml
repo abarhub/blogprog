@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Typescript on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/typescript/</link>
+    <link>http://localhost:1313/blogprog/tags/typescript/</link>
     <description>Recent content in Typescript on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trie en Typescript d&#39;un objet sur 2 champs</title>
-      <link>https://abarhub.github.io/blogprog/post/trie_typescript_objet/</link>
+      <link>http://localhost:1313/blogprog/post/trie_typescript_objet/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/trie_typescript_objet/</guid>
+      <guid>http://localhost:1313/blogprog/post/trie_typescript_objet/</guid>
       <description>
         
           

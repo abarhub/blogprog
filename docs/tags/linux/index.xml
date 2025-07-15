@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/linux/</link>
+    <link>http://localhost:1313/blogprog/tags/linux/</link>
     <description>Recent content in Linux on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Renommage de fichiers</title>
-      <link>https://abarhub.github.io/blogprog/post/rename_files/</link>
+      <link>http://localhost:1313/blogprog/post/rename_files/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/rename_files/</guid>
+      <guid>http://localhost:1313/blogprog/post/rename_files/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Encode et décode en Base64</title>
-      <link>https://abarhub.github.io/blogprog/post/base64/</link>
+      <link>http://localhost:1313/blogprog/post/base64/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/base64/</guid>
+      <guid>http://localhost:1313/blogprog/post/base64/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Internal Programming</title>
-      <link>https://abarhub.github.io/blogprog/post/internal_programming/</link>
+      <link>http://localhost:1313/blogprog/post/internal_programming/</link>
       <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/internal_programming/</guid>
+      <guid>http://localhost:1313/blogprog/post/internal_programming/</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Compter les fichiers jpeg par répertoire</title>
-      <link>https://abarhub.github.io/blogprog/post/count_jpg_files/</link>
+      <link>http://localhost:1313/blogprog/post/count_jpg_files/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/count_jpg_files/</guid>
+      <guid>http://localhost:1313/blogprog/post/count_jpg_files/</guid>
       <description>
         
           
@@ -74,10 +74,10 @@
     
     <item>
       <title>Suppression des branches mergées</title>
-      <link>https://abarhub.github.io/blogprog/post/delete_merged_branche/</link>
+      <link>http://localhost:1313/blogprog/post/delete_merged_branche/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/delete_merged_branche/</guid>
+      <guid>http://localhost:1313/blogprog/post/delete_merged_branche/</guid>
       <description>
         
           

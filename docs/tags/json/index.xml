@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Json on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/json/</link>
+    <link>http://localhost:1313/blogprog/tags/json/</link>
     <description>Recent content in Json on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/json/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/json/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extraction d&#39;une table à partir de json</title>
-      <link>https://abarhub.github.io/blogprog/post/extract_table_from_json/</link>
+      <link>http://localhost:1313/blogprog/post/extract_table_from_json/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/extract_table_from_json/</guid>
+      <guid>http://localhost:1313/blogprog/post/extract_table_from_json/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Injection un fichier dans du json en l&#39;encodant en base64</title>
-      <link>https://abarhub.github.io/blogprog/post/include_file_in_json/</link>
+      <link>http://localhost:1313/blogprog/post/include_file_in_json/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/include_file_in_json/</guid>
+      <guid>http://localhost:1313/blogprog/post/include_file_in_json/</guid>
       <description>
         
           

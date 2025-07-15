@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/</link>
+    <link>http://localhost:1313/blogprog/</link>
     <description>Recent content on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Génération du xml à partir du XSD</title>
-      <link>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</link>
+      <link>http://localhost:1313/blogprog/post/generation_xml_a_partir_xsd/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</guid>
+      <guid>http://localhost:1313/blogprog/post/generation_xml_a_partir_xsd/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Heritage de type en xsd</title>
-      <link>https://abarhub.github.io/blogprog/post/heritage_type_xsd/</link>
+      <link>http://localhost:1313/blogprog/post/heritage_type_xsd/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/heritage_type_xsd/</guid>
+      <guid>http://localhost:1313/blogprog/post/heritage_type_xsd/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Lister les transactions ouvertes en Oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</link>
+      <link>http://localhost:1313/blogprog/post/liste_transactions_ouvertes_oracle/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</guid>
+      <guid>http://localhost:1313/blogprog/post/liste_transactions_ouvertes_oracle/</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Suppression du lock sur une table Oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/table_locke/</link>
+      <link>http://localhost:1313/blogprog/post/table_locke/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/table_locke/</guid>
+      <guid>http://localhost:1313/blogprog/post/table_locke/</guid>
       <description>
         
           
@@ -74,10 +74,10 @@
     
     <item>
       <title>Supprimer une balise xml et son contenu grace a une regex en Java</title>
-      <link>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</link>
+      <link>http://localhost:1313/blogprog/post/supprimerbalidexml/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</guid>
+      <guid>http://localhost:1313/blogprog/post/supprimerbalidexml/</guid>
       <description>
         
           
@@ -90,10 +90,10 @@
     
     <item>
       <title>suppression d&#39;une grand arborescence sous windows rapidement (robocopy)</title>
-      <link>https://abarhub.github.io/blogprog/post/suppression_repertoire_robocopy/</link>
+      <link>http://localhost:1313/blogprog/post/suppression_repertoire_robocopy/</link>
       <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/suppression_repertoire_robocopy/</guid>
+      <guid>http://localhost:1313/blogprog/post/suppression_repertoire_robocopy/</guid>
       <description>
         
           
@@ -106,10 +106,10 @@
     
     <item>
       <title>Formation Angular 17 (02/2024)</title>
-      <link>https://abarhub.github.io/blogprog/post/formation_angular/</link>
+      <link>http://localhost:1313/blogprog/post/formation_angular/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/formation_angular/</guid>
+      <guid>http://localhost:1313/blogprog/post/formation_angular/</guid>
       <description>
         
           
@@ -122,10 +122,10 @@
     
     <item>
       <title>Liste de logiciels de backup</title>
-      <link>https://abarhub.github.io/blogprog/post/logiciel_backup/</link>
+      <link>http://localhost:1313/blogprog/post/logiciel_backup/</link>
       <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/logiciel_backup/</guid>
+      <guid>http://localhost:1313/blogprog/post/logiciel_backup/</guid>
       <description>
         
           
@@ -138,10 +138,10 @@
     
     <item>
       <title>Les outils pour l&#39;ia</title>
-      <link>https://abarhub.github.io/blogprog/post/ia/</link>
+      <link>http://localhost:1313/blogprog/post/ia/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/ia/</guid>
+      <guid>http://localhost:1313/blogprog/post/ia/</guid>
       <description>
         
           
@@ -154,10 +154,10 @@
     
     <item>
       <title>Execution du premier jar trouvé</title>
-      <link>https://abarhub.github.io/blogprog/post/execute_jar/</link>
+      <link>http://localhost:1313/blogprog/post/execute_jar/</link>
       <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/execute_jar/</guid>
+      <guid>http://localhost:1313/blogprog/post/execute_jar/</guid>
       <description>
         
           
@@ -170,10 +170,10 @@
     
     <item>
       <title>Trie en Typescript d&#39;un objet sur 2 champs</title>
-      <link>https://abarhub.github.io/blogprog/post/trie_typescript_objet/</link>
+      <link>http://localhost:1313/blogprog/post/trie_typescript_objet/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/trie_typescript_objet/</guid>
+      <guid>http://localhost:1313/blogprog/post/trie_typescript_objet/</guid>
       <description>
         
           
@@ -186,10 +186,10 @@
     
     <item>
       <title>gestion des shadow copy (vss) sous windows</title>
-      <link>https://abarhub.github.io/blogprog/post/shadow_copy/</link>
+      <link>http://localhost:1313/blogprog/post/shadow_copy/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/shadow_copy/</guid>
+      <guid>http://localhost:1313/blogprog/post/shadow_copy/</guid>
       <description>
         
           
@@ -202,10 +202,10 @@
     
     <item>
       <title>A simple grep implementation in Go</title>
-      <link>https://abarhub.github.io/blogprog/post/grep.go/</link>
+      <link>http://localhost:1313/blogprog/post/grep.go/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/grep.go/</guid>
+      <guid>http://localhost:1313/blogprog/post/grep.go/</guid>
       <description>
         
           
@@ -218,10 +218,10 @@
     
     <item>
       <title>A curated list of command-line utilities written in Rust</title>
-      <link>https://abarhub.github.io/blogprog/post/rust-command-line-utilities.markdown/</link>
+      <link>http://localhost:1313/blogprog/post/rust-command-line-utilities.markdown/</link>
       <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/rust-command-line-utilities.markdown/</guid>
+      <guid>http://localhost:1313/blogprog/post/rust-command-line-utilities.markdown/</guid>
       <description>
         
           
@@ -234,10 +234,10 @@
     
     <item>
       <title>Devoxx 2023 du 12 au 14 avril</title>
-      <link>https://abarhub.github.io/blogprog/post/devoxx_2023/</link>
+      <link>http://localhost:1313/blogprog/post/devoxx_2023/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/devoxx_2023/</guid>
+      <guid>http://localhost:1313/blogprog/post/devoxx_2023/</guid>
       <description>
         
           
@@ -250,10 +250,10 @@
     
     <item>
       <title>Récupération du répertoire du script BAT</title>
-      <link>https://abarhub.github.io/blogprog/post/repertoire_script_bat/</link>
+      <link>http://localhost:1313/blogprog/post/repertoire_script_bat/</link>
       <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/repertoire_script_bat/</guid>
+      <guid>http://localhost:1313/blogprog/post/repertoire_script_bat/</guid>
       <description>
         
           
@@ -266,10 +266,10 @@
     
     <item>
       <title>Renommage de fichiers</title>
-      <link>https://abarhub.github.io/blogprog/post/rename_files/</link>
+      <link>http://localhost:1313/blogprog/post/rename_files/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/rename_files/</guid>
+      <guid>http://localhost:1313/blogprog/post/rename_files/</guid>
       <description>
         
           
@@ -282,10 +282,10 @@
     
     <item>
       <title>Liste de Design Patterns</title>
-      <link>https://abarhub.github.io/blogprog/post/liste_design_patern/</link>
+      <link>http://localhost:1313/blogprog/post/liste_design_patern/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/liste_design_patern/</guid>
+      <guid>http://localhost:1313/blogprog/post/liste_design_patern/</guid>
       <description>
         
           
@@ -298,10 +298,10 @@
     
     <item>
       <title>Liste d&#39;outils CSS</title>
-      <link>https://abarhub.github.io/blogprog/post/outils_css/</link>
+      <link>http://localhost:1313/blogprog/post/outils_css/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/outils_css/</guid>
+      <guid>http://localhost:1313/blogprog/post/outils_css/</guid>
       <description>
         
           
@@ -314,10 +314,10 @@
     
     <item>
       <title>Devenir propriété d&#39;un répertoire sous windows</title>
-      <link>https://abarhub.github.io/blogprog/post/change_ownership_windows/</link>
+      <link>http://localhost:1313/blogprog/post/change_ownership_windows/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/change_ownership_windows/</guid>
+      <guid>http://localhost:1313/blogprog/post/change_ownership_windows/</guid>
       <description>
         
           
@@ -330,10 +330,10 @@
     
     <item>
       <title>Extraction d&#39;une table à partir de json</title>
-      <link>https://abarhub.github.io/blogprog/post/extract_table_from_json/</link>
+      <link>http://localhost:1313/blogprog/post/extract_table_from_json/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/extract_table_from_json/</guid>
+      <guid>http://localhost:1313/blogprog/post/extract_table_from_json/</guid>
       <description>
         
           
@@ -346,10 +346,10 @@
     
     <item>
       <title>Calcul la taille des répertoires</title>
-      <link>https://abarhub.github.io/blogprog/post/size_analyse.py/</link>
+      <link>http://localhost:1313/blogprog/post/size_analyse.py/</link>
       <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/size_analyse.py/</guid>
+      <guid>http://localhost:1313/blogprog/post/size_analyse.py/</guid>
       <description>
         
           
@@ -362,10 +362,10 @@
     
     <item>
       <title>Liste de sites pour générer tester les technologies web</title>
-      <link>https://abarhub.github.io/blogprog/post/tools_test_web/</link>
+      <link>http://localhost:1313/blogprog/post/tools_test_web/</link>
       <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/tools_test_web/</guid>
+      <guid>http://localhost:1313/blogprog/post/tools_test_web/</guid>
       <description>
         
           
@@ -378,10 +378,10 @@
     
     <item>
       <title>Liste les fichiers plus grands qu&#39;une certaine taille</title>
-      <link>https://abarhub.github.io/blogprog/post/liste_files_windows/</link>
+      <link>http://localhost:1313/blogprog/post/liste_files_windows/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/liste_files_windows/</guid>
+      <guid>http://localhost:1313/blogprog/post/liste_files_windows/</guid>
       <description>
         
           
@@ -394,10 +394,10 @@
     
     <item>
       <title>Création d&#39;un menu en bat</title>
-      <link>https://abarhub.github.io/blogprog/post/menu.bat/</link>
+      <link>http://localhost:1313/blogprog/post/menu.bat/</link>
       <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/menu.bat/</guid>
+      <guid>http://localhost:1313/blogprog/post/menu.bat/</guid>
       <description>
         
           
@@ -410,10 +410,10 @@
     
     <item>
       <title>Description of tar command</title>
-      <link>https://abarhub.github.io/blogprog/post/tar/</link>
+      <link>http://localhost:1313/blogprog/post/tar/</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/tar/</guid>
+      <guid>http://localhost:1313/blogprog/post/tar/</guid>
       <description>
         
           
@@ -426,10 +426,10 @@
     
     <item>
       <title>Disable button if input is empty</title>
-      <link>https://abarhub.github.io/blogprog/post/disable_button_if_empty/</link>
+      <link>http://localhost:1313/blogprog/post/disable_button_if_empty/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/disable_button_if_empty/</guid>
+      <guid>http://localhost:1313/blogprog/post/disable_button_if_empty/</guid>
       <description>
         
           
@@ -442,10 +442,10 @@
     
     <item>
       <title>Execution du plugin maven dependancy tree en indiquant la version</title>
-      <link>https://abarhub.github.io/blogprog/post/depandancy_tree_version/</link>
+      <link>http://localhost:1313/blogprog/post/depandancy_tree_version/</link>
       <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/depandancy_tree_version/</guid>
+      <guid>http://localhost:1313/blogprog/post/depandancy_tree_version/</guid>
       <description>
         
           
@@ -460,10 +460,10 @@
     
     <item>
       <title>Statistique de codage</title>
-      <link>https://abarhub.github.io/blogprog/post/stat_coding/</link>
+      <link>http://localhost:1313/blogprog/post/stat_coding/</link>
       <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/stat_coding/</guid>
+      <guid>http://localhost:1313/blogprog/post/stat_coding/</guid>
       <description>
         
           
@@ -476,10 +476,10 @@
     
     <item>
       <title>Exemple de requete en elasticsearch</title>
-      <link>https://abarhub.github.io/blogprog/post/elasticsearch_cheat_sheet/</link>
+      <link>http://localhost:1313/blogprog/post/elasticsearch_cheat_sheet/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/elasticsearch_cheat_sheet/</guid>
+      <guid>http://localhost:1313/blogprog/post/elasticsearch_cheat_sheet/</guid>
       <description>
         
           
@@ -492,10 +492,10 @@
     
     <item>
       <title>Librairie pour usage standard en Golang</title>
-      <link>https://abarhub.github.io/blogprog/post/go_library/</link>
+      <link>http://localhost:1313/blogprog/post/go_library/</link>
       <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/go_library/</guid>
+      <guid>http://localhost:1313/blogprog/post/go_library/</guid>
       <description>
         
           
@@ -508,10 +508,10 @@
     
     <item>
       <title>Java Code analyser</title>
-      <link>https://abarhub.github.io/blogprog/post/java_code_analyser/</link>
+      <link>http://localhost:1313/blogprog/post/java_code_analyser/</link>
       <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/java_code_analyser/</guid>
+      <guid>http://localhost:1313/blogprog/post/java_code_analyser/</guid>
       <description>
         
           
@@ -524,10 +524,10 @@
     
     <item>
       <title>Liste de langages</title>
-      <link>https://abarhub.github.io/blogprog/post/langages/</link>
+      <link>http://localhost:1313/blogprog/post/langages/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/langages/</guid>
+      <guid>http://localhost:1313/blogprog/post/langages/</guid>
       <description>
         
           
@@ -540,10 +540,10 @@
     
     <item>
       <title>C library and tools</title>
-      <link>https://abarhub.github.io/blogprog/post/c_library_tools/</link>
+      <link>http://localhost:1313/blogprog/post/c_library_tools/</link>
       <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/c_library_tools/</guid>
+      <guid>http://localhost:1313/blogprog/post/c_library_tools/</guid>
       <description>
         
           
@@ -556,10 +556,10 @@
     
     <item>
       <title>Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex</title>
-      <link>https://abarhub.github.io/blogprog/post/grid_flex_css/</link>
+      <link>http://localhost:1313/blogprog/post/grid_flex_css/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/grid_flex_css/</guid>
+      <guid>http://localhost:1313/blogprog/post/grid_flex_css/</guid>
       <description>
         
           
@@ -572,10 +572,10 @@
     
     <item>
       <title>Unsubscribe des observables</title>
-      <link>https://abarhub.github.io/blogprog/post/unsubscribe/</link>
+      <link>http://localhost:1313/blogprog/post/unsubscribe/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/unsubscribe/</guid>
+      <guid>http://localhost:1313/blogprog/post/unsubscribe/</guid>
       <description>
         
           
@@ -588,10 +588,10 @@
     
     <item>
       <title>Injection un fichier dans du json en l&#39;encodant en base64</title>
-      <link>https://abarhub.github.io/blogprog/post/include_file_in_json/</link>
+      <link>http://localhost:1313/blogprog/post/include_file_in_json/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/include_file_in_json/</guid>
+      <guid>http://localhost:1313/blogprog/post/include_file_in_json/</guid>
       <description>
         
           
@@ -604,10 +604,10 @@
     
     <item>
       <title>Gestion de la batterie sous Windows</title>
-      <link>https://abarhub.github.io/blogprog/post/battery/</link>
+      <link>http://localhost:1313/blogprog/post/battery/</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/battery/</guid>
+      <guid>http://localhost:1313/blogprog/post/battery/</guid>
       <description>
         
           
@@ -620,10 +620,10 @@
     
     <item>
       <title>Devoxx 2022</title>
-      <link>https://abarhub.github.io/blogprog/post/devoxx_2022/</link>
+      <link>http://localhost:1313/blogprog/post/devoxx_2022/</link>
       <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/devoxx_2022/</guid>
+      <guid>http://localhost:1313/blogprog/post/devoxx_2022/</guid>
       <description>
         
           
@@ -636,10 +636,10 @@
     
     <item>
       <title>Encode et décode en Base64</title>
-      <link>https://abarhub.github.io/blogprog/post/base64/</link>
+      <link>http://localhost:1313/blogprog/post/base64/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/base64/</guid>
+      <guid>http://localhost:1313/blogprog/post/base64/</guid>
       <description>
         
           
@@ -652,10 +652,10 @@
     
     <item>
       <title>Angular cheatsheet</title>
-      <link>https://abarhub.github.io/blogprog/post/angular_cheatsheet/</link>
+      <link>http://localhost:1313/blogprog/post/angular_cheatsheet/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/angular_cheatsheet/</guid>
+      <guid>http://localhost:1313/blogprog/post/angular_cheatsheet/</guid>
       <description>
         
           
@@ -668,10 +668,10 @@
     
     <item>
       <title>Internal Programming</title>
-      <link>https://abarhub.github.io/blogprog/post/internal_programming/</link>
+      <link>http://localhost:1313/blogprog/post/internal_programming/</link>
       <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/internal_programming/</guid>
+      <guid>http://localhost:1313/blogprog/post/internal_programming/</guid>
       <description>
         
           
@@ -684,10 +684,10 @@
     
     <item>
       <title>Using Hugo page bundles</title>
-      <link>https://abarhub.github.io/blogprog/post/bundle/</link>
+      <link>http://localhost:1313/blogprog/post/bundle/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/bundle/</guid>
+      <guid>http://localhost:1313/blogprog/post/bundle/</guid>
       <description>
         
           
@@ -700,10 +700,10 @@
     
     <item>
       <title>Compter les fichiers jpeg par répertoire</title>
-      <link>https://abarhub.github.io/blogprog/post/count_jpg_files/</link>
+      <link>http://localhost:1313/blogprog/post/count_jpg_files/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/count_jpg_files/</guid>
+      <guid>http://localhost:1313/blogprog/post/count_jpg_files/</guid>
       <description>
         
           
@@ -716,10 +716,10 @@
     
     <item>
       <title>Suppression des branches mergées</title>
-      <link>https://abarhub.github.io/blogprog/post/delete_merged_branche/</link>
+      <link>http://localhost:1313/blogprog/post/delete_merged_branche/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/delete_merged_branche/</guid>
+      <guid>http://localhost:1313/blogprog/post/delete_merged_branche/</guid>
       <description>
         
           
@@ -732,10 +732,10 @@
     
     <item>
       <title>Récupérer la version avec spring boot</title>
-      <link>https://abarhub.github.io/blogprog/post/springboot_version/</link>
+      <link>http://localhost:1313/blogprog/post/springboot_version/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/springboot_version/</guid>
+      <guid>http://localhost:1313/blogprog/post/springboot_version/</guid>
       <description>
         
           
@@ -748,10 +748,10 @@
     
     <item>
       <title>Using OpenStreetMap</title>
-      <link>https://abarhub.github.io/blogprog/post/map/</link>
+      <link>http://localhost:1313/blogprog/post/map/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/map/</guid>
+      <guid>http://localhost:1313/blogprog/post/map/</guid>
       <description>
         
           
@@ -764,10 +764,10 @@
     
     <item>
       <title>Liste d&#39;outils </title>
-      <link>https://abarhub.github.io/blogprog/post/liste_outils/</link>
+      <link>http://localhost:1313/blogprog/post/liste_outils/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/liste_outils/</guid>
+      <guid>http://localhost:1313/blogprog/post/liste_outils/</guid>
       <description>
         
           
@@ -781,10 +781,10 @@
     
     <item>
       <title>Hello world en HTML</title>
-      <link>https://abarhub.github.io/blogprog/post/helloworld_html/</link>
+      <link>http://localhost:1313/blogprog/post/helloworld_html/</link>
       <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/helloworld_html/</guid>
+      <guid>http://localhost:1313/blogprog/post/helloworld_html/</guid>
       <description>
         
           
@@ -797,10 +797,10 @@
     
     <item>
       <title>Installation de node et npm avec maven</title>
-      <link>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</link>
+      <link>http://localhost:1313/blogprog/post/installation_node_npm_avec_maven/</link>
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</guid>
+      <guid>http://localhost:1313/blogprog/post/installation_node_npm_avec_maven/</guid>
       <description>
         
           
@@ -813,10 +813,10 @@
     
     <item>
       <title>Hello world en Python</title>
-      <link>https://abarhub.github.io/blogprog/post/helloworld_python/</link>
+      <link>http://localhost:1313/blogprog/post/helloworld_python/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/helloworld_python/</guid>
+      <guid>http://localhost:1313/blogprog/post/helloworld_python/</guid>
       <description>
         
           
@@ -829,10 +829,10 @@
     
     <item>
       <title>Validation xsd en gérant la résolution des xsd</title>
-      <link>https://abarhub.github.io/blogprog/post/resolve_xsd/</link>
+      <link>http://localhost:1313/blogprog/post/resolve_xsd/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/resolve_xsd/</guid>
+      <guid>http://localhost:1313/blogprog/post/resolve_xsd/</guid>
       <description>
         
           
@@ -845,10 +845,10 @@
     
     <item>
       <title>Using Notices</title>
-      <link>https://abarhub.github.io/blogprog/post/notices/</link>
+      <link>http://localhost:1313/blogprog/post/notices/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/notices/</guid>
+      <guid>http://localhost:1313/blogprog/post/notices/</guid>
       <description>
         
           
@@ -873,10 +873,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Détection du changement sur Angular</title>
-      <link>https://abarhub.github.io/blogprog/post/angular_change_detection/</link>
+      <link>http://localhost:1313/blogprog/post/angular_change_detection/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/angular_change_detection/</guid>
+      <guid>http://localhost:1313/blogprog/post/angular_change_detection/</guid>
       <description>
         
           
@@ -889,10 +889,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Liste d&#39;outils</title>
-      <link>https://abarhub.github.io/blogprog/post/tools/</link>
+      <link>http://localhost:1313/blogprog/post/tools/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/tools/</guid>
+      <guid>http://localhost:1313/blogprog/post/tools/</guid>
       <description>
         
           
@@ -905,10 +905,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Maven Dependancy</title>
-      <link>https://abarhub.github.io/blogprog/post/maven-dependancy/</link>
+      <link>http://localhost:1313/blogprog/post/maven-dependancy/</link>
       <pubDate>Sun, 18 Jul 2021 16:21:12 +0100</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/maven-dependancy/</guid>
+      <guid>http://localhost:1313/blogprog/post/maven-dependancy/</guid>
       <description>
         
           
@@ -921,10 +921,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Externalisation de la configuration avec spring boot</title>
-      <link>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</link>
+      <link>http://localhost:1313/blogprog/post/external_config_spring_boot/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</guid>
+      <guid>http://localhost:1313/blogprog/post/external_config_spring_boot/</guid>
       <description>
         
           
@@ -937,10 +937,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Débugage avec Angular</title>
-      <link>https://abarhub.github.io/blogprog/post/debug_angular/</link>
+      <link>http://localhost:1313/blogprog/post/debug_angular/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/debug_angular/</guid>
+      <guid>http://localhost:1313/blogprog/post/debug_angular/</guid>
       <description>
         
           
@@ -953,10 +953,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Exemple de shell en c</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_shell_c/</link>
+      <link>http://localhost:1313/blogprog/post/exemple_shell_c/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_shell_c/</guid>
+      <guid>http://localhost:1313/blogprog/post/exemple_shell_c/</guid>
       <description>
         
           
@@ -969,10 +969,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Documentation Officiel de Java</title>
-      <link>https://abarhub.github.io/blogprog/post/java_doc/</link>
+      <link>http://localhost:1313/blogprog/post/java_doc/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/java_doc/</guid>
+      <guid>http://localhost:1313/blogprog/post/java_doc/</guid>
       <description>
         
           
@@ -985,10 +985,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Exemple de ngclass</title>
-      <link>https://abarhub.github.io/blogprog/post/ngclass_angular/</link>
+      <link>http://localhost:1313/blogprog/post/ngclass_angular/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/ngclass_angular/</guid>
+      <guid>http://localhost:1313/blogprog/post/ngclass_angular/</guid>
       <description>
         
           
@@ -1001,10 +1001,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Sytaxe de markdow</title>
-      <link>https://abarhub.github.io/blogprog/post/markdown_gist/</link>
+      <link>http://localhost:1313/blogprog/post/markdown_gist/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/markdown_gist/</guid>
+      <guid>http://localhost:1313/blogprog/post/markdown_gist/</guid>
       <description>
         
           
@@ -1017,10 +1017,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Débugage spring</title>
-      <link>https://abarhub.github.io/blogprog/post/debug_spring/</link>
+      <link>http://localhost:1313/blogprog/post/debug_spring/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/debug_spring/</guid>
+      <guid>http://localhost:1313/blogprog/post/debug_spring/</guid>
       <description>
         
           
@@ -1033,10 +1033,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Commandes sous dos</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_env_bat/</link>
+      <link>http://localhost:1313/blogprog/post/exemple_env_bat/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_env_bat/</guid>
+      <guid>http://localhost:1313/blogprog/post/exemple_env_bat/</guid>
       <description>
         
           
@@ -1049,10 +1049,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Spring security OAuth 2 documentation</title>
-      <link>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</link>
+      <link>http://localhost:1313/blogprog/post/spring_security_oauth2_doc/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</guid>
+      <guid>http://localhost:1313/blogprog/post/spring_security_oauth2_doc/</guid>
       <description>
         
           
@@ -1065,10 +1065,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Exemple de requete sql pour détruire toutes les tables d&#39;un schéma</title>
-      <link>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</link>
+      <link>http://localhost:1313/blogprog/post/drop_all_table_oracle_sql/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</guid>
+      <guid>http://localhost:1313/blogprog/post/drop_all_table_oracle_sql/</guid>
       <description>
         
           
@@ -1081,10 +1081,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>L&#39;url jdbc pour se connecter à une base MySQL</title>
-      <link>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</link>
+      <link>http://localhost:1313/blogprog/post/url_jdbc_mysql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</guid>
+      <guid>http://localhost:1313/blogprog/post/url_jdbc_mysql/</guid>
       <description>
         
           
@@ -1097,10 +1097,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Script de création d&#39;un schéma Mysql avec l&#39;utilisateur</title>
-      <link>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</link>
+      <link>http://localhost:1313/blogprog/post/script_schema_mysql_sql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</guid>
+      <guid>http://localhost:1313/blogprog/post/script_schema_mysql_sql/</guid>
       <description>
         
           
@@ -1113,10 +1113,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Exemple de test paramétré</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</link>
+      <link>http://localhost:1313/blogprog/post/exemple_junit5_test_java/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</guid>
+      <guid>http://localhost:1313/blogprog/post/exemple_junit5_test_java/</guid>
       <description>
         
           
@@ -1129,10 +1129,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Ajout des jar dans la stacktrace pour LogBack</title>
-      <link>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</link>
+      <link>http://localhost:1313/blogprog/post/logback_with_jar_in_exception/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</guid>
+      <guid>http://localhost:1313/blogprog/post/logback_with_jar_in_exception/</guid>
       <description>
         
           
@@ -1145,10 +1145,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Gestion des dates en oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</link>
+      <link>http://localhost:1313/blogprog/post/use_date_oracle_sql/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</guid>
+      <guid>http://localhost:1313/blogprog/post/use_date_oracle_sql/</guid>
       <description>
         
           
@@ -1161,10 +1161,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Logger toutes les propriétés de Spring Boot</title>
-      <link>https://abarhub.github.io/blogprog/post/properties_logger_java/</link>
+      <link>http://localhost:1313/blogprog/post/properties_logger_java/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/properties_logger_java/</guid>
+      <guid>http://localhost:1313/blogprog/post/properties_logger_java/</guid>
       <description>
         
           
@@ -1177,10 +1177,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances</title>
-      <link>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</link>
+      <link>http://localhost:1313/blogprog/post/install_desinstall_generation_requirement_txt_sh/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</guid>
+      <guid>http://localhost:1313/blogprog/post/install_desinstall_generation_requirement_txt_sh/</guid>
       <description>
         
           
@@ -1193,10 +1193,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Création d&#39;un composant avec un module et une route</title>
-      <link>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</link>
+      <link>http://localhost:1313/blogprog/post/create_component_with_module_and_routes/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</guid>
+      <guid>http://localhost:1313/blogprog/post/create_component_with_module_and_routes/</guid>
       <description>
         
           
@@ -1209,10 +1209,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Tutoriel bootstrap 4</title>
-      <link>https://abarhub.github.io/blogprog/post/site_bootstrap_tutorial/</link>
+      <link>http://localhost:1313/blogprog/post/site_bootstrap_tutorial/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/site_bootstrap_tutorial/</guid>
+      <guid>http://localhost:1313/blogprog/post/site_bootstrap_tutorial/</guid>
       <description>
         
           
@@ -1225,10 +1225,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Exemple de loggeur avec slf4j</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_logger_java/</link>
+      <link>http://localhost:1313/blogprog/post/exemple_logger_java/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_logger_java/</guid>
+      <guid>http://localhost:1313/blogprog/post/exemple_logger_java/</guid>
       <description>
         
           
@@ -1241,10 +1241,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Accès à un fichier de ressource</title>
-      <link>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</link>
+      <link>http://localhost:1313/blogprog/post/read_ressouce_in_classpath_java/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</guid>
+      <guid>http://localhost:1313/blogprog/post/read_ressouce_in_classpath_java/</guid>
       <description>
         
           
@@ -1257,10 +1257,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Aide mémoire sur ElasticSearch</title>
-      <link>https://abarhub.github.io/blogprog/post/elasticsearch/</link>
+      <link>http://localhost:1313/blogprog/post/elasticsearch/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/elasticsearch/</guid>
+      <guid>http://localhost:1313/blogprog/post/elasticsearch/</guid>
       <description>
         
           
@@ -1273,10 +1273,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Calcul de dates</title>
-      <link>https://abarhub.github.io/blogprog/post/calcul_dates/</link>
+      <link>http://localhost:1313/blogprog/post/calcul_dates/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/calcul_dates/</guid>
+      <guid>http://localhost:1313/blogprog/post/calcul_dates/</guid>
       <description>
         
           
@@ -1289,10 +1289,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Capture des paramètres avec Mockito</title>
-      <link>https://abarhub.github.io/blogprog/post/mockito_capture_java/</link>
+      <link>http://localhost:1313/blogprog/post/mockito_capture_java/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/mockito_capture_java/</guid>
+      <guid>http://localhost:1313/blogprog/post/mockito_capture_java/</guid>
       <description>
         
           
@@ -1305,10 +1305,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Changement de version des pom</title>
-      <link>https://abarhub.github.io/blogprog/post/update_version_sh/</link>
+      <link>http://localhost:1313/blogprog/post/update_version_sh/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/update_version_sh/</guid>
+      <guid>http://localhost:1313/blogprog/post/update_version_sh/</guid>
       <description>
         
           
@@ -1326,10 +1326,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Sites sur Spring</title>
-      <link>https://abarhub.github.io/blogprog/post/site_spring/</link>
+      <link>http://localhost:1313/blogprog/post/site_spring/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/site_spring/</guid>
+      <guid>http://localhost:1313/blogprog/post/site_spring/</guid>
       <description>
         
           
@@ -1344,10 +1344,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Stopper l&#39;execution d&#39;un script à la première erreur en Oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/script_with_error_sql/</link>
+      <link>http://localhost:1313/blogprog/post/script_with_error_sql/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/script_with_error_sql/</guid>
+      <guid>http://localhost:1313/blogprog/post/script_with_error_sql/</guid>
       <description>
         
           
@@ -1363,10 +1363,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://abarhub.github.io/blogprog/post/markdown-syntax/</link>
+      <link>http://localhost:1313/blogprog/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/markdown-syntax/</guid>
+      <guid>http://localhost:1313/blogprog/post/markdown-syntax/</guid>
       <description>
         
           
@@ -1379,10 +1379,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Rich Content</title>
-      <link>https://abarhub.github.io/blogprog/post/rich-content/</link>
+      <link>http://localhost:1313/blogprog/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/rich-content/</guid>
+      <guid>http://localhost:1313/blogprog/post/rich-content/</guid>
       <description>
         
           
@@ -1395,10 +1395,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://abarhub.github.io/blogprog/post/placeholder-text/</link>
+      <link>http://localhost:1313/blogprog/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/placeholder-text/</guid>
+      <guid>http://localhost:1313/blogprog/post/placeholder-text/</guid>
       <description>
         
           
@@ -1411,10 +1411,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://abarhub.github.io/blogprog/post/math-typesetting/</link>
+      <link>http://localhost:1313/blogprog/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/math-typesetting/</guid>
+      <guid>http://localhost:1313/blogprog/post/math-typesetting/</guid>
       <description>
         
           
@@ -1427,10 +1427,10 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Emoji Support</title>
-      <link>https://abarhub.github.io/blogprog/post/emoji-support/</link>
+      <link>http://localhost:1313/blogprog/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/emoji-support/</guid>
+      <guid>http://localhost:1313/blogprog/post/emoji-support/</guid>
       <description>
         
           

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dos on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/dos/</link>
+    <link>http://localhost:1313/blogprog/tags/dos/</link>
     <description>Recent content in Dos on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/dos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/dos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>suppression d&#39;une grand arborescence sous windows rapidement (robocopy)</title>
-      <link>https://abarhub.github.io/blogprog/post/suppression_repertoire_robocopy/</link>
+      <link>http://localhost:1313/blogprog/post/suppression_repertoire_robocopy/</link>
       <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/suppression_repertoire_robocopy/</guid>
+      <guid>http://localhost:1313/blogprog/post/suppression_repertoire_robocopy/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Execution du premier jar trouvé</title>
-      <link>https://abarhub.github.io/blogprog/post/execute_jar/</link>
+      <link>http://localhost:1313/blogprog/post/execute_jar/</link>
       <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/execute_jar/</guid>
+      <guid>http://localhost:1313/blogprog/post/execute_jar/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Récupération du répertoire du script BAT</title>
-      <link>https://abarhub.github.io/blogprog/post/repertoire_script_bat/</link>
+      <link>http://localhost:1313/blogprog/post/repertoire_script_bat/</link>
       <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/repertoire_script_bat/</guid>
+      <guid>http://localhost:1313/blogprog/post/repertoire_script_bat/</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Commandes sous dos</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_env_bat/</link>
+      <link>http://localhost:1313/blogprog/post/exemple_env_bat/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_env_bat/</guid>
+      <guid>http://localhost:1313/blogprog/post/exemple_env_bat/</guid>
       <description>
         
           

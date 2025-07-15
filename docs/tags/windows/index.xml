@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/windows/</link>
+    <link>http://localhost:1313/blogprog/tags/windows/</link>
     <description>Recent content in Windows on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>gestion des shadow copy (vss) sous windows</title>
-      <link>https://abarhub.github.io/blogprog/post/shadow_copy/</link>
+      <link>http://localhost:1313/blogprog/post/shadow_copy/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/shadow_copy/</guid>
+      <guid>http://localhost:1313/blogprog/post/shadow_copy/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Devenir propriété d&#39;un répertoire sous windows</title>
-      <link>https://abarhub.github.io/blogprog/post/change_ownership_windows/</link>
+      <link>http://localhost:1313/blogprog/post/change_ownership_windows/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/change_ownership_windows/</guid>
+      <guid>http://localhost:1313/blogprog/post/change_ownership_windows/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Liste les fichiers plus grands qu&#39;une certaine taille</title>
-      <link>https://abarhub.github.io/blogprog/post/liste_files_windows/</link>
+      <link>http://localhost:1313/blogprog/post/liste_files_windows/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/liste_files_windows/</guid>
+      <guid>http://localhost:1313/blogprog/post/liste_files_windows/</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Création d&#39;un menu en bat</title>
-      <link>https://abarhub.github.io/blogprog/post/menu.bat/</link>
+      <link>http://localhost:1313/blogprog/post/menu.bat/</link>
       <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/menu.bat/</guid>
+      <guid>http://localhost:1313/blogprog/post/menu.bat/</guid>
       <description>
         
           
@@ -74,10 +74,10 @@
     
     <item>
       <title>Statistique de codage</title>
-      <link>https://abarhub.github.io/blogprog/post/stat_coding/</link>
+      <link>http://localhost:1313/blogprog/post/stat_coding/</link>
       <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/stat_coding/</guid>
+      <guid>http://localhost:1313/blogprog/post/stat_coding/</guid>
       <description>
         
           
@@ -90,10 +90,10 @@
     
     <item>
       <title>Gestion de la batterie sous Windows</title>
-      <link>https://abarhub.github.io/blogprog/post/battery/</link>
+      <link>http://localhost:1313/blogprog/post/battery/</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/battery/</guid>
+      <guid>http://localhost:1313/blogprog/post/battery/</guid>
       <description>
         
           
@@ -106,10 +106,10 @@
     
     <item>
       <title>Encode et décode en Base64</title>
-      <link>https://abarhub.github.io/blogprog/post/base64/</link>
+      <link>http://localhost:1313/blogprog/post/base64/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/base64/</guid>
+      <guid>http://localhost:1313/blogprog/post/base64/</guid>
       <description>
         
           
@@ -122,10 +122,10 @@
     
     <item>
       <title>Internal Programming</title>
-      <link>https://abarhub.github.io/blogprog/post/internal_programming/</link>
+      <link>http://localhost:1313/blogprog/post/internal_programming/</link>
       <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/internal_programming/</guid>
+      <guid>http://localhost:1313/blogprog/post/internal_programming/</guid>
       <description>
         
           
@@ -138,10 +138,10 @@
     
     <item>
       <title>Suppression des branches mergées</title>
-      <link>https://abarhub.github.io/blogprog/post/delete_merged_branche/</link>
+      <link>http://localhost:1313/blogprog/post/delete_merged_branche/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/delete_merged_branche/</guid>
+      <guid>http://localhost:1313/blogprog/post/delete_merged_branche/</guid>
       <description>
         
           
@@ -154,10 +154,10 @@
     
     <item>
       <title>Commandes sous dos</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_env_bat/</link>
+      <link>http://localhost:1313/blogprog/post/exemple_env_bat/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_env_bat/</guid>
+      <guid>http://localhost:1313/blogprog/post/exemple_env_bat/</guid>
       <description>
         
           

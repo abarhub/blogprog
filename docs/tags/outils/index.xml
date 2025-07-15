@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Outils on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/outils/</link>
+    <link>http://localhost:1313/blogprog/tags/outils/</link>
     <description>Recent content in Outils on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/outils/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/outils/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Liste de sites pour générer tester les technologies web</title>
-      <link>https://abarhub.github.io/blogprog/post/tools_test_web/</link>
+      <link>http://localhost:1313/blogprog/post/tools_test_web/</link>
       <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/tools_test_web/</guid>
+      <guid>http://localhost:1313/blogprog/post/tools_test_web/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Liste d&#39;outils </title>
-      <link>https://abarhub.github.io/blogprog/post/liste_outils/</link>
+      <link>http://localhost:1313/blogprog/post/liste_outils/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/liste_outils/</guid>
+      <guid>http://localhost:1313/blogprog/post/liste_outils/</guid>
       <description>
         
           
@@ -43,10 +43,10 @@
     
     <item>
       <title>Liste d&#39;outils</title>
-      <link>https://abarhub.github.io/blogprog/post/tools/</link>
+      <link>http://localhost:1313/blogprog/post/tools/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/tools/</guid>
+      <guid>http://localhost:1313/blogprog/post/tools/</guid>
       <description>
         
           

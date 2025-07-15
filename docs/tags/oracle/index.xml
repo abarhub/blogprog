@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oracle on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/oracle/</link>
+    <link>http://localhost:1313/blogprog/tags/oracle/</link>
     <description>Recent content in Oracle on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lister les transactions ouvertes en Oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</link>
+      <link>http://localhost:1313/blogprog/post/liste_transactions_ouvertes_oracle/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</guid>
+      <guid>http://localhost:1313/blogprog/post/liste_transactions_ouvertes_oracle/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Suppression du lock sur une table Oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/table_locke/</link>
+      <link>http://localhost:1313/blogprog/post/table_locke/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/table_locke/</guid>
+      <guid>http://localhost:1313/blogprog/post/table_locke/</guid>
       <description>
         
           

@@ -2,110 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://abarhub.github.io/blogprog/pt/</loc>
+    <loc>http://localhost:1313/blogprog/pt/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abarhub.github.io/blogprog/"
+                href="http://localhost:1313/blogprog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://abarhub.github.io/blogprog/pt/"
+                href="http://localhost:1313/blogprog/pt/"
                 />
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/pt/tags/css/</loc>
+    <loc>http://localhost:1313/blogprog/pt/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abarhub.github.io/blogprog/tags/css/"
+                href="http://localhost:1313/blogprog/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://abarhub.github.io/blogprog/pt/tags/css/"
+                href="http://localhost:1313/blogprog/pt/tags/css/"
                 />
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/pt/tags/destacado/</loc>
+    <loc>http://localhost:1313/blogprog/pt/tags/destacado/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/pt/post/markdown-syntax/</loc>
+    <loc>http://localhost:1313/blogprog/pt/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abarhub.github.io/blogprog/post/markdown-syntax/"
+                href="http://localhost:1313/blogprog/post/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://abarhub.github.io/blogprog/pt/post/markdown-syntax/"
+                href="http://localhost:1313/blogprog/pt/post/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/pt/series/guia-de-temas/</loc>
+    <loc>http://localhost:1313/blogprog/pt/series/guia-de-temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/pt/tags/html/</loc>
+    <loc>http://localhost:1313/blogprog/pt/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abarhub.github.io/blogprog/tags/html/"
+                href="http://localhost:1313/blogprog/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://abarhub.github.io/blogprog/pt/tags/html/"
+                href="http://localhost:1313/blogprog/pt/tags/html/"
                 />
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/pt/tags/markdown/</loc>
+    <loc>http://localhost:1313/blogprog/pt/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abarhub.github.io/blogprog/tags/markdown/"
+                href="http://localhost:1313/blogprog/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://abarhub.github.io/blogprog/pt/tags/markdown/"
+                href="http://localhost:1313/blogprog/pt/tags/markdown/"
                 />
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/pt/post/</loc>
+    <loc>http://localhost:1313/blogprog/pt/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abarhub.github.io/blogprog/post/"
+                href="http://localhost:1313/blogprog/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://abarhub.github.io/blogprog/pt/post/"
+                href="http://localhost:1313/blogprog/pt/post/"
                 />
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/pt/categories/sintaxe/</loc>
+    <loc>http://localhost:1313/blogprog/pt/categories/sintaxe/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/pt/categories/temas/</loc>
+    <loc>http://localhost:1313/blogprog/pt/categories/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/pt/tags/temas/</loc>
+    <loc>http://localhost:1313/blogprog/pt/tags/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abarhub.github.io/blogprog/pt/about/</loc>
+    <loc>http://localhost:1313/blogprog/pt/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abarhub.github.io/blogprog/about/"
+                href="http://localhost:1313/blogprog/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://abarhub.github.io/blogprog/pt/about/"
+                href="http://localhost:1313/blogprog/pt/about/"
                 />
   </url>
 </urlset>
