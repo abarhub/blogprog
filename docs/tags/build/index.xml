@@ -1,28 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>build on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/build/</link>
-    <description>Recent content in build on Blog de programmation</description>
+    <title>Build on Blog de programmation</title>
+    <link>http://localhost:1313/tags/build/</link>
+    <description>Recent content in Build on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/build/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/build/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Récupérer la version avec spring boot</title>
-      <link>https://abarhub.github.io/blogprog/post/springboot_version/</link>
+      <link>http://localhost:1313/post/springboot_version/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/springboot_version/</guid>
-      <description>Récupérer la version avec spring boot</description>
+      <guid>http://localhost:1313/post/springboot_version/</guid>
+      <description>
+        
+          
+            Récupérer la version avec spring boot
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Installation de node et npm avec maven</title>
-      <link>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</link>
+      <link>http://localhost:1313/post/installation_node_npm_avec_maven/</link>
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</guid>
-      <description>Installation de node et npm avec maven</description>
+      <guid>http://localhost:1313/post/installation_node_npm_avec_maven/</guid>
+      <description>
+        
+          
+            Installation de node et npm avec maven
+          
+          
+        
+      </description>
     </item>
     
   </channel>

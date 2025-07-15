@@ -1,67 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sql on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/sql/</link>
-    <description>Recent content in sql on Blog de programmation</description>
+    <title>Sql on Blog de programmation</title>
+    <link>http://localhost:1313/tags/sql/</link>
+    <description>Recent content in Sql on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lister les transactions ouvertes en Oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</link>
+      <link>http://localhost:1313/post/liste_transactions_ouvertes_oracle/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</guid>
-      <description>Lister les transactions ouvertes en Oracle</description>
+      <guid>http://localhost:1313/post/liste_transactions_ouvertes_oracle/</guid>
+      <description>
+        
+          
+            Lister les transactions ouvertes en Oracle
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Suppression du lock sur une table Oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/table_locke/</link>
+      <link>http://localhost:1313/post/table_locke/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/table_locke/</guid>
-      <description>Suppression du lock sur une table Oracle</description>
+      <guid>http://localhost:1313/post/table_locke/</guid>
+      <description>
+        
+          
+            Suppression du lock sur une table Oracle
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Exemple de requete sql pour détruire toutes les tables d&#39;un schéma</title>
-      <link>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</link>
+      <link>http://localhost:1313/post/drop_all_table_oracle_sql/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</guid>
-      <description>Exemple de requete sql pour détruire toutes les tables d&amp;rsquo;un schéma</description>
+      <guid>http://localhost:1313/post/drop_all_table_oracle_sql/</guid>
+      <description>
+        
+          
+            Exemple de requete sql pour détruire toutes les tables d&#39;un schéma
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Script de création d&#39;un schéma Mysql avec l&#39;utilisateur</title>
-      <link>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</link>
+      <link>http://localhost:1313/post/script_schema_mysql_sql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</guid>
-      <description>Script de création d&amp;rsquo;un schéma Mysql avec l&amp;rsquo;utilisateur</description>
+      <guid>http://localhost:1313/post/script_schema_mysql_sql/</guid>
+      <description>
+        
+          
+            Script de création d&#39;un schéma Mysql avec l&#39;utilisateur
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Gestion des dates en oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</link>
+      <link>http://localhost:1313/post/use_date_oracle_sql/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</guid>
-      <description>Gestion des dates en oracle</description>
+      <guid>http://localhost:1313/post/use_date_oracle_sql/</guid>
+      <description>
+        
+          
+            Gestion des dates en oracle
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Stopper l&#39;execution d&#39;un script à la première erreur en Oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/script_with_error_sql/</link>
+      <link>http://localhost:1313/post/script_with_error_sql/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/script_with_error_sql/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-sql&#34;&gt;-- pour stoper l&#39;execution à la première erreur
--- a utiliser au début d&#39;un script
-WHENEVER SQLERROR EXIT FAILURE
-&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>http://localhost:1313/post/script_with_error_sql/</guid>
+      <description>
+        
+          
+            &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sql&#34; data-lang=&#34;sql&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;-- pour stoper l&amp;#39;execution à la première erreur
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;-- a utiliser au début d&amp;#39;un script
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;WHENEVER&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;SQLERROR&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;EXIT&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FAILURE&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+          
+          
+        
+      </description>
     </item>
     
   </channel>

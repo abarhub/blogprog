@@ -1,62 +1,98 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>maven on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/maven/</link>
-    <description>Recent content in maven on Blog de programmation</description>
+    <title>Maven on Blog de programmation</title>
+    <link>http://localhost:1313/tags/maven/</link>
+    <description>Recent content in Maven on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/maven/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/maven/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Execution du plugin maven dependancy tree en indiquant la version</title>
-      <link>https://abarhub.github.io/blogprog/post/depandancy_tree_version/</link>
+      <link>http://localhost:1313/post/depandancy_tree_version/</link>
       <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/depandancy_tree_version/</guid>
-      <description>&lt;p&gt;Pour executer la commande dependency-tree en fixant la version, il faut executer la commande :&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;mvn org.apache.maven.plugins:maven-dependency-plugin:3.3.0:tree
-&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>http://localhost:1313/post/depandancy_tree_version/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Pour executer la commande dependency-tree en fixant la version, il faut executer la commande :&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;mvn org.apache.maven.plugins:maven-dependency-plugin:3.3.0:tree
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Récupérer la version avec spring boot</title>
-      <link>https://abarhub.github.io/blogprog/post/springboot_version/</link>
+      <link>http://localhost:1313/post/springboot_version/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/springboot_version/</guid>
-      <description>Récupérer la version avec spring boot</description>
+      <guid>http://localhost:1313/post/springboot_version/</guid>
+      <description>
+        
+          
+            Récupérer la version avec spring boot
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Installation de node et npm avec maven</title>
-      <link>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</link>
+      <link>http://localhost:1313/post/installation_node_npm_avec_maven/</link>
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</guid>
-      <description>Installation de node et npm avec maven</description>
+      <guid>http://localhost:1313/post/installation_node_npm_avec_maven/</guid>
+      <description>
+        
+          
+            Installation de node et npm avec maven
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Maven Dependancy</title>
-      <link>https://abarhub.github.io/blogprog/post/maven-dependancy/</link>
+      <link>http://localhost:1313/post/maven-dependancy/</link>
       <pubDate>Sun, 18 Jul 2021 16:21:12 +0100</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/maven-dependancy/</guid>
-      <description>Affichage de la liste des dépendances</description>
+      <guid>http://localhost:1313/post/maven-dependancy/</guid>
+      <description>
+        
+          
+            Affichage de la liste des dépendances
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Changement de version des pom</title>
-      <link>https://abarhub.github.io/blogprog/post/update_version_sh/</link>
+      <link>http://localhost:1313/post/update_version_sh/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/update_version_sh/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;# changement de version des pom
-mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT
-
-# changement de version des pom sans backup
-mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT -DgenerateBackupPoms=false
-&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>http://localhost:1313/post/update_version_sh/</guid>
+      <description>
+        
+          
+            &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# changement de version des pom&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;mvn versions:set -DnewVersion&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;1.0.0.0-SNAPSHOT
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# changement de version des pom sans backup&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;mvn versions:set -DnewVersion&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;1.0.0.0-SNAPSHOT -DgenerateBackupPoms&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;false&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+          
+          
+        
+      </description>
     </item>
     
   </channel>

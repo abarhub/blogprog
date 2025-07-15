@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>change detection on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/change-detection/</link>
-    <description>Recent content in change detection on Blog de programmation</description>
+    <title>Change Detection on Blog de programmation</title>
+    <link>http://localhost:1313/tags/change-detection/</link>
+    <description>Recent content in Change Detection on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/change-detection/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/change-detection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Détection du changement sur Angular</title>
-      <link>https://abarhub.github.io/blogprog/post/angular_change_detection/</link>
+      <link>http://localhost:1313/post/angular_change_detection/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/angular_change_detection/</guid>
-      <description>Détection du changement sur Angular</description>
+      <guid>http://localhost:1313/post/angular_change_detection/</guid>
+      <description>
+        
+          
+            Détection du changement sur Angular
+          
+          
+        
+      </description>
     </item>
     
   </channel>

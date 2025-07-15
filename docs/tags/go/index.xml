@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>go on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/go/</link>
-    <description>Recent content in go on Blog de programmation</description>
+    <title>Go on Blog de programmation</title>
+    <link>http://localhost:1313/tags/go/</link>
+    <description>Recent content in Go on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Librairie pour usage standard en Golang</title>
-      <link>https://abarhub.github.io/blogprog/post/go_library/</link>
+      <link>http://localhost:1313/post/go_library/</link>
       <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/go_library/</guid>
-      <description>Librairie pour usage standard en Golang</description>
+      <guid>http://localhost:1313/post/go_library/</guid>
+      <description>
+        
+          
+            Librairie pour usage standard en Golang
+          
+          
+        
+      </description>
     </item>
     
   </channel>

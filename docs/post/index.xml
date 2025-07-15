@@ -2,841 +2,1443 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Génération du xml à partir du XSD</title>
-      <link>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</link>
+      <link>http://localhost:1313/post/generation_xml_a_partir_xsd/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</guid>
-      <description>Génération du xml à partir du XSD</description>
+      <guid>http://localhost:1313/post/generation_xml_a_partir_xsd/</guid>
+      <description>
+        
+          
+            Génération du xml à partir du XSD
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Heritage de type en xsd</title>
-      <link>https://abarhub.github.io/blogprog/post/heritage_type_xsd/</link>
+      <link>http://localhost:1313/post/heritage_type_xsd/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/heritage_type_xsd/</guid>
-      <description>Heritage de type en xsd</description>
+      <guid>http://localhost:1313/post/heritage_type_xsd/</guid>
+      <description>
+        
+          
+            Heritage de type en xsd
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Lister les transactions ouvertes en Oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</link>
+      <link>http://localhost:1313/post/liste_transactions_ouvertes_oracle/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</guid>
-      <description>Lister les transactions ouvertes en Oracle</description>
+      <guid>http://localhost:1313/post/liste_transactions_ouvertes_oracle/</guid>
+      <description>
+        
+          
+            Lister les transactions ouvertes en Oracle
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Suppression du lock sur une table Oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/table_locke/</link>
+      <link>http://localhost:1313/post/table_locke/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/table_locke/</guid>
-      <description>Suppression du lock sur une table Oracle</description>
+      <guid>http://localhost:1313/post/table_locke/</guid>
+      <description>
+        
+          
+            Suppression du lock sur une table Oracle
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Supprimer une balise xml et son contenu grace a une regex en Java</title>
-      <link>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</link>
+      <link>http://localhost:1313/post/supprimerbalidexml/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</guid>
-      <description>Supprimer une balise xml et son contenu grace a une regex en Java</description>
+      <guid>http://localhost:1313/post/supprimerbalidexml/</guid>
+      <description>
+        
+          
+            Supprimer une balise xml et son contenu grace a une regex en Java
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>suppression d&#39;une grand arborescence sous windows rapidement (robocopy)</title>
-      <link>https://abarhub.github.io/blogprog/post/suppression_repertoire_robocopy/</link>
+      <link>http://localhost:1313/post/suppression_repertoire_robocopy/</link>
       <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/suppression_repertoire_robocopy/</guid>
-      <description>suppression d&amp;rsquo;une grand arborescence sous windows rapidement (robocopy)</description>
+      <guid>http://localhost:1313/post/suppression_repertoire_robocopy/</guid>
+      <description>
+        
+          
+            suppression d&#39;une grand arborescence sous windows rapidement (robocopy)
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Formation Angular 17 (02/2024)</title>
-      <link>https://abarhub.github.io/blogprog/post/formation_angular/</link>
+      <link>http://localhost:1313/post/formation_angular/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/formation_angular/</guid>
-      <description>Formation Angular 17 (02/2024)</description>
+      <guid>http://localhost:1313/post/formation_angular/</guid>
+      <description>
+        
+          
+            Formation Angular 17 (02/2024)
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Liste de logiciels de backup</title>
-      <link>https://abarhub.github.io/blogprog/post/logiciel_backup/</link>
+      <link>http://localhost:1313/post/logiciel_backup/</link>
       <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/logiciel_backup/</guid>
-      <description>Liste de logiciels de backup</description>
+      <guid>http://localhost:1313/post/logiciel_backup/</guid>
+      <description>
+        
+          
+            Liste de logiciels de backup
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Les outils pour l&#39;ia</title>
-      <link>https://abarhub.github.io/blogprog/post/ia/</link>
+      <link>http://localhost:1313/post/ia/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/ia/</guid>
-      <description>Les outils pour l&amp;rsquo;ia</description>
+      <guid>http://localhost:1313/post/ia/</guid>
+      <description>
+        
+          
+            Les outils pour l&#39;ia
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Execution du premier jar trouvé</title>
-      <link>https://abarhub.github.io/blogprog/post/execute_jar/</link>
+      <link>http://localhost:1313/post/execute_jar/</link>
       <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/execute_jar/</guid>
-      <description>Execution du premier jar trouvé</description>
+      <guid>http://localhost:1313/post/execute_jar/</guid>
+      <description>
+        
+          
+            Execution du premier jar trouvé
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Trie en Typescript d&#39;un objet sur 2 champs</title>
-      <link>https://abarhub.github.io/blogprog/post/trie_typescript_objet/</link>
+      <link>http://localhost:1313/post/trie_typescript_objet/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/trie_typescript_objet/</guid>
-      <description>Trie en Typescript d&amp;rsquo;un objet sur 2 champs</description>
+      <guid>http://localhost:1313/post/trie_typescript_objet/</guid>
+      <description>
+        
+          
+            Trie en Typescript d&#39;un objet sur 2 champs
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>gestion des shadow copy (vss) sous windows</title>
-      <link>https://abarhub.github.io/blogprog/post/shadow_copy/</link>
+      <link>http://localhost:1313/post/shadow_copy/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/shadow_copy/</guid>
-      <description>gestion des shadow copy (vss) sous windows</description>
+      <guid>http://localhost:1313/post/shadow_copy/</guid>
+      <description>
+        
+          
+            gestion des shadow copy (vss) sous windows
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>A simple grep implementation in Go</title>
-      <link>https://abarhub.github.io/blogprog/post/grep.go/</link>
+      <link>http://localhost:1313/post/grep.go/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/grep.go/</guid>
-      <description>A simple grep implementation in Go</description>
+      <guid>http://localhost:1313/post/grep.go/</guid>
+      <description>
+        
+          
+            A simple grep implementation in Go
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>A curated list of command-line utilities written in Rust</title>
-      <link>https://abarhub.github.io/blogprog/post/rust-command-line-utilities.markdown/</link>
+      <link>http://localhost:1313/post/rust-command-line-utilities.markdown/</link>
       <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/rust-command-line-utilities.markdown/</guid>
-      <description>A curated list of command-line utilities written in Rust</description>
+      <guid>http://localhost:1313/post/rust-command-line-utilities.markdown/</guid>
+      <description>
+        
+          
+            A curated list of command-line utilities written in Rust
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Devoxx 2023 du 12 au 14 avril</title>
-      <link>https://abarhub.github.io/blogprog/post/devoxx_2023/</link>
+      <link>http://localhost:1313/post/devoxx_2023/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/devoxx_2023/</guid>
-      <description>Devoxx 2023 du 12 au 14 avril</description>
+      <guid>http://localhost:1313/post/devoxx_2023/</guid>
+      <description>
+        
+          
+            Devoxx 2023 du 12 au 14 avril
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Récupération du répertoire du script BAT</title>
-      <link>https://abarhub.github.io/blogprog/post/repertoire_script_bat/</link>
+      <link>http://localhost:1313/post/repertoire_script_bat/</link>
       <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/repertoire_script_bat/</guid>
-      <description>Récupération du répertoire du script BAT</description>
+      <guid>http://localhost:1313/post/repertoire_script_bat/</guid>
+      <description>
+        
+          
+            Récupération du répertoire du script BAT
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Renommage de fichiers</title>
-      <link>https://abarhub.github.io/blogprog/post/rename_files/</link>
+      <link>http://localhost:1313/post/rename_files/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/rename_files/</guid>
-      <description>Renommage de fichiers</description>
+      <guid>http://localhost:1313/post/rename_files/</guid>
+      <description>
+        
+          
+            Renommage de fichiers
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Liste de Design Patterns</title>
-      <link>https://abarhub.github.io/blogprog/post/liste_design_patern/</link>
+      <link>http://localhost:1313/post/liste_design_patern/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/liste_design_patern/</guid>
-      <description>Liste de Design Patterns</description>
+      <guid>http://localhost:1313/post/liste_design_patern/</guid>
+      <description>
+        
+          
+            Liste de Design Patterns
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Liste d&#39;outils CSS</title>
-      <link>https://abarhub.github.io/blogprog/post/outils_css/</link>
+      <link>http://localhost:1313/post/outils_css/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/outils_css/</guid>
-      <description>Liste d&amp;rsquo;outils CSS</description>
+      <guid>http://localhost:1313/post/outils_css/</guid>
+      <description>
+        
+          
+            Liste d&#39;outils CSS
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Devenir propriété d&#39;un répertoire sous windows</title>
-      <link>https://abarhub.github.io/blogprog/post/change_ownership_windows/</link>
+      <link>http://localhost:1313/post/change_ownership_windows/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/change_ownership_windows/</guid>
-      <description>Devenir propriété d&amp;rsquo;un répertoire sous windows</description>
+      <guid>http://localhost:1313/post/change_ownership_windows/</guid>
+      <description>
+        
+          
+            Devenir propriété d&#39;un répertoire sous windows
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Extraction d&#39;une table à partir de json</title>
-      <link>https://abarhub.github.io/blogprog/post/extract_table_from_json/</link>
+      <link>http://localhost:1313/post/extract_table_from_json/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/extract_table_from_json/</guid>
-      <description>Extraction d&amp;rsquo;une table à partir de json</description>
+      <guid>http://localhost:1313/post/extract_table_from_json/</guid>
+      <description>
+        
+          
+            Extraction d&#39;une table à partir de json
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Calcul la taille des répertoires</title>
-      <link>https://abarhub.github.io/blogprog/post/size_analyse.py/</link>
+      <link>http://localhost:1313/post/size_analyse.py/</link>
       <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/size_analyse.py/</guid>
-      <description>Calcul la taille des répertoires</description>
+      <guid>http://localhost:1313/post/size_analyse.py/</guid>
+      <description>
+        
+          
+            Calcul la taille des répertoires
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Liste de sites pour générer tester les technologies web</title>
-      <link>https://abarhub.github.io/blogprog/post/tools_test_web/</link>
+      <link>http://localhost:1313/post/tools_test_web/</link>
       <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/tools_test_web/</guid>
-      <description>Liste de sites pour générer tester les technologies web</description>
+      <guid>http://localhost:1313/post/tools_test_web/</guid>
+      <description>
+        
+          
+            Liste de sites pour générer tester les technologies web
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Liste les fichiers plus grands qu&#39;une certaine taille</title>
-      <link>https://abarhub.github.io/blogprog/post/liste_files_windows/</link>
+      <link>http://localhost:1313/post/liste_files_windows/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/liste_files_windows/</guid>
-      <description>Liste les fichiers plus grands qu&amp;rsquo;une certaine taille</description>
+      <guid>http://localhost:1313/post/liste_files_windows/</guid>
+      <description>
+        
+          
+            Liste les fichiers plus grands qu&#39;une certaine taille
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Création d&#39;un menu en bat</title>
-      <link>https://abarhub.github.io/blogprog/post/menu.bat/</link>
+      <link>http://localhost:1313/post/menu.bat/</link>
       <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/menu.bat/</guid>
-      <description>Création d&amp;rsquo;un menu en bat</description>
+      <guid>http://localhost:1313/post/menu.bat/</guid>
+      <description>
+        
+          
+            Création d&#39;un menu en bat
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Description of tar command</title>
-      <link>https://abarhub.github.io/blogprog/post/tar/</link>
+      <link>http://localhost:1313/post/tar/</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/tar/</guid>
-      <description>Description of tar command</description>
+      <guid>http://localhost:1313/post/tar/</guid>
+      <description>
+        
+          
+            Description of tar command
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Disable button if input is empty</title>
-      <link>https://abarhub.github.io/blogprog/post/disable_button_if_empty/</link>
+      <link>http://localhost:1313/post/disable_button_if_empty/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/disable_button_if_empty/</guid>
-      <description>Disable button if input is empty</description>
+      <guid>http://localhost:1313/post/disable_button_if_empty/</guid>
+      <description>
+        
+          
+            Disable button if input is empty
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Execution du plugin maven dependancy tree en indiquant la version</title>
-      <link>https://abarhub.github.io/blogprog/post/depandancy_tree_version/</link>
+      <link>http://localhost:1313/post/depandancy_tree_version/</link>
       <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/depandancy_tree_version/</guid>
-      <description>&lt;p&gt;Pour executer la commande dependency-tree en fixant la version, il faut executer la commande :&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;mvn org.apache.maven.plugins:maven-dependency-plugin:3.3.0:tree
-&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>http://localhost:1313/post/depandancy_tree_version/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Pour executer la commande dependency-tree en fixant la version, il faut executer la commande :&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;mvn org.apache.maven.plugins:maven-dependency-plugin:3.3.0:tree
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Statistique de codage</title>
-      <link>https://abarhub.github.io/blogprog/post/stat_coding/</link>
+      <link>http://localhost:1313/post/stat_coding/</link>
       <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/stat_coding/</guid>
-      <description>Statistique de codage</description>
+      <guid>http://localhost:1313/post/stat_coding/</guid>
+      <description>
+        
+          
+            Statistique de codage
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Exemple de requete en elasticsearch</title>
-      <link>https://abarhub.github.io/blogprog/post/elasticsearch_cheat_sheet/</link>
+      <link>http://localhost:1313/post/elasticsearch_cheat_sheet/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/elasticsearch_cheat_sheet/</guid>
-      <description>Exemple de requete en elasticsearch</description>
+      <guid>http://localhost:1313/post/elasticsearch_cheat_sheet/</guid>
+      <description>
+        
+          
+            Exemple de requete en elasticsearch
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Librairie pour usage standard en Golang</title>
-      <link>https://abarhub.github.io/blogprog/post/go_library/</link>
+      <link>http://localhost:1313/post/go_library/</link>
       <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/go_library/</guid>
-      <description>Librairie pour usage standard en Golang</description>
+      <guid>http://localhost:1313/post/go_library/</guid>
+      <description>
+        
+          
+            Librairie pour usage standard en Golang
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Java Code analyser</title>
-      <link>https://abarhub.github.io/blogprog/post/java_code_analyser/</link>
+      <link>http://localhost:1313/post/java_code_analyser/</link>
       <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/java_code_analyser/</guid>
-      <description>Java Code analyser</description>
+      <guid>http://localhost:1313/post/java_code_analyser/</guid>
+      <description>
+        
+          
+            Java Code analyser
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Liste de langages</title>
-      <link>https://abarhub.github.io/blogprog/post/langages/</link>
+      <link>http://localhost:1313/post/langages/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/langages/</guid>
-      <description>Liste de langages</description>
+      <guid>http://localhost:1313/post/langages/</guid>
+      <description>
+        
+          
+            Liste de langages
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>C library and tools</title>
-      <link>https://abarhub.github.io/blogprog/post/c_library_tools/</link>
+      <link>http://localhost:1313/post/c_library_tools/</link>
       <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/c_library_tools/</guid>
-      <description>C library and tools</description>
+      <guid>http://localhost:1313/post/c_library_tools/</guid>
+      <description>
+        
+          
+            C library and tools
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex</title>
-      <link>https://abarhub.github.io/blogprog/post/grid_flex_css/</link>
+      <link>http://localhost:1313/post/grid_flex_css/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/grid_flex_css/</guid>
-      <description>Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex</description>
+      <guid>http://localhost:1313/post/grid_flex_css/</guid>
+      <description>
+        
+          
+            Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Unsubscribe des observables</title>
-      <link>https://abarhub.github.io/blogprog/post/unsubscribe/</link>
+      <link>http://localhost:1313/post/unsubscribe/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/unsubscribe/</guid>
-      <description>Unsubscribe des observables</description>
+      <guid>http://localhost:1313/post/unsubscribe/</guid>
+      <description>
+        
+          
+            Unsubscribe des observables
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Injection un fichier dans du json en l&#39;encodant en base64</title>
-      <link>https://abarhub.github.io/blogprog/post/include_file_in_json/</link>
+      <link>http://localhost:1313/post/include_file_in_json/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/include_file_in_json/</guid>
-      <description>Injecter un fichier dans du json en l&amp;rsquo;encodant en base64</description>
+      <guid>http://localhost:1313/post/include_file_in_json/</guid>
+      <description>
+        
+          
+            Injecter un fichier dans du json en l&#39;encodant en base64
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Gestion de la batterie sous Windows</title>
-      <link>https://abarhub.github.io/blogprog/post/battery/</link>
+      <link>http://localhost:1313/post/battery/</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/battery/</guid>
-      <description>Test de la batterie sous windows pour PC Portable</description>
+      <guid>http://localhost:1313/post/battery/</guid>
+      <description>
+        
+          
+            Test de la batterie sous windows pour PC Portable
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Devoxx 2022</title>
-      <link>https://abarhub.github.io/blogprog/post/devoxx_2022/</link>
+      <link>http://localhost:1313/post/devoxx_2022/</link>
       <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/devoxx_2022/</guid>
-      <description>Devoxx 2022 du 20 au 22 avril</description>
+      <guid>http://localhost:1313/post/devoxx_2022/</guid>
+      <description>
+        
+          
+            Devoxx 2022 du 20 au 22 avril 
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Encode et décode en Base64</title>
-      <link>https://abarhub.github.io/blogprog/post/base64/</link>
+      <link>http://localhost:1313/post/base64/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/base64/</guid>
-      <description>Encode et décode en Base64 des fichiers sous Linux et Windows</description>
+      <guid>http://localhost:1313/post/base64/</guid>
+      <description>
+        
+          
+            Encode et décode en Base64 des fichiers sous Linux et Windows
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Angular cheatsheet</title>
-      <link>https://abarhub.github.io/blogprog/post/angular_cheatsheet/</link>
+      <link>http://localhost:1313/post/angular_cheatsheet/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/angular_cheatsheet/</guid>
-      <description>Angular cheatsheet</description>
+      <guid>http://localhost:1313/post/angular_cheatsheet/</guid>
+      <description>
+        
+          
+            Angular cheatsheet
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Internal Programming</title>
-      <link>https://abarhub.github.io/blogprog/post/internal_programming/</link>
+      <link>http://localhost:1313/post/internal_programming/</link>
       <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/internal_programming/</guid>
-      <description>Internal Programming</description>
+      <guid>http://localhost:1313/post/internal_programming/</guid>
+      <description>
+        
+          
+            Internal Programming
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Using Hugo page bundles</title>
+      <link>http://localhost:1313/post/bundle/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/bundle/</guid>
+      <description>
+        
+          
+            Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page&#39;s front matter.
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Compter les fichiers jpeg par répertoire</title>
-      <link>https://abarhub.github.io/blogprog/post/count_jpg_files/</link>
+      <link>http://localhost:1313/post/count_jpg_files/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/count_jpg_files/</guid>
-      <description>Compter les fichiers jpeg par répertoire</description>
+      <guid>http://localhost:1313/post/count_jpg_files/</guid>
+      <description>
+        
+          
+            Compter les fichiers jpeg par répertoire
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Suppression des branches mergées</title>
-      <link>https://abarhub.github.io/blogprog/post/delete_merged_branche/</link>
+      <link>http://localhost:1313/post/delete_merged_branche/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/delete_merged_branche/</guid>
-      <description>Suppression des branches mergées</description>
+      <guid>http://localhost:1313/post/delete_merged_branche/</guid>
+      <description>
+        
+          
+            Suppression des branches mergées
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Récupérer la version avec spring boot</title>
-      <link>https://abarhub.github.io/blogprog/post/springboot_version/</link>
+      <link>http://localhost:1313/post/springboot_version/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/springboot_version/</guid>
-      <description>Récupérer la version avec spring boot</description>
+      <guid>http://localhost:1313/post/springboot_version/</guid>
+      <description>
+        
+          
+            Récupérer la version avec spring boot
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Using OpenStreetMap</title>
+      <link>http://localhost:1313/post/map/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/map/</guid>
+      <description>
+        
+          
+            &lt;iframe class=&#34;openstreetmap&#34; width=&#34;100%&#34; height=&#34;600px&#34; src=&#34;https://umap.openstreetmap.fr/en/map/demo-map_1?scaleControl=true&amp;miniMap=false&amp;scrollWheelZoom=true&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=true&amp;searchControl=true&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=none&amp;captionBar=false#14/-37.7989/145.0003&#34;&gt;&lt;/iframe&gt;
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Liste d&#39;outils </title>
-      <link>https://abarhub.github.io/blogprog/post/liste_outils/</link>
+      <link>http://localhost:1313/post/liste_outils/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/liste_outils/</guid>
-      <description>&lt;h1 id=&#34;liste-doutils-en-ligne-de-commande&#34;&gt;Liste d&amp;rsquo;outils en ligne de commande&lt;/h1&gt;
-&lt;p&gt;Voici une liste d&amp;rsquo;outils :&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/liste_outils/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;liste-doutils-en-ligne-de-commande&#34;&gt;Liste d&#39;outils en ligne de commande&lt;/h1&gt;
+&lt;p&gt;Voici une liste d&#39;outils :&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Hello world en HTML</title>
-      <link>https://abarhub.github.io/blogprog/post/helloworld_html/</link>
+      <link>http://localhost:1313/post/helloworld_html/</link>
       <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/helloworld_html/</guid>
-      <description>Voici un exemple de page html</description>
+      <guid>http://localhost:1313/post/helloworld_html/</guid>
+      <description>
+        
+          
+            Voici un exemple de page html
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Installation de node et npm avec maven</title>
-      <link>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</link>
+      <link>http://localhost:1313/post/installation_node_npm_avec_maven/</link>
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/installation_node_npm_avec_maven/</guid>
-      <description>Installation de node et npm avec maven</description>
+      <guid>http://localhost:1313/post/installation_node_npm_avec_maven/</guid>
+      <description>
+        
+          
+            Installation de node et npm avec maven
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Hello world en Python</title>
-      <link>https://abarhub.github.io/blogprog/post/helloworld_python/</link>
+      <link>http://localhost:1313/post/helloworld_python/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/helloworld_python/</guid>
-      <description>Hello world en Python</description>
+      <guid>http://localhost:1313/post/helloworld_python/</guid>
+      <description>
+        
+          
+            Hello world en Python
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Validation xsd en gérant la résolution des xsd</title>
-      <link>https://abarhub.github.io/blogprog/post/resolve_xsd/</link>
+      <link>http://localhost:1313/post/resolve_xsd/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/resolve_xsd/</guid>
-      <description>Validation par xsd en gérant la résolution des xsd</description>
+      <guid>http://localhost:1313/post/resolve_xsd/</guid>
+      <description>
+        
+          
+            Validation par xsd en gérant la résolution des xsd
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Using Notices</title>
+      <link>http://localhost:1313/post/notices/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/notices/</guid>
+      <description>
+        
+          
+            &lt;p&gt;The &amp;quot;Notices&amp;quot; shortcode enables you to call out pieces of information - sidebars, warnings, tips, etc.&lt;/p&gt;
+&lt;p&gt;To create a notice on a page, you can use the &lt;code&gt;notice&lt;/code&gt; shortcode.&lt;br&gt;
+You use the &lt;code&gt;notice&lt;/code&gt; shortcode, with the first parameter being one of &lt;code&gt;note&lt;/code&gt;, &lt;code&gt;info&lt;/code&gt;, &lt;code&gt;tip&lt;/code&gt;, and &lt;code&gt;warning&lt;/code&gt;.  Then add a title for your
+note in quotes as the second parameter.  The inner body of the note can be whatever markdown you want to create.&lt;/p&gt;
+&lt;p&gt;The following shortcode syntax within a markdown doc:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;{{% notice note &amp;#34;Note&amp;#34; %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;This is a standard &amp;#34;note&amp;#34; style.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;{{% /notice %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;will render as:&lt;/p&gt;
+
+&lt;div class=&#34;notices note&#34;&gt;
+    &lt;div class=&#34;label&#34;&gt;Note&lt;/div&gt;
+    &lt;p&gt;This is a standard &amp;quot;note&amp;quot; style.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Détection du changement sur Angular</title>
-      <link>https://abarhub.github.io/blogprog/post/angular_change_detection/</link>
+      <link>http://localhost:1313/post/angular_change_detection/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/angular_change_detection/</guid>
-      <description>Détection du changement sur Angular</description>
+      <guid>http://localhost:1313/post/angular_change_detection/</guid>
+      <description>
+        
+          
+            Détection du changement sur Angular
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Liste d&#39;outils</title>
-      <link>https://abarhub.github.io/blogprog/post/tools/</link>
+      <link>http://localhost:1313/post/tools/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/tools/</guid>
-      <description>Liste d&amp;rsquo;outils</description>
+      <guid>http://localhost:1313/post/tools/</guid>
+      <description>
+        
+          
+            Liste d&#39;outils
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Maven Dependancy</title>
-      <link>https://abarhub.github.io/blogprog/post/maven-dependancy/</link>
+      <link>http://localhost:1313/post/maven-dependancy/</link>
       <pubDate>Sun, 18 Jul 2021 16:21:12 +0100</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/maven-dependancy/</guid>
-      <description>Affichage de la liste des dépendances</description>
+      <guid>http://localhost:1313/post/maven-dependancy/</guid>
+      <description>
+        
+          
+            Affichage de la liste des dépendances
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Externalisation de la configuration avec spring boot</title>
-      <link>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</link>
+      <link>http://localhost:1313/post/external_config_spring_boot/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/external_config_spring_boot/</guid>
-      <description>Externalisation de la configuration avec spring boot</description>
+      <guid>http://localhost:1313/post/external_config_spring_boot/</guid>
+      <description>
+        
+          
+            Externalisation de la configuration avec spring boot
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Débugage avec Angular</title>
-      <link>https://abarhub.github.io/blogprog/post/debug_angular/</link>
+      <link>http://localhost:1313/post/debug_angular/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/debug_angular/</guid>
-      <description>Débugage avec Angular</description>
+      <guid>http://localhost:1313/post/debug_angular/</guid>
+      <description>
+        
+          
+            Débugage avec Angular
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Exemple de shell en c</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_shell_c/</link>
+      <link>http://localhost:1313/post/exemple_shell_c/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_shell_c/</guid>
-      <description>Exemple de shell en c</description>
+      <guid>http://localhost:1313/post/exemple_shell_c/</guid>
+      <description>
+        
+          
+            Exemple de shell en c
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Documentation Officiel de Java</title>
-      <link>https://abarhub.github.io/blogprog/post/java_doc/</link>
+      <link>http://localhost:1313/post/java_doc/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/java_doc/</guid>
-      <description>Documentation Officiel de Java</description>
+      <guid>http://localhost:1313/post/java_doc/</guid>
+      <description>
+        
+          
+            Documentation Officiel de Java
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Exemple de ngclass</title>
-      <link>https://abarhub.github.io/blogprog/post/ngclass_angular/</link>
+      <link>http://localhost:1313/post/ngclass_angular/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/ngclass_angular/</guid>
-      <description>Exemple de ngclass</description>
+      <guid>http://localhost:1313/post/ngclass_angular/</guid>
+      <description>
+        
+          
+            Exemple de ngclass
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Sytaxe de markdow</title>
-      <link>https://abarhub.github.io/blogprog/post/markdown_gist/</link>
+      <link>http://localhost:1313/post/markdown_gist/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/markdown_gist/</guid>
-      <description>Sytaxe de markdow</description>
+      <guid>http://localhost:1313/post/markdown_gist/</guid>
+      <description>
+        
+          
+            Sytaxe de markdow
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Débugage spring</title>
-      <link>https://abarhub.github.io/blogprog/post/debug_spring/</link>
+      <link>http://localhost:1313/post/debug_spring/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/debug_spring/</guid>
-      <description>Débugage spring</description>
+      <guid>http://localhost:1313/post/debug_spring/</guid>
+      <description>
+        
+          
+            Débugage spring
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Commandes sous dos</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_env_bat/</link>
+      <link>http://localhost:1313/post/exemple_env_bat/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_env_bat/</guid>
-      <description>Commandes sous dos</description>
+      <guid>http://localhost:1313/post/exemple_env_bat/</guid>
+      <description>
+        
+          
+            Commandes sous dos
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Spring security OAuth 2 documentation</title>
-      <link>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</link>
+      <link>http://localhost:1313/post/spring_security_oauth2_doc/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/spring_security_oauth2_doc/</guid>
-      <description>Spring security OAuth 2 documentation</description>
-    </item>
-    
-    <item>
-      <title>In-post APlayer Test</title>
-      <link>https://abarhub.github.io/blogprog/post/aplayer-test/</link>
-      <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
-      
-      <guid>https://abarhub.github.io/blogprog/post/aplayer-test/</guid>
-      <description>&lt;div class=&#34;post-player-wrapper&#34;&gt;
-  &lt;div
-    class=&#34;post-aplayer&#34;
-    data-base=&#34;https://abarhub.github.io/blogprog&#34;
-    data-urls=&#34;/theme/hugo-theme-fuji/aplayer/berlin.mp3&#34;
-    data-names=&#34;Berlin&#34;
-    data-artists=&#34;Crowander&#34;
-    data-covers=&#34;/theme/hugo-theme-fuji/aplayer/crowander.jpg&#34;
-  &gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;This post is for in-post APlayer test, above is previous post-player.&lt;/p&gt;
-&lt;p&gt;Music files are all downloaded from &lt;a href=&#34;https://freemusicarchive.org&#34; target=&#34;_blank&#34;&gt;Free Music Archive&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/spring_security_oauth2_doc/</guid>
+      <description>
+        
+          
+            Spring security OAuth 2 documentation
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Exemple de requete sql pour détruire toutes les tables d&#39;un schéma</title>
-      <link>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</link>
+      <link>http://localhost:1313/post/drop_all_table_oracle_sql/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</guid>
-      <description>Exemple de requete sql pour détruire toutes les tables d&amp;rsquo;un schéma</description>
+      <guid>http://localhost:1313/post/drop_all_table_oracle_sql/</guid>
+      <description>
+        
+          
+            Exemple de requete sql pour détruire toutes les tables d&#39;un schéma
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>L&#39;url jdbc pour se connecter à une base MySQL</title>
-      <link>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</link>
+      <link>http://localhost:1313/post/url_jdbc_mysql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</guid>
-      <description>L&amp;rsquo;url jdbc pour se connecter à une base MySQL</description>
+      <guid>http://localhost:1313/post/url_jdbc_mysql/</guid>
+      <description>
+        
+          
+            L&#39;url jdbc pour se connecter à une base MySQL
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Script de création d&#39;un schéma Mysql avec l&#39;utilisateur</title>
-      <link>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</link>
+      <link>http://localhost:1313/post/script_schema_mysql_sql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</guid>
-      <description>Script de création d&amp;rsquo;un schéma Mysql avec l&amp;rsquo;utilisateur</description>
+      <guid>http://localhost:1313/post/script_schema_mysql_sql/</guid>
+      <description>
+        
+          
+            Script de création d&#39;un schéma Mysql avec l&#39;utilisateur
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Exemple de test paramétré</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</link>
+      <link>http://localhost:1313/post/exemple_junit5_test_java/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</guid>
-      <description>Exemple de test paramétré</description>
+      <guid>http://localhost:1313/post/exemple_junit5_test_java/</guid>
+      <description>
+        
+          
+            Exemple de test paramétré
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Ajout des jar dans la stacktrace pour LogBack</title>
-      <link>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</link>
+      <link>http://localhost:1313/post/logback_with_jar_in_exception/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/logback_with_jar_in_exception/</guid>
-      <description>Ajout des jar dans la stacktrace pour LogBack</description>
+      <guid>http://localhost:1313/post/logback_with_jar_in_exception/</guid>
+      <description>
+        
+          
+            Ajout des jar dans la stacktrace pour LogBack
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Gestion des dates en oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</link>
+      <link>http://localhost:1313/post/use_date_oracle_sql/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</guid>
-      <description>Gestion des dates en oracle</description>
+      <guid>http://localhost:1313/post/use_date_oracle_sql/</guid>
+      <description>
+        
+          
+            Gestion des dates en oracle
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Logger toutes les propriétés de Spring Boot</title>
-      <link>https://abarhub.github.io/blogprog/post/properties_logger_java/</link>
+      <link>http://localhost:1313/post/properties_logger_java/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/properties_logger_java/</guid>
-      <description>Logger toutes les propriétés de Spring Boot</description>
+      <guid>http://localhost:1313/post/properties_logger_java/</guid>
+      <description>
+        
+          
+            Logger toutes les propriétés de Spring Boot
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances</title>
-      <link>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</link>
+      <link>http://localhost:1313/post/install_desinstall_generation_requirement_txt_sh/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</guid>
-      <description>Installation ou désinstallation d&amp;rsquo;un module Python. Création du fichier requirements.txt avec les dépendances</description>
+      <guid>http://localhost:1313/post/install_desinstall_generation_requirement_txt_sh/</guid>
+      <description>
+        
+          
+            Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Création d&#39;un composant avec un module et une route</title>
-      <link>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</link>
+      <link>http://localhost:1313/post/create_component_with_module_and_routes/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</guid>
-      <description>Création d&amp;rsquo;un composant avec un module et une route</description>
+      <guid>http://localhost:1313/post/create_component_with_module_and_routes/</guid>
+      <description>
+        
+          
+            Création d&#39;un composant avec un module et une route
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Tutoriel bootstrap 4</title>
-      <link>https://abarhub.github.io/blogprog/post/site_bootstrap_tutorial/</link>
+      <link>http://localhost:1313/post/site_bootstrap_tutorial/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/site_bootstrap_tutorial/</guid>
-      <description>Tutoriel bootstrap 4</description>
+      <guid>http://localhost:1313/post/site_bootstrap_tutorial/</guid>
+      <description>
+        
+          
+            Tutoriel bootstrap 4
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Exemple de loggeur avec slf4j</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_logger_java/</link>
+      <link>http://localhost:1313/post/exemple_logger_java/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_logger_java/</guid>
-      <description>Exemple de loggeur avec slf4j</description>
+      <guid>http://localhost:1313/post/exemple_logger_java/</guid>
+      <description>
+        
+          
+            Exemple de loggeur avec slf4j
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Accès à un fichier de ressource</title>
-      <link>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</link>
+      <link>http://localhost:1313/post/read_ressouce_in_classpath_java/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/read_ressouce_in_classpath_java/</guid>
-      <description>Accès à un fichier de ressource</description>
+      <guid>http://localhost:1313/post/read_ressouce_in_classpath_java/</guid>
+      <description>
+        
+          
+            Accès à un fichier de ressource
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Aide mémoire sur ElasticSearch</title>
-      <link>https://abarhub.github.io/blogprog/post/elasticsearch/</link>
+      <link>http://localhost:1313/post/elasticsearch/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/elasticsearch/</guid>
-      <description>Aide mémoire sur ElasticSearch</description>
+      <guid>http://localhost:1313/post/elasticsearch/</guid>
+      <description>
+        
+          
+            Aide mémoire sur ElasticSearch
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Calcul de dates</title>
-      <link>https://abarhub.github.io/blogprog/post/calcul_dates/</link>
+      <link>http://localhost:1313/post/calcul_dates/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/calcul_dates/</guid>
-      <description>Calcul de dates</description>
+      <guid>http://localhost:1313/post/calcul_dates/</guid>
+      <description>
+        
+          
+            Calcul de dates
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Capture des paramètres avec Mockito</title>
-      <link>https://abarhub.github.io/blogprog/post/mockito_capture_java/</link>
+      <link>http://localhost:1313/post/mockito_capture_java/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/mockito_capture_java/</guid>
-      <description>Capture des paramètres avec Mockito</description>
+      <guid>http://localhost:1313/post/mockito_capture_java/</guid>
+      <description>
+        
+          
+            Capture des paramètres avec Mockito
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Changement de version des pom</title>
-      <link>https://abarhub.github.io/blogprog/post/update_version_sh/</link>
+      <link>http://localhost:1313/post/update_version_sh/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/update_version_sh/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;# changement de version des pom
-mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT
-
-# changement de version des pom sans backup
-mvn versions:set -DnewVersion=1.0.0.0-SNAPSHOT -DgenerateBackupPoms=false
-&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>http://localhost:1313/post/update_version_sh/</guid>
+      <description>
+        
+          
+            &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# changement de version des pom&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;mvn versions:set -DnewVersion&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;1.0.0.0-SNAPSHOT
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# changement de version des pom sans backup&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;mvn versions:set -DnewVersion&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;1.0.0.0-SNAPSHOT -DgenerateBackupPoms&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;false&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Sites sur Spring</title>
-      <link>https://abarhub.github.io/blogprog/post/site_spring/</link>
+      <link>http://localhost:1313/post/site_spring/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/site_spring/</guid>
-      <description>site sur spring :
-https://spring.io/
-https://www.baeldung.com/spring-tutorial</description>
+      <guid>http://localhost:1313/post/site_spring/</guid>
+      <description>
+        
+          
+            &lt;p&gt;site sur spring :&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://spring.io/&#34;&gt;https://spring.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.baeldung.com/spring-tutorial&#34;&gt;https://www.baeldung.com/spring-tutorial&lt;/a&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Stopper l&#39;execution d&#39;un script à la première erreur en Oracle</title>
-      <link>https://abarhub.github.io/blogprog/post/script_with_error_sql/</link>
+      <link>http://localhost:1313/post/script_with_error_sql/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/script_with_error_sql/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-sql&#34;&gt;-- pour stoper l&#39;execution à la première erreur
--- a utiliser au début d&#39;un script
-WHENEVER SQLERROR EXIT FAILURE
-&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>http://localhost:1313/post/script_with_error_sql/</guid>
+      <description>
+        
+          
+            &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sql&#34; data-lang=&#34;sql&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;-- pour stoper l&amp;#39;execution à la première erreur
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;-- a utiliser au début d&amp;#39;un script
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;WHENEVER&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;SQLERROR&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;EXIT&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FAILURE&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+          
+          
+        
+      </description>
     </item>
     
     <item>
-      <title>Markdown Syntax</title>
-      <link>https://abarhub.github.io/blogprog/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
-&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
-&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/markdown-syntax/</guid>
+      <description>
+        
+          
+            &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
     
     <item>
-      <title>Math Typesetting</title>
-      <link>https://abarhub.github.io/blogprog/post/math-typesetting/</link>
-      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
-&lt;p&gt;In this example we will be using &lt;a href=&#34;https://katex.org/&#34; target=&#34;_blank&#34;&gt;KaTeX&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Create a partial under &lt;code&gt;/layouts/partials/math.html&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Within this partial reference the &lt;a href=&#34;https://katex.org/docs/autorender.html&#34; target=&#34;_blank&#34;&gt;Auto-render Extension&lt;/a&gt; or host these scripts locally.&lt;/li&gt;
-&lt;li&gt;Include the partial in your templates like so:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;{{ if or .Params.math .Site.Params.math }}
-{{ partial &amp;quot;math.html&amp;quot; . }}
-{{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;To enable KaTex globally set the parameter &lt;code&gt;math&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in a project&amp;rsquo;s configuration&lt;/li&gt;
-&lt;li&gt;To enable KaTex on a per page basis include the parameter &lt;code&gt;math: true&lt;/code&gt; in content files.&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/post/rich-content/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#embedded&#34;&gt;Embedded Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://abarhub.github.io/blogprog/post/placeholder-text/</link>
+      <link>http://localhost:1313/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
-caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
-lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/placeholder-text/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:1313/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/math-typesetting/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://abarhub.github.io/blogprog/post/emoji-support/</link>
+      <link>http://localhost:1313/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34; target=&#34;_blank&#34;&gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site’s &lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34; target=&#34;_blank&#34;&gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:s ee_no_evil:[Remove the space]&lt;/code&gt; 🙈 &lt;code&gt;:h ear_no_evil:[Remove the space]&lt;/code&gt; 🙉 &lt;code&gt;:s peak_no_evil:[Remove the space]&lt;/code&gt; 🙊&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>CJK Unicode Test</title>
-      <link>https://abarhub.github.io/blogprog/post/cjk-unicode-test/</link>
-      <pubDate>Fri, 09 Mar 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://abarhub.github.io/blogprog/post/cjk-unicode-test/</guid>
-      <description>&lt;p&gt;The following is part of the CJK text, this page is for test use only.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>纯简体中文测试文章</title>
-      <link>https://abarhub.github.io/blogprog/post/wtf-article/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://abarhub.github.io/blogprog/post/wtf-article/</guid>
-      <description>&lt;p&gt;本文内容无实际意义，由狗屁不通文章生成器自动生成，不代表作者本人观点。&lt;/p&gt;
-&lt;p&gt;可是，即使是这样，一段代码写一天的出现仍然代表了一定的意义。一段代码写一天，到底应该如何实现。马克思在不经意间这样说过，一切节省，归根到底都归结为时间的节省。这不禁令我深思。马克思曾经说过，一切节省，归根到底都归结为时间的节省。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/emoji-support/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
     
   </channel>

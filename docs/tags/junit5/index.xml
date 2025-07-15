@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>junit5 on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/junit5/</link>
-    <description>Recent content in junit5 on Blog de programmation</description>
+    <title>Junit5 on Blog de programmation</title>
+    <link>http://localhost:1313/tags/junit5/</link>
+    <description>Recent content in Junit5 on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/junit5/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/junit5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exemple de test paramétré</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</link>
+      <link>http://localhost:1313/post/exemple_junit5_test_java/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_junit5_test_java/</guid>
-      <description>Exemple de test paramétré</description>
+      <guid>http://localhost:1313/post/exemple_junit5_test_java/</guid>
+      <description>
+        
+          
+            Exemple de test paramétré
+          
+          
+        
+      </description>
     </item>
     
   </channel>

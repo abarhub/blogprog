@@ -1,73 +1,123 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>angular on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/angular/</link>
-    <description>Recent content in angular on Blog de programmation</description>
+    <title>Angular on Blog de programmation</title>
+    <link>http://localhost:1313/tags/angular/</link>
+    <description>Recent content in Angular on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/angular/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formation Angular 17 (02/2024)</title>
-      <link>https://abarhub.github.io/blogprog/post/formation_angular/</link>
+      <link>http://localhost:1313/post/formation_angular/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/formation_angular/</guid>
-      <description>Formation Angular 17 (02/2024)</description>
+      <guid>http://localhost:1313/post/formation_angular/</guid>
+      <description>
+        
+          
+            Formation Angular 17 (02/2024)
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Unsubscribe des observables</title>
-      <link>https://abarhub.github.io/blogprog/post/unsubscribe/</link>
+      <link>http://localhost:1313/post/unsubscribe/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/unsubscribe/</guid>
-      <description>Unsubscribe des observables</description>
+      <guid>http://localhost:1313/post/unsubscribe/</guid>
+      <description>
+        
+          
+            Unsubscribe des observables
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Angular cheatsheet</title>
-      <link>https://abarhub.github.io/blogprog/post/angular_cheatsheet/</link>
+      <link>http://localhost:1313/post/angular_cheatsheet/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/angular_cheatsheet/</guid>
-      <description>Angular cheatsheet</description>
+      <guid>http://localhost:1313/post/angular_cheatsheet/</guid>
+      <description>
+        
+          
+            Angular cheatsheet
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Détection du changement sur Angular</title>
-      <link>https://abarhub.github.io/blogprog/post/angular_change_detection/</link>
+      <link>http://localhost:1313/post/angular_change_detection/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/angular_change_detection/</guid>
-      <description>Détection du changement sur Angular</description>
+      <guid>http://localhost:1313/post/angular_change_detection/</guid>
+      <description>
+        
+          
+            Détection du changement sur Angular
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Débugage avec Angular</title>
-      <link>https://abarhub.github.io/blogprog/post/debug_angular/</link>
+      <link>http://localhost:1313/post/debug_angular/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/debug_angular/</guid>
-      <description>Débugage avec Angular</description>
+      <guid>http://localhost:1313/post/debug_angular/</guid>
+      <description>
+        
+          
+            Débugage avec Angular
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Exemple de ngclass</title>
-      <link>https://abarhub.github.io/blogprog/post/ngclass_angular/</link>
+      <link>http://localhost:1313/post/ngclass_angular/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/ngclass_angular/</guid>
-      <description>Exemple de ngclass</description>
+      <guid>http://localhost:1313/post/ngclass_angular/</guid>
+      <description>
+        
+          
+            Exemple de ngclass
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Création d&#39;un composant avec un module et une route</title>
-      <link>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</link>
+      <link>http://localhost:1313/post/create_component_with_module_and_routes/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</guid>
-      <description>Création d&amp;rsquo;un composant avec un module et une route</description>
+      <guid>http://localhost:1313/post/create_component_with_module_and_routes/</guid>
+      <description>
+        
+          
+            Création d&#39;un composant avec un module et une route
+          
+          
+        
+      </description>
     </item>
     
   </channel>

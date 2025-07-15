@@ -13,7 +13,7 @@ languageCode = "fr-FR"  # For RSS, view https://www.rssboard.org/rss-language-co
 defaultContentLanguage = "fr"  # For HTML page, now support: en, zh-hans, zh-hant, ja, nl, pl, it
 
 summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
-paginate = 10
+#paginate = 10
 
 publishDir = "docs/"
 

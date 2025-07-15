@@ -1,48 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>css on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/css/</link>
-    <description>Recent content in css on Blog de programmation</description>
+    <title>Css on Blog de programmation</title>
+    <link>http://localhost:1313/tags/css/</link>
+    <description>Recent content in Css on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Liste d&#39;outils CSS</title>
-      <link>https://abarhub.github.io/blogprog/post/outils_css/</link>
+      <link>http://localhost:1313/post/outils_css/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/outils_css/</guid>
-      <description>Liste d&amp;rsquo;outils CSS</description>
+      <guid>http://localhost:1313/post/outils_css/</guid>
+      <description>
+        
+          
+            Liste d&#39;outils CSS
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex</title>
-      <link>https://abarhub.github.io/blogprog/post/grid_flex_css/</link>
+      <link>http://localhost:1313/post/grid_flex_css/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/grid_flex_css/</guid>
-      <description>Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex</description>
+      <guid>http://localhost:1313/post/grid_flex_css/</guid>
+      <description>
+        
+          
+            Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex
+          
+          
+        
+      </description>
     </item>
     
     <item>
       <title>Tutoriel bootstrap 4</title>
-      <link>https://abarhub.github.io/blogprog/post/site_bootstrap_tutorial/</link>
+      <link>http://localhost:1313/post/site_bootstrap_tutorial/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/site_bootstrap_tutorial/</guid>
-      <description>Tutoriel bootstrap 4</description>
+      <guid>http://localhost:1313/post/site_bootstrap_tutorial/</guid>
+      <description>
+        
+          
+            Tutoriel bootstrap 4
+          
+          
+        
+      </description>
     </item>
     
     <item>
-      <title>Markdown Syntax</title>
-      <link>https://abarhub.github.io/blogprog/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
-&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
-&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/markdown-syntax/</guid>
+      <description>
+        
+          
+            &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
     
   </channel>

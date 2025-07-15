@@ -2,18 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VSS on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/vss/</link>
+    <link>http://localhost:1313/tags/vss/</link>
     <description>Recent content in VSS on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/vss/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/vss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>gestion des shadow copy (vss) sous windows</title>
-      <link>https://abarhub.github.io/blogprog/post/shadow_copy/</link>
+      <link>http://localhost:1313/post/shadow_copy/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/shadow_copy/</guid>
-      <description>gestion des shadow copy (vss) sous windows</description>
+      <guid>http://localhost:1313/post/shadow_copy/</guid>
+      <description>
+        
+          
+            gestion des shadow copy (vss) sous windows
+          
+          
+        
+      </description>
     </item>
     
   </channel>
