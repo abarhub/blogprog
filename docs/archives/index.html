@@ -4,12 +4,10 @@
   lang="en"
   data-figures=""
   
-    class="page"
-  
   
   >
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-<title>Clarity</title>
+<title>Archives | Blog de programmation</title>
 <meta charset="utf-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -19,14 +17,16 @@
 <meta property="og:locale" content="en" />
 
 <meta property="og:type" content="article">
-<meta name="description" content="" />
+<meta name="description" content="You can change archives page details above.
+Keep this file saft to ensure Hugo generate the archives page." />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@janedoe">
-<meta name="twitter:title" content="" />
+<meta name="twitter:title" content="Archives" />
 <meta name="twitter:image" content="http://localhost:1313/images/thumbnail.png"/>
 <meta property="og:url" content="http://localhost:1313/archives/" />
-<meta property="og:title" content="" />
-<meta property="og:description" content="" />
+<meta property="og:title" content="Archives" />
+<meta property="og:description" content="You can change archives page details above.
+Keep this file saft to ensure Hugo generate the archives page." />
 <meta property="og:image" content="http://localhost:1313/images/thumbnail.png" />
 
 <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.jsdelivr.net/gh/amzrk2/cdn-stcapi@1/favicons/apple-touch-icon.png" />
@@ -37,6 +37,7 @@
 <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/amzrk2/cdn-stcapi@1/favicons/favicon.ico" />
 <meta name="theme-color" content="#ffffff" />
 <link rel="canonical" href="http://localhost:1313/archives/">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/archives/index.xml" title="Blog de programmation" />
 
 
 
@@ -59,8 +60,8 @@
   >
 
 <header class="nav_header" >
-  <nav class="nav"><a href='http://localhost:1313/' class="nav_brand nav_item" title="Clarity">
-  <img src="http://localhost:1313/logos/logo.png" class="logo" alt="Clarity">
+  <nav class="nav"><a href='http://localhost:1313/' class="nav_brand nav_item" title="Blog de programmation">
+  <img src="http://localhost:1313/logos/logo.png" class="logo" alt="Blog de programmation">
   <div class="nav_close">
     <div><svg class="icon">
   <title>open-menu</title>
@@ -150,73 +151,23 @@
 </header>
 
     <main>
-  
+
+
+
 <div class="grid-inverse wrap content">
-  <article class="post_content">
-    <h1 class="post_title"></h1>
-  <div class="post_meta">
-    <span><svg class="icon">
-  <title>calendar</title>
-  <use xlink:href="#calendar"></use>
-</svg>
-</span>
-    <span class="post_date">
-      May 28, 2019	  
-    </span>
-    <span class="page_only">&nbsp;·
-  <div class="post_share">
-    Share on:
-    <a href="https://twitter.com/intent/tweet?text=&url=http%3a%2f%2flocalhost%3a1313%2farchives%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
-      <svg class="icon">
-  <title>twitter</title>
-  <use xlink:href="#twitter"></use>
-</svg>
-
-    </a>
-    <a href="https://www.facebook.com/sharer.php?u=http%3a%2f%2flocalhost%3a1313%2farchives%2f&t=" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
-      <svg class="icon">
-  <title>facebook</title>
-  <use xlink:href="#facebook"></use>
-</svg>
-
-    </a>
-    <a href="#linkedinshare" id = "linkedinshare" class="linkedin" title="Share on LinkedIn" rel="nofollow">
-      <svg class="icon">
-  <title>linkedin</title>
-  <use xlink:href="#linkedin"></use>
-</svg>
-
-    </a>
-    <a href="http://localhost:1313/archives/" title="Copy Link" class="link link_yank">
-      <svg class="icon">
-  <title>copy</title>
-  <use xlink:href="#copy"></use>
-</svg>
-
-    </a>
+  <div>
+    <ul class="posts" id="posts">
+      <li>
+      </li>
+    </ul>
   </div>
-  </span>
-  </div>
-
-    <div class="post_body">
-    </div><div class="post_comments">
-  
-  
-  
-  
-</div>
-
-
-
-
-  </article>
 <aside class="sidebar">
   <section class="sidebar_inner">
     <br>
     
   
   <div class="search">
-    <input type="search" class="search_field form_field" placeholder='Search...' id="find" autocomplete="off" data-scope=''>
+    <input type="search" class="search_field form_field" placeholder='Search...' id="find" autocomplete="off" data-scope='archives'>
     <label for="find" class="search_label"><svg class="icon">
   <title>search</title>
   <use xlink:href="#search"></use>
@@ -227,7 +178,10 @@
     <div class="search_results results"></div>
   </div>
 
-        <h2>Jane Doe</h2>
+        <div class="author_header">
+          <img src="http://localhost:1313/images/terminal.png" alt="Programmeur photo">
+          <h2>Programmeur</h2>
+        </div>
       <div class="author_bio">
         Technologist, perpetual student, teacher, continual incremental improvement.
       </div>
@@ -684,8 +638,9 @@
   </section>
 </aside>
 
-  
 </div>
+
+
     </main><svg width="0" height="0" class="hidden">
   <symbol viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" id="facebook">
     <path d="M437 0H75C33.648 0 0 33.648 0 75v362c0 41.352 33.648 75 75 75h151V331h-60v-90h60v-61c0-49.629 40.371-90 90-90h91v90h-91v61h91l-15 90h-76v181h121c41.352 0 75-33.648 75-75V75c0-41.352-33.648-75-75-75zm0 0"></path>
@@ -774,12 +729,12 @@
         <div class="col-12 footer">
             
             <span>&copy; 2021-2025
-                <a href="http://localhost:1313/">map[name:Jane Doe]</a>
+                <a href="http://localhost:1313/">map[name:Programmeur photo:images/terminal.png]</a>
                  | <a href="https://github.com/abarhub/blogprog">Source code</a> 
-                | <a href="https://github.com/dsrkafuu/hugo-theme-fuji/"
-                   target="_blank">Fuji-v2</a> &amp; <a href="https://gohugo.io/"
+                | <a href="https://github.com/chipzoller/hugo-clarity/"
+                   target="_blank">Clarity</a> &amp; <a href="https://gohugo.io/"
                                                     target="_blank">Hugo</a>
-				| Dernières modifications : 15 Jan 2023
+				| Dernières modifications : 15 Jul 2025
             </span>
         </div>
     </div>

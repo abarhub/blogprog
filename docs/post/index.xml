@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Clarity</title>
+    <title>Posts on Blog de programmation</title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Clarity</description>
+    <description>Recent content in Posts on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
@@ -747,6 +747,22 @@
     </item>
     
     <item>
+      <title>Using OpenStreetMap</title>
+      <link>http://localhost:1313/post/map/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/map/</guid>
+      <description>
+        
+          
+            &lt;iframe class=&#34;openstreetmap&#34; width=&#34;100%&#34; height=&#34;600px&#34; src=&#34;https://umap.openstreetmap.fr/en/map/demo-map_1?scaleControl=true&amp;miniMap=false&amp;scrollWheelZoom=true&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=true&amp;searchControl=true&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=none&amp;captionBar=false#14/-37.7989/145.0003&#34;&gt;&lt;/iframe&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Liste d&#39;outils </title>
       <link>http://localhost:1313/post/liste_outils/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
@@ -821,6 +837,34 @@
         
           
             Validation par xsd en gérant la résolution des xsd
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Using Notices</title>
+      <link>http://localhost:1313/post/notices/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/notices/</guid>
+      <description>
+        
+          
+            &lt;p&gt;The &amp;quot;Notices&amp;quot; shortcode enables you to call out pieces of information - sidebars, warnings, tips, etc.&lt;/p&gt;
+&lt;p&gt;To create a notice on a page, you can use the &lt;code&gt;notice&lt;/code&gt; shortcode.&lt;br&gt;
+You use the &lt;code&gt;notice&lt;/code&gt; shortcode, with the first parameter being one of &lt;code&gt;note&lt;/code&gt;, &lt;code&gt;info&lt;/code&gt;, &lt;code&gt;tip&lt;/code&gt;, and &lt;code&gt;warning&lt;/code&gt;.  Then add a title for your
+note in quotes as the second parameter.  The inner body of the note can be whatever markdown you want to create.&lt;/p&gt;
+&lt;p&gt;The following shortcode syntax within a markdown doc:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;{{% notice note &amp;#34;Note&amp;#34; %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;This is a standard &amp;#34;note&amp;#34; style.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;{{% /notice %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;will render as:&lt;/p&gt;
+
+&lt;div class=&#34;notices note&#34;&gt;
+    &lt;div class=&#34;label&#34;&gt;Note&lt;/div&gt;
+    &lt;p&gt;This is a standard &amp;quot;note&amp;quot; style.&lt;/p&gt;
           
           
         
@@ -1311,6 +1355,86 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;-- a utiliser au début d&amp;#39;un script
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;WHENEVER&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;SQLERROR&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;EXIT&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FAILURE&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/markdown-syntax/</guid>
+      <description>
+        
+          
+            &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/rich-content/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#embedded&#34;&gt;Embedded Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://localhost:1313/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/placeholder-text/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:1313/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/math-typesetting/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/emoji-support/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
           
           
         
