@@ -64,4 +64,15 @@ Il est aussi possible de supprimer en indiquer l'ID du cliché :
 
 https://stackoverflow.com/a/14213304/6577778
 
-                    
+# Lien symbolique
+
+Pour manipuler les fichiers, il faut utiliser un lien symbolique :
+```shell
+mklink /d C:\shadowcopy "\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy41\"
+```
+Il faut mettre un \ à la fin, sinon c'est un lien vers un fichier.
+
+Popur supprimer le lien, il faut executer :
+```shell
+rmdir C:\shadowcopy
+```

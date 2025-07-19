@@ -24,5 +24,10 @@ summary = "Documentation Officiel de Java"
 * [Javadoc](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
 * [JDK](https://www.oracle.com/java/technologies/downloads/)
 
+## Java 21 :
+* [Documentation](https://docs.oracle.com/en/java/javase/21/index.html)
+* [Javadoc](https://docs.oracle.com/en/java/javase/21/docs/api/index.html)
+* [JDK](https://www.oracle.com/fr/java/technologies/downloads/)
+
 ## Autre
 * [Liste des JDK à telecharger](https://www.oracle.com/java/technologies/javase-downloads.html)
