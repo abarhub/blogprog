@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elasticsearch on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/elasticsearch/</link>
+    <link>http://localhost:1313/blogprog/tags/elasticsearch/</link>
     <description>Recent content in Elasticsearch on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exemple de requete en elasticsearch</title>
-      <link>https://abarhub.github.io/blogprog/post/elasticsearch_cheat_sheet/</link>
+      <link>http://localhost:1313/blogprog/post/elasticsearch_cheat_sheet/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/elasticsearch_cheat_sheet/</guid>
+      <guid>http://localhost:1313/blogprog/post/elasticsearch_cheat_sheet/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Aide mémoire sur ElasticSearch</title>
-      <link>https://abarhub.github.io/blogprog/post/elasticsearch/</link>
+      <link>http://localhost:1313/blogprog/post/elasticsearch/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/elasticsearch/</guid>
+      <guid>http://localhost:1313/blogprog/post/elasticsearch/</guid>
       <description>
         
           

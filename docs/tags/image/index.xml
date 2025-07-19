@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/image/</link>
+    <link>http://localhost:1313/blogprog/tags/image/</link>
     <description>Recent content in Image on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/image/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/image/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Compter les fichiers jpeg par répertoire</title>
-      <link>https://abarhub.github.io/blogprog/post/count_jpg_files/</link>
+      <link>http://localhost:1313/blogprog/post/count_jpg_files/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/count_jpg_files/</guid>
+      <guid>http://localhost:1313/blogprog/post/count_jpg_files/</guid>
       <description>
         
           

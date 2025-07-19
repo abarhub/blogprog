@@ -21,7 +21,8 @@ google_tag_manager_id = ""
 # baidu_analytics = "XXXXXXXX"
 
 # limit the number of taxonomies links shown on the sidebar of each page by default.
-numberOfTagsShown = 14 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy
+#numberOfTagsShown = 14 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy
+numberOfTagsShown = 80
 
 # Whether to default to storing images and other assets in the `static` directory, or use Hugo page bundles.
 # Switch to `true` if you'd like to group assets with the post itself (as a "leaf bundle").
@@ -134,6 +135,7 @@ blogDir = "post"
 
 # Pin featured posts in list.
 # pinFeatured = true
+pinFeatured = false
 
 # Maximum number of pinned featured posts. (default: 8)
 # numberOfPinnedPosts = 8

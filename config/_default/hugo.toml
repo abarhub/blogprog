@@ -10,6 +10,8 @@ copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all r
 theme = ["github.com/chipzoller/hugo-clarity"]
 disqusShortname = ""
 
+
+
 DefaultContentLanguage = "en"
 # [languages]
 # config/_default/languages.toml
@@ -27,3 +29,7 @@ home = ["HTML", "RSS", "JSON"]
 
 [pagination]
 pagerSize = 10
+
+#[params]
+
+#numberOfTagsShown = 30

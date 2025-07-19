@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jdbc on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/jdbc/</link>
+    <link>http://localhost:1313/blogprog/tags/jdbc/</link>
     <description>Recent content in Jdbc on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/jdbc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/jdbc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;url jdbc pour se connecter à une base MySQL</title>
-      <link>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</link>
+      <link>http://localhost:1313/blogprog/post/url_jdbc_mysql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/url_jdbc_mysql/</guid>
+      <guid>http://localhost:1313/blogprog/post/url_jdbc_mysql/</guid>
       <description>
         
           

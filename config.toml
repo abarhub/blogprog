@@ -17,6 +17,8 @@ summaryLength = 100 # Custom summary length, add <!--more--> in post file to cus
 
 publishDir = "docs/"
 
+#numberOfTagsShown = 30
+
 # googleAnalytics = "UA-000000000-0" # Set your Google Analytics UA here
 
 [outputFormats]

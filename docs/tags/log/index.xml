@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Log on Blog de programmation</title>
-    <link>https://abarhub.github.io/blogprog/tags/log/</link>
+    <link>http://localhost:1313/blogprog/tags/log/</link>
     <description>Recent content in Log on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/log/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/log/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configuration logback</title>
-      <link>https://abarhub.github.io/blogprog/post/configuration_logback/</link>
+      <link>http://localhost:1313/blogprog/post/configuration_logback/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/configuration_logback/</guid>
+      <guid>http://localhost:1313/blogprog/post/configuration_logback/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Logger toutes les propriétés de Spring Boot</title>
-      <link>https://abarhub.github.io/blogprog/post/properties_logger_java/</link>
+      <link>http://localhost:1313/blogprog/post/properties_logger_java/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/properties_logger_java/</guid>
+      <guid>http://localhost:1313/blogprog/post/properties_logger_java/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Exemple de loggeur avec slf4j</title>
-      <link>https://abarhub.github.io/blogprog/post/exemple_logger_java/</link>
+      <link>http://localhost:1313/blogprog/post/exemple_logger_java/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://abarhub.github.io/blogprog/post/exemple_logger_java/</guid>
+      <guid>http://localhost:1313/blogprog/post/exemple_logger_java/</guid>
       <description>
         
           
