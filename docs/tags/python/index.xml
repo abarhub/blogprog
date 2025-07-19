@@ -2,18 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Blog de programmation</title>
-    <link>http://localhost:1313/blogprog/tags/python/</link>
+    <link>https://abarhub.github.io/blogprog/tags/python/</link>
     <description>Recent content in Python on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 13 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Création d&#39;un environnement python</title>
+      <link>https://abarhub.github.io/blogprog/post/create_env_python/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/create_env_python/</guid>
+      <description>
+        
+          
+            Création d&#39;un environnement python
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Analyse une liste de projets</title>
+      <link>https://abarhub.github.io/blogprog/post/analyse_projet.py/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/analyse_projet.py/</guid>
+      <description>
+        
+          
+            Analyse une liste de projets
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Calcul la taille des répertoires</title>
-      <link>http://localhost:1313/blogprog/post/size_analyse.py/</link>
+      <link>https://abarhub.github.io/blogprog/post/size_analyse.py/</link>
       <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/size_analyse.py/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/size_analyse.py/</guid>
       <description>
         
           
@@ -26,10 +58,10 @@
     
     <item>
       <title>Hello world en Python</title>
-      <link>http://localhost:1313/blogprog/post/helloworld_python/</link>
+      <link>https://abarhub.github.io/blogprog/post/helloworld_python/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/helloworld_python/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/helloworld_python/</guid>
       <description>
         
           
@@ -42,10 +74,10 @@
     
     <item>
       <title>Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances</title>
-      <link>http://localhost:1313/blogprog/post/install_desinstall_generation_requirement_txt_sh/</link>
+      <link>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/install_desinstall_generation_requirement_txt_sh/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</guid>
       <description>
         
           

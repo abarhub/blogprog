@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on Blog de programmation</title>
-    <link>http://localhost:1313/blogprog/tags/markdown/</link>
+    <link>https://abarhub.github.io/blogprog/tags/markdown/</link>
     <description>Recent content in Markdown on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sytaxe de markdow</title>
-      <link>http://localhost:1313/blogprog/post/markdown_gist/</link>
+      <link>https://abarhub.github.io/blogprog/post/markdown_gist/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/markdown_gist/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/markdown_gist/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/blogprog/post/markdown-syntax/</link>
+      <link>https://abarhub.github.io/blogprog/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/markdown-syntax/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/markdown-syntax/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Placeholder Text</title>
-      <link>http://localhost:1313/blogprog/post/placeholder-text/</link>
+      <link>https://abarhub.github.io/blogprog/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/placeholder-text/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/placeholder-text/</guid>
       <description>
         
           

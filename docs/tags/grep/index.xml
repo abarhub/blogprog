@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grep on Blog de programmation</title>
-    <link>http://localhost:1313/blogprog/tags/grep/</link>
+    <link>https://abarhub.github.io/blogprog/tags/grep/</link>
     <description>Recent content in Grep on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/grep/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/grep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A simple grep implementation in Go</title>
-      <link>http://localhost:1313/blogprog/post/grep.go/</link>
+      <link>https://abarhub.github.io/blogprog/post/grep.go/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/grep.go/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/grep.go/</guid>
       <description>
         
           

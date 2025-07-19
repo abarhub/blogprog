@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mockito on Blog de programmation</title>
-    <link>http://localhost:1313/blogprog/tags/mockito/</link>
+    <link>https://abarhub.github.io/blogprog/tags/mockito/</link>
     <description>Recent content in Mockito on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/mockito/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/mockito/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capture des paramètres avec Mockito</title>
-      <link>http://localhost:1313/blogprog/post/mockito_capture_java/</link>
+      <link>https://abarhub.github.io/blogprog/post/mockito_capture_java/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/mockito_capture_java/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/mockito_capture_java/</guid>
       <description>
         
           
