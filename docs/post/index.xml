@@ -7,7 +7,279 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commande find</title>
+      <link>http://localhost:1313/blogprog/post/commande_find/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/commande_find/</guid>
+      <description>
+        
+          
+            Commande find
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Création d&#39;un environnement python</title>
+      <link>http://localhost:1313/blogprog/post/create_env_python/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/create_env_python/</guid>
+      <description>
+        
+          
+            Création d&#39;un environnement python
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>description de grep</title>
+      <link>http://localhost:1313/blogprog/post/grep/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/grep/</guid>
+      <description>
+        
+          
+            description de grep
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Désactivation de la led pour le raspberry pi zero 2</title>
+      <link>http://localhost:1313/blogprog/post/disable_led_rpi_zero2/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/disable_led_rpi_zero2/</guid>
+      <description>
+        
+          
+            Désactivation de la led pour le raspberry pi zero 2
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Commandes équivalentes aux commandes Linux sous Windows</title>
+      <link>http://localhost:1313/blogprog/post/equivalent_windows/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/equivalent_windows/</guid>
+      <description>
+        
+          
+            Commandes équivalentes aux commandes Linux sous Windows
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Devoxx du 16 au 18 avril 2025</title>
+      <link>http://localhost:1313/blogprog/post/devoxx_2025/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/devoxx_2025/</guid>
+      <description>
+        
+          
+            Devoxx du 16 au 18 avril 2025
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Réinitialisation d&#39;une sequence par rapport à l&#39;id d&#39;une table</title>
+      <link>http://localhost:1313/blogprog/post/reinitialise_sequence.sql/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/reinitialise_sequence.sql/</guid>
+      <description>
+        
+          
+            Réinitialisation d&#39;une sequence par rapport à l&#39;id d&#39;une table
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Supprime la contrainte not null d&#39;une colonne dont le nom de la contrainte n&#39;est pas connue. Spécifique à Oracle</title>
+      <link>http://localhost:1313/blogprog/post/supprime_check_not_null.sql/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/supprime_check_not_null.sql/</guid>
+      <description>
+        
+          
+            Supprime la contrainte not null d&#39;une colonne dont le nom de la contrainte n&#39;est pas connue. Spécifique à Oracle
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Analyse une liste de projets</title>
+      <link>http://localhost:1313/blogprog/post/analyse_projet.py/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/analyse_projet.py/</guid>
+      <description>
+        
+          
+            Analyse une liste de projets
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Liste d&#39;outils web</title>
+      <link>http://localhost:1313/blogprog/post/tools_web/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/tools_web/</guid>
+      <description>
+        
+          
+            Liste d&#39;outils web
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Récupération d&#39;une liste avec des appels rest</title>
+      <link>http://localhost:1313/blogprog/post/liste_powershell/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/liste_powershell/</guid>
+      <description>
+        
+          
+            Récupération d&#39;une liste avec des appels rest
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Liste des librairies en Java</title>
+      <link>http://localhost:1313/blogprog/post/liste_librairie_java/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/liste_librairie_java/</guid>
+      <description>
+        
+          
+            Liste des librairies en Java
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Liste d&#39;outils de proxy pour le navigateur</title>
+      <link>http://localhost:1313/blogprog/post/outils_proxy_http/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/outils_proxy_http/</guid>
+      <description>
+        
+          
+            Liste d&#39;outils de proxy pour le navigateur
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Outils de formatage de code (Java, Javascript, Yaml, ect...)</title>
+      <link>http://localhost:1313/blogprog/post/outils_formatage_code/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/outils_formatage_code/</guid>
+      <description>
+        
+          
+            Outils de formatage de code (Java, Javascript, Yaml, ect...)
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Configuration logback</title>
+      <link>http://localhost:1313/blogprog/post/configuration_logback/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/configuration_logback/</guid>
+      <description>
+        
+          
+            Configuration logback
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Recherche d&#39;une chaine de caractère sous windows en bat et en Powershell ou avec des outils</title>
+      <link>http://localhost:1313/blogprog/post/find_windows/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/find_windows/</guid>
+      <description>
+        
+          
+            Recherche d&#39;une chaine de caractère sous windows en bat et en Powershell ou avec des outils
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Installation d&#39;un service sous Linux</title>
+      <link>http://localhost:1313/blogprog/post/install_service_linux/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogprog/post/install_service_linux/</guid>
+      <description>
+        
+          
+            Installation d&#39;un service sous Linux
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Génération du xml à partir du XSD</title>
       <link>http://localhost:1313/blogprog/post/generation_xml_a_partir_xsd/</link>

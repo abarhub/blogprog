@@ -2,7 +2,7 @@
 title = "Commande find"
 date = "2025-07-19"
 description = "Commande find"
-tags = []
+tags = ["cli","linux","shell"]
 summary = "Commande find"
 +++
 La commande find 

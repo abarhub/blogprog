@@ -2,7 +2,7 @@
 title = "Outils de formatage de code (Java, Javascript, Yaml, ect...)"
 date = "2024-03-24"
 description = "Outils de formatage de code (Java, Javascript, Yaml, ect...)"
-tags = []
+tags = ["java","cli","shell"]
 summary = "Outils de formatage de code (Java, Javascript, Yaml, ect...)"
 +++
 # Outils de formatage de code

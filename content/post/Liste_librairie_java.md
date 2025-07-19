@@ -2,7 +2,7 @@
 title = "Liste des librairies en Java"
 date = "2024-03-30"
 description = "Liste des librairies en Java"
-tags = []
+tags = ["java"]
 summary = "Liste des librairies en Java"
 +++
 # Liste de librairie Java

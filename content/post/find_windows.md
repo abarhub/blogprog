@@ -2,7 +2,7 @@
 title = "Recherche d'une chaine de caractère sous windows en bat et en Powershell ou avec des outils"
 date = "2024-03-17"
 description = "Recherche d'une chaine de caractère sous windows en bat et en Powershell ou avec des outils"
-tags = []
+tags = ["cli","shell","windows"]
 summary = "Recherche d'une chaine de caractère sous windows en bat et en Powershell ou avec des outils"
 +++
 # Recherche windows

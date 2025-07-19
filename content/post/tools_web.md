@@ -2,7 +2,7 @@
 title = "Liste d'outils web"
 date = "2024-06-03"
 description = "Liste d'outils web"
-tags = []
+tags = ["web"]
 summary = "Liste d'outils web"
 +++
 Liste d'outils Web :

@@ -2,7 +2,7 @@
 title = "Analyse une liste de projets"
 date = "2024-09-29"
 description = "Analyse une liste de projets"
-tags = []
+tags = ["python"]
 summary = "Analyse une liste de projets"
 +++
 import json

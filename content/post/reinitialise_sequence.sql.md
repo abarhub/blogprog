@@ -2,9 +2,10 @@
 title = "Réinitialisation d'une sequence par rapport à l'id d'une table"
 date = "2025-03-22"
 description = "Réinitialisation d'une sequence par rapport à l'id d'une table"
-tags = []
+tags = ["sql","oracle"]
 summary = "Réinitialisation d'une sequence par rapport à l'id d'une table"
 +++
+```sql
 DECLARE
     v_max_id NUMBER;
 BEGIN
@@ -17,4 +18,5 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('Séquence repositionnée à ' || (v_max_id + 1));
 END;
 /
+```
                     

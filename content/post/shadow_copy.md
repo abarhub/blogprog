@@ -2,7 +2,7 @@
 title = "gestion des shadow copy (vss) sous windows"
 date = "2023-05-19"
 description = "gestion des shadow copy (vss) sous windows"
-tags = ["VSS","Volume Shadow Copy Service","windows"]
+tags = ["VSS","Volume Shadow Copy Service","windows","cli","shell"]
 summary = "gestion des shadow copy (vss) sous windows"
 +++
 Toutes les commandes doivent être executé en administrateur.

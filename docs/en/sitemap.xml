@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blogprog/</loc>
-    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -15,26 +15,17 @@
                 href="http://localhost:1313/blogprog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blogprog/post/generation_xml_a_partir_xsd/</loc>
-    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blogprog/post/commande_find/</loc>
+    <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogprog/post/heritage_type_xsd/</loc>
-    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blogprog/post/create_env_python/</loc>
+    <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogprog/tags/index/</loc>
-    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogprog/tags/java/</loc>
-    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogprog/post/liste_transactions_ouvertes_oracle/</loc>
-    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogprog/tags/oracle/</loc>
-    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogprog/post/</loc>
-    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -45,6 +36,66 @@
                 hreflang="en"
                 href="http://localhost:1313/blogprog/post/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/grep/</loc>
+    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/disable_led_rpi_zero2/</loc>
+    <lastmod>2025-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/equivalent_windows/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/devoxx_2025/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/reinitialise_sequence.sql/</loc>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/supprime_check_not_null.sql/</loc>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/analyse_projet.py/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/tools_web/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/liste_powershell/</loc>
+    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/liste_librairie_java/</loc>
+    <lastmod>2024-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/outils_proxy_http/</loc>
+    <lastmod>2024-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/outils_formatage_code/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/configuration_logback/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/find_windows/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/install_service_linux/</loc>
+    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/generation_xml_a_partir_xsd/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/heritage_type_xsd/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/tags/java/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/post/liste_transactions_ouvertes_oracle/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/tags/oracle/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogprog/tags/sql/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>

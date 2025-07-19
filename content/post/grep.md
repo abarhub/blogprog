@@ -2,7 +2,7 @@
 title = "description de grep"
 date = "2025-07-17"
 description = "description de grep"
-tags = []
+tags = ["cli","linux","shell"]
 summary = "description de grep"
 +++
 # Commande grep

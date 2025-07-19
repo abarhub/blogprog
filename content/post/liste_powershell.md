@@ -2,7 +2,7 @@
 title = "Récupération d'une liste avec des appels rest"
 date = "2024-05-11"
 description = "Récupération d'une liste avec des appels rest"
-tags = []
+tags = ["cli","shell","windows","powershell"]
 summary = "Récupération d'une liste avec des appels rest"
 +++
 ```powershell

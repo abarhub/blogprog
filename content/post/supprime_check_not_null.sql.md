@@ -2,9 +2,10 @@
 title = "Supprime la contrainte not null d'une colonne dont le nom de la contrainte n'est pas connue. Spécifique à Oracle"
 date = "2025-03-22"
 description = "Supprime la contrainte not null d'une colonne dont le nom de la contrainte n'est pas connue. Spécifique à Oracle"
-tags = []
+tags = ["oracle","sql"]
 summary = "Supprime la contrainte not null d'une colonne dont le nom de la contrainte n'est pas connue. Spécifique à Oracle"
 +++
+```sql
 -- suppression de la contrainte not null du champs mon_schema.ma_table.mon_champs
 declare
     fName varchar2(255 char);
@@ -19,4 +20,5 @@ begin
     end if;
 end;
 /
+```
                     

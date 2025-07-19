@@ -2,7 +2,7 @@
 title = "Installation d'un service sous Linux"
 date = "2024-03-10"
 description = "Installation d'un service sous Linux"
-tags = []
+tags = ["linux","shell"]
 summary = "Installation d'un service sous Linux"
 +++
 # Exemple de configuration pour lancer un service sous Linux

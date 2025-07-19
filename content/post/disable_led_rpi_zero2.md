@@ -2,7 +2,7 @@
 title = "Désactivation de la led pour le raspberry pi zero 2"
 date = "2025-07-16"
 description = "Désactivation de la led pour le raspberry pi zero 2"
-tags = []
+tags = ["cli","linux","shell","raspberrypi"]
 summary = "Désactivation de la led pour le raspberry pi zero 2"
 +++
 

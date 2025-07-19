@@ -2,7 +2,7 @@
 title = "Commandes équivalentes aux commandes Linux sous Windows"
 date = "2025-05-31"
 description = "Commandes équivalentes aux commandes Linux sous Windows"
-tags = []
+tags = ["cli","windows","shell"]
 summary = "Commandes équivalentes aux commandes Linux sous Windows"
 +++
 # Commandes Linux équivalentes sous Windows

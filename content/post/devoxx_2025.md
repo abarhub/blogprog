@@ -2,7 +2,7 @@
 title = "Devoxx du 16 au 18 avril 2025"
 date = "2025-04-27"
 description = "Devoxx du 16 au 18 avril 2025"
-tags = []
+tags = ["DEVOXX"]
 summary = "Devoxx du 16 au 18 avril 2025"
 +++
 # Mercredi 16 avril 

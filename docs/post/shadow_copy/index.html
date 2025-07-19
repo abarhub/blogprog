@@ -28,7 +28,7 @@
 <meta property="og:title" content="gestion des shadow copy (vss) sous windows" />
 <meta property="og:description" content="gestion des shadow copy (vss) sous windows" />
 <meta property="og:image" content="http://localhost:1313/blogprog/images/thumbnail.png" />
-  <meta name="keywords" content="VSS,Volume Shadow Copy Service,windows" />
+  <meta name="keywords" content="VSS,Volume Shadow Copy Service,windows,cli,shell" />
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
@@ -40,7 +40,7 @@
       "url": "http:\/\/localhost:1313\/blogprog\/post\/shadow_copy\/",
       "datePublished": "2023-05-19T00:00:00Z",
       "dateModified": "2023-05-19T00:00:00Z",
-      "keywords": ["VSS","Volume Shadow Copy Service","windows"],
+      "keywords": ["VSS","Volume Shadow Copy Service","windows","cli","shell"],
       "author": {
         "@type": "Person",
         "name": "map[name:Programmeur photo:images\/terminal.png]"
@@ -196,6 +196,8 @@
     </span><span>&nbsp;· <a href='http://localhost:1313/blogprog/tags/vss/' title="VSS" class="post_tag button button_translucent">VSS
         </a><a href='http://localhost:1313/blogprog/tags/volume-shadow-copy-service/' title="Volume Shadow Copy Service" class="post_tag button button_translucent">Volume Shadow Copy Service
         </a><a href='http://localhost:1313/blogprog/tags/windows/' title="windows" class="post_tag button button_translucent">windows
+        </a><a href='http://localhost:1313/blogprog/tags/cli/' title="cli" class="post_tag button button_translucent">cli
+        </a><a href='http://localhost:1313/blogprog/tags/shell/' title="shell" class="post_tag button button_translucent">shell
         </a>
     </span>
     <span class="page_only">&nbsp;·
@@ -278,7 +280,13 @@
 <code>vssadmin delete shadows /Shadow=c6cccf4b-dd16-4240-8bbd-5fbf9c080b2e</code></p>
 <h1 id="lien">Lien</h1>
 <p><a href="https://stackoverflow.com/a/14213304/6577778">https://stackoverflow.com/a/14213304/6577778</a></p>
-
+<h1 id="lien-symbolique">Lien symbolique</h1>
+<p>Pour manipuler les fichiers, il faut utiliser un lien symbolique :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="ln">1</span><span class="cl">mklink /d C:<span class="se">\s</span>hadowcopy <span class="s2">&#34;\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy41\&#34;
+</span></span></span></code></pre></div><p>Il faut mettre un \ à la fin, sinon c'est un lien vers un fichier.</p>
+<p>Popur supprimer le lien, il faut executer :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="ln">1</span><span class="cl">rmdir C:<span class="se">\s</span>hadowcopy
+</span></span></code></pre></div>
     </div><div class="post_comments">
   
   
@@ -326,28 +334,28 @@
     <h2 class="mt-4">Recent Posts</h2>
     <ul class="flex-column">
       <li>
-        <a href="http://localhost:1313/blogprog/post/generation_xml_a_partir_xsd/" class="nav-link" title="Génération du xml à partir du XSD">Génération du xml à partir du XSD</a>
+        <a href="http://localhost:1313/blogprog/post/commande_find/" class="nav-link" title="Commande find">Commande find</a>
       </li>
       <li>
-        <a href="http://localhost:1313/blogprog/post/heritage_type_xsd/" class="nav-link" title="Heritage de type en xsd">Heritage de type en xsd</a>
+        <a href="http://localhost:1313/blogprog/post/create_env_python/" class="nav-link" title="Création d&#39;un environnement python">Création d'un environnement python</a>
       </li>
       <li>
-        <a href="http://localhost:1313/blogprog/post/liste_transactions_ouvertes_oracle/" class="nav-link" title="Lister les transactions ouvertes en Oracle">Lister les transactions ouvertes en Oracle</a>
+        <a href="http://localhost:1313/blogprog/post/grep/" class="nav-link" title="description de grep">description de grep</a>
       </li>
       <li>
-        <a href="http://localhost:1313/blogprog/post/table_locke/" class="nav-link" title="Suppression du lock sur une table Oracle">Suppression du lock sur une table Oracle</a>
+        <a href="http://localhost:1313/blogprog/post/disable_led_rpi_zero2/" class="nav-link" title="Désactivation de la led pour le raspberry pi zero 2">Désactivation de la led pour le raspberry pi zero 2</a>
       </li>
       <li>
-        <a href="http://localhost:1313/blogprog/post/supprimerbalidexml/" class="nav-link" title="Supprimer une balise xml et son contenu grace a une regex en Java">Supprimer une balise xml et son contenu grace a une regex en Java</a>
+        <a href="http://localhost:1313/blogprog/post/equivalent_windows/" class="nav-link" title="Commandes équivalentes aux commandes Linux sous Windows">Commandes équivalentes aux commandes Linux sous Windows</a>
       </li>
       <li>
-        <a href="http://localhost:1313/blogprog/post/suppression_repertoire_robocopy/" class="nav-link" title="suppression d&#39;une grand arborescence sous windows rapidement (robocopy)">suppression d'une grand arborescence sous windows rapidement (robocopy)</a>
+        <a href="http://localhost:1313/blogprog/post/devoxx_2025/" class="nav-link" title="Devoxx du 16 au 18 avril 2025">Devoxx du 16 au 18 avril 2025</a>
       </li>
       <li>
-        <a href="http://localhost:1313/blogprog/post/formation_angular/" class="nav-link" title="Formation Angular 17 (02/2024)">Formation Angular 17 (02/2024)</a>
+        <a href="http://localhost:1313/blogprog/post/reinitialise_sequence.sql/" class="nav-link" title="Réinitialisation d&#39;une sequence par rapport à l&#39;id d&#39;une table">Réinitialisation d'une sequence par rapport à l'id d'une table</a>
       </li>
       <li>
-        <a href="http://localhost:1313/blogprog/post/logiciel_backup/" class="nav-link" title="Liste de logiciels de backup">Liste de logiciels de backup</a>
+        <a href="http://localhost:1313/blogprog/post/supprime_check_not_null.sql/" class="nav-link" title="Supprime la contrainte not null d&#39;une colonne dont le nom de la contrainte n&#39;est pas connue. Spécifique à Oracle">Supprime la contrainte not null d'une colonne dont le nom de la contrainte n'est pas connue. Spécifique à Oracle</a>
       </li>
     </ul>
     <div>
@@ -382,16 +390,31 @@
       <nav class="tags_nav">
         <a href='http://localhost:1313/blogprog/tags/java/' class="post_tag button button_translucent" title="java">
           JAVA
-          <span class="button_tally">17</span>
-        </a>
-        
-        <a href='http://localhost:1313/blogprog/tags/windows/' class="post_tag button button_translucent" title="windows">
-          WINDOWS
-          <span class="button_tally">10</span>
+          <span class="button_tally">20</span>
         </a>
         
         <a href='http://localhost:1313/blogprog/tags/shell/' class="post_tag button button_translucent" title="shell">
           SHELL
+          <span class="button_tally">18</span>
+        </a>
+        
+        <a href='http://localhost:1313/blogprog/tags/windows/' class="post_tag button button_translucent" title="windows">
+          WINDOWS
+          <span class="button_tally">14</span>
+        </a>
+        
+        <a href='http://localhost:1313/blogprog/tags/linux/' class="post_tag button button_translucent" title="linux">
+          LINUX
+          <span class="button_tally">10</span>
+        </a>
+        
+        <a href='http://localhost:1313/blogprog/tags/cli/' class="post_tag button button_translucent" title="cli">
+          CLI
+          <span class="button_tally">9</span>
+        </a>
+        
+        <a href='http://localhost:1313/blogprog/tags/sql/' class="post_tag button button_translucent" title="sql">
+          SQL
           <span class="button_tally">8</span>
         </a>
         
@@ -400,23 +423,23 @@
           <span class="button_tally">7</span>
         </a>
         
-        <a href='http://localhost:1313/blogprog/tags/sql/' class="post_tag button button_translucent" title="sql">
-          SQL
-          <span class="button_tally">6</span>
-        </a>
-        
-        <a href='http://localhost:1313/blogprog/tags/linux/' class="post_tag button button_translucent" title="linux">
-          LINUX
-          <span class="button_tally">5</span>
-        </a>
-        
         <a href='http://localhost:1313/blogprog/tags/maven/' class="post_tag button button_translucent" title="maven">
           MAVEN
           <span class="button_tally">5</span>
         </a>
         
+        <a href='http://localhost:1313/blogprog/tags/python/' class="post_tag button button_translucent" title="python">
+          PYTHON
+          <span class="button_tally">5</span>
+        </a>
+        
         <a href='http://localhost:1313/blogprog/tags/spring-boot/' class="post_tag button button_translucent" title="spring boot">
           SPRING BOOT
+          <span class="button_tally">5</span>
+        </a>
+        
+        <a href='http://localhost:1313/blogprog/tags/web/' class="post_tag button button_translucent" title="web">
+          WEB
           <span class="button_tally">5</span>
         </a>
         
@@ -433,21 +456,6 @@
         <a href='http://localhost:1313/blogprog/tags/dos/' class="post_tag button button_translucent" title="dos">
           DOS
           <span class="button_tally">4</span>
-        </a>
-        
-        <a href='http://localhost:1313/blogprog/tags/xsd/' class="post_tag button button_translucent" title="xsd">
-          XSD
-          <span class="button_tally">4</span>
-        </a>
-        
-        <a href='http://localhost:1313/blogprog/tags/cheatsheet/' class="post_tag button button_translucent" title="cheatsheet">
-          CHEATSHEET
-          <span class="button_tally">3</span>
-        </a>
-        
-        <a href='http://localhost:1313/blogprog/tags/markdown/' class="post_tag button button_translucent" title="markdown">
-          MARKDOWN
-          <span class="button_tally">3</span>
         </a>
         
         
@@ -492,6 +500,10 @@
             </a>
             
             
+            <a href='http://localhost:1313/blogprog/tags/cli/' class=" post_tag button button_translucent" data-position=9 title="cli">CLI<span class="button_tally">9</span>
+            </a>
+            
+            
             <a href='http://localhost:1313/blogprog/tags/configuration/' class=" post_tag button button_translucent" data-position=1 title="configuration">CONFIGURATION<span class="button_tally">1</span>
             </a>
             
@@ -516,7 +528,7 @@
             </a>
             
             
-            <a href='http://localhost:1313/blogprog/tags/devoxx/' class=" post_tag button button_translucent" data-position=2 title="devoxx">DEVOXX<span class="button_tally">2</span>
+            <a href='http://localhost:1313/blogprog/tags/devoxx/' class=" post_tag button button_translucent" data-position=3 title="devoxx">DEVOXX<span class="button_tally">3</span>
             </a>
             
             
@@ -576,7 +588,7 @@
             </a>
             
             
-            <a href='http://localhost:1313/blogprog/tags/java/' class=" post_tag button button_translucent" data-position=17 title="java">JAVA<span class="button_tally">17</span>
+            <a href='http://localhost:1313/blogprog/tags/java/' class=" post_tag button button_translucent" data-position=20 title="java">JAVA<span class="button_tally">20</span>
             </a>
             
             
@@ -616,11 +628,11 @@
             </a>
             
             
-            <a href='http://localhost:1313/blogprog/tags/linux/' class=" post_tag button button_translucent" data-position=5 title="linux">LINUX<span class="button_tally">5</span>
+            <a href='http://localhost:1313/blogprog/tags/linux/' class=" post_tag button button_translucent" data-position=10 title="linux">LINUX<span class="button_tally">10</span>
             </a>
             
             
-            <a href='http://localhost:1313/blogprog/tags/log/' class=" post_tag button button_translucent" data-position=2 title="log">LOG<span class="button_tally">2</span>
+            <a href='http://localhost:1313/blogprog/tags/log/' class=" post_tag button button_translucent" data-position=3 title="log">LOG<span class="button_tally">3</span>
             </a>
             
             
@@ -656,7 +668,7 @@
             </a>
             
             
-            <a href='http://localhost:1313/blogprog/tags/oracle/' class=" post_tag button button_translucent" data-position=2 title="oracle">ORACLE<span class="button_tally">2</span>
+            <a href='http://localhost:1313/blogprog/tags/oracle/' class=" post_tag button button_translucent" data-position=4 title="oracle">ORACLE<span class="button_tally">4</span>
             </a>
             
             
@@ -668,7 +680,7 @@
             </a>
             
             
-            <a href='http://localhost:1313/blogprog/tags/powershell/' class=" post_tag button button_translucent" data-position=1 title="powershell">POWERSHELL<span class="button_tally">1</span>
+            <a href='http://localhost:1313/blogprog/tags/powershell/' class=" post_tag button button_translucent" data-position=2 title="powershell">POWERSHELL<span class="button_tally">2</span>
             </a>
             
             
@@ -676,7 +688,11 @@
             </a>
             
             
-            <a href='http://localhost:1313/blogprog/tags/python/' class=" post_tag button button_translucent" data-position=3 title="python">PYTHON<span class="button_tally">3</span>
+            <a href='http://localhost:1313/blogprog/tags/python/' class=" post_tag button button_translucent" data-position=5 title="python">PYTHON<span class="button_tally">5</span>
+            </a>
+            
+            
+            <a href='http://localhost:1313/blogprog/tags/raspberrypi/' class=" post_tag button button_translucent" data-position=1 title="raspberrypi">RASPBERRYPI<span class="button_tally">1</span>
             </a>
             
             
@@ -684,7 +700,7 @@
             </a>
             
             
-            <a href='http://localhost:1313/blogprog/tags/shell/' class=" post_tag button button_translucent" data-position=8 title="shell">SHELL<span class="button_tally">8</span>
+            <a href='http://localhost:1313/blogprog/tags/shell/' class=" post_tag button button_translucent" data-position=18 title="shell">SHELL<span class="button_tally">18</span>
             </a>
             
             
@@ -704,7 +720,7 @@
             </a>
             
             
-            <a href='http://localhost:1313/blogprog/tags/sql/' class=" post_tag button button_translucent" data-position=6 title="sql">SQL<span class="button_tally">6</span>
+            <a href='http://localhost:1313/blogprog/tags/sql/' class=" post_tag button button_translucent" data-position=8 title="sql">SQL<span class="button_tally">8</span>
             </a>
             
             
@@ -740,11 +756,11 @@
             </a>
             
             
-            <a href='http://localhost:1313/blogprog/tags/web/' class=" post_tag button button_translucent" data-position=3 title="web">WEB<span class="button_tally">3</span>
+            <a href='http://localhost:1313/blogprog/tags/web/' class=" post_tag button button_translucent" data-position=5 title="web">WEB<span class="button_tally">5</span>
             </a>
             
             
-            <a href='http://localhost:1313/blogprog/tags/windows/' class=" post_tag button button_translucent" data-position=10 title="windows">WINDOWS<span class="button_tally">10</span>
+            <a href='http://localhost:1313/blogprog/tags/windows/' class=" post_tag button button_translucent" data-position=14 title="windows">WINDOWS<span class="button_tally">14</span>
             </a>
             
             

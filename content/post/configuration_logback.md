@@ -2,7 +2,7 @@
 title = "Configuration logback"
 date = "2024-03-17"
 description = "Configuration logback"
-tags = []
+tags = ["log","java"]
 summary = "Configuration logback"
 +++
 # Configuration logback
