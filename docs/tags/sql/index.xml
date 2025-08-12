@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sql on Blog de programmation</title>
-    <link>http://localhost:1313/blogprog/tags/sql/</link>
+    <link>https://abarhub.github.io/blogprog/tags/sql/</link>
     <description>Recent content in Sql on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Réinitialisation d&#39;une sequence par rapport à l&#39;id d&#39;une table</title>
-      <link>http://localhost:1313/blogprog/post/reinitialise_sequence.sql/</link>
+      <link>https://abarhub.github.io/blogprog/post/reinitialise_sequence.sql/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/reinitialise_sequence.sql/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/reinitialise_sequence.sql/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Supprime la contrainte not null d&#39;une colonne dont le nom de la contrainte n&#39;est pas connue. Spécifique à Oracle</title>
-      <link>http://localhost:1313/blogprog/post/supprime_check_not_null.sql/</link>
+      <link>https://abarhub.github.io/blogprog/post/supprime_check_not_null.sql/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/supprime_check_not_null.sql/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/supprime_check_not_null.sql/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Lister les transactions ouvertes en Oracle</title>
-      <link>http://localhost:1313/blogprog/post/liste_transactions_ouvertes_oracle/</link>
+      <link>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/liste_transactions_ouvertes_oracle/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/liste_transactions_ouvertes_oracle/</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Suppression du lock sur une table Oracle</title>
-      <link>http://localhost:1313/blogprog/post/table_locke/</link>
+      <link>https://abarhub.github.io/blogprog/post/table_locke/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/table_locke/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/table_locke/</guid>
       <description>
         
           
@@ -74,10 +74,10 @@
     
     <item>
       <title>Exemple de requete sql pour détruire toutes les tables d&#39;un schéma</title>
-      <link>http://localhost:1313/blogprog/post/drop_all_table_oracle_sql/</link>
+      <link>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/drop_all_table_oracle_sql/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/drop_all_table_oracle_sql/</guid>
       <description>
         
           
@@ -90,10 +90,10 @@
     
     <item>
       <title>Script de création d&#39;un schéma Mysql avec l&#39;utilisateur</title>
-      <link>http://localhost:1313/blogprog/post/script_schema_mysql_sql/</link>
+      <link>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/script_schema_mysql_sql/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/script_schema_mysql_sql/</guid>
       <description>
         
           
@@ -106,10 +106,10 @@
     
     <item>
       <title>Gestion des dates en oracle</title>
-      <link>http://localhost:1313/blogprog/post/use_date_oracle_sql/</link>
+      <link>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/use_date_oracle_sql/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/use_date_oracle_sql/</guid>
       <description>
         
           
@@ -122,10 +122,10 @@
     
     <item>
       <title>Stopper l&#39;execution d&#39;un script à la première erreur en Oracle</title>
-      <link>http://localhost:1313/blogprog/post/script_with_error_sql/</link>
+      <link>https://abarhub.github.io/blogprog/post/script_with_error_sql/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/script_with_error_sql/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/script_with_error_sql/</guid>
       <description>
         
           

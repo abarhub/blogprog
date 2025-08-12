@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web on Blog de programmation</title>
-    <link>http://localhost:1313/blogprog/tags/web/</link>
+    <link>https://abarhub.github.io/blogprog/tags/web/</link>
     <description>Recent content in Web on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Liste d&#39;outils web</title>
-      <link>http://localhost:1313/blogprog/post/tools_web/</link>
+      <link>https://abarhub.github.io/blogprog/post/tools_web/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/tools_web/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/tools_web/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Liste d&#39;outils de proxy pour le navigateur</title>
-      <link>http://localhost:1313/blogprog/post/outils_proxy_http/</link>
+      <link>https://abarhub.github.io/blogprog/post/outils_proxy_http/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/outils_proxy_http/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/outils_proxy_http/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Disable button if input is empty</title>
-      <link>http://localhost:1313/blogprog/post/disable_button_if_empty/</link>
+      <link>https://abarhub.github.io/blogprog/post/disable_button_if_empty/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/disable_button_if_empty/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/disable_button_if_empty/</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex</title>
-      <link>http://localhost:1313/blogprog/post/grid_flex_css/</link>
+      <link>https://abarhub.github.io/blogprog/post/grid_flex_css/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/grid_flex_css/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/grid_flex_css/</guid>
       <description>
         
           
@@ -74,10 +74,10 @@
     
     <item>
       <title>Unsubscribe des observables</title>
-      <link>http://localhost:1313/blogprog/post/unsubscribe/</link>
+      <link>https://abarhub.github.io/blogprog/post/unsubscribe/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/unsubscribe/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/unsubscribe/</guid>
       <description>
         
           
@@ -90,10 +90,10 @@
     
     <item>
       <title>Documentation Officiel de Java</title>
-      <link>http://localhost:1313/blogprog/post/java_doc/</link>
+      <link>https://abarhub.github.io/blogprog/post/java_doc/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/java_doc/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/java_doc/</guid>
       <description>
         
           

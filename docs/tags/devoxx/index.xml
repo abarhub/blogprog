@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DEVOXX on Blog de programmation</title>
-    <link>http://localhost:1313/blogprog/tags/devoxx/</link>
+    <link>https://abarhub.github.io/blogprog/tags/devoxx/</link>
     <description>Recent content in DEVOXX on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/devoxx/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/devoxx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Devoxx du 16 au 18 avril 2025</title>
-      <link>http://localhost:1313/blogprog/post/devoxx_2025/</link>
+      <link>https://abarhub.github.io/blogprog/post/devoxx_2025/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/devoxx_2025/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/devoxx_2025/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Devoxx 2023 du 12 au 14 avril</title>
-      <link>http://localhost:1313/blogprog/post/devoxx_2023/</link>
+      <link>https://abarhub.github.io/blogprog/post/devoxx_2023/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/devoxx_2023/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/devoxx_2023/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Devoxx 2022</title>
-      <link>http://localhost:1313/blogprog/post/devoxx_2022/</link>
+      <link>https://abarhub.github.io/blogprog/post/devoxx_2022/</link>
       <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/devoxx_2022/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/devoxx_2022/</guid>
       <description>
         
           

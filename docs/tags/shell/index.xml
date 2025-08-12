@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shell on Blog de programmation</title>
-    <link>http://localhost:1313/blogprog/tags/shell/</link>
+    <link>https://abarhub.github.io/blogprog/tags/shell/</link>
     <description>Recent content in Shell on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Commande find</title>
-      <link>http://localhost:1313/blogprog/post/commande_find/</link>
+      <link>https://abarhub.github.io/blogprog/post/commande_find/</link>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/commande_find/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/commande_find/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Création d&#39;un environnement python</title>
-      <link>http://localhost:1313/blogprog/post/create_env_python/</link>
+      <link>https://abarhub.github.io/blogprog/post/create_env_python/</link>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/create_env_python/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/create_env_python/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>description de grep</title>
-      <link>http://localhost:1313/blogprog/post/grep/</link>
+      <link>https://abarhub.github.io/blogprog/post/grep/</link>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/grep/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/grep/</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Désactivation de la led pour le raspberry pi zero 2</title>
-      <link>http://localhost:1313/blogprog/post/disable_led_rpi_zero2/</link>
+      <link>https://abarhub.github.io/blogprog/post/disable_led_rpi_zero2/</link>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/disable_led_rpi_zero2/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/disable_led_rpi_zero2/</guid>
       <description>
         
           
@@ -74,10 +74,10 @@
     
     <item>
       <title>Commandes équivalentes aux commandes Linux sous Windows</title>
-      <link>http://localhost:1313/blogprog/post/equivalent_windows/</link>
+      <link>https://abarhub.github.io/blogprog/post/equivalent_windows/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/equivalent_windows/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/equivalent_windows/</guid>
       <description>
         
           
@@ -90,10 +90,10 @@
     
     <item>
       <title>Récupération d&#39;une liste avec des appels rest</title>
-      <link>http://localhost:1313/blogprog/post/liste_powershell/</link>
+      <link>https://abarhub.github.io/blogprog/post/liste_powershell/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/liste_powershell/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/liste_powershell/</guid>
       <description>
         
           
@@ -106,10 +106,10 @@
     
     <item>
       <title>Outils de formatage de code (Java, Javascript, Yaml, ect...)</title>
-      <link>http://localhost:1313/blogprog/post/outils_formatage_code/</link>
+      <link>https://abarhub.github.io/blogprog/post/outils_formatage_code/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/outils_formatage_code/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/outils_formatage_code/</guid>
       <description>
         
           
@@ -122,10 +122,10 @@
     
     <item>
       <title>Recherche d&#39;une chaine de caractère sous windows en bat et en Powershell ou avec des outils</title>
-      <link>http://localhost:1313/blogprog/post/find_windows/</link>
+      <link>https://abarhub.github.io/blogprog/post/find_windows/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/find_windows/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/find_windows/</guid>
       <description>
         
           
@@ -138,10 +138,10 @@
     
     <item>
       <title>Installation d&#39;un service sous Linux</title>
-      <link>http://localhost:1313/blogprog/post/install_service_linux/</link>
+      <link>https://abarhub.github.io/blogprog/post/install_service_linux/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/install_service_linux/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/install_service_linux/</guid>
       <description>
         
           
@@ -154,10 +154,10 @@
     
     <item>
       <title>gestion des shadow copy (vss) sous windows</title>
-      <link>http://localhost:1313/blogprog/post/shadow_copy/</link>
+      <link>https://abarhub.github.io/blogprog/post/shadow_copy/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/shadow_copy/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/shadow_copy/</guid>
       <description>
         
           
@@ -170,10 +170,10 @@
     
     <item>
       <title>Encode et décode en Base64</title>
-      <link>http://localhost:1313/blogprog/post/base64/</link>
+      <link>https://abarhub.github.io/blogprog/post/base64/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/base64/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/base64/</guid>
       <description>
         
           
@@ -186,10 +186,10 @@
     
     <item>
       <title>Internal Programming</title>
-      <link>http://localhost:1313/blogprog/post/internal_programming/</link>
+      <link>https://abarhub.github.io/blogprog/post/internal_programming/</link>
       <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/internal_programming/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/internal_programming/</guid>
       <description>
         
           
@@ -202,10 +202,10 @@
     
     <item>
       <title>Compter les fichiers jpeg par répertoire</title>
-      <link>http://localhost:1313/blogprog/post/count_jpg_files/</link>
+      <link>https://abarhub.github.io/blogprog/post/count_jpg_files/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/count_jpg_files/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/count_jpg_files/</guid>
       <description>
         
           
@@ -218,10 +218,10 @@
     
     <item>
       <title>Suppression des branches mergées</title>
-      <link>http://localhost:1313/blogprog/post/delete_merged_branche/</link>
+      <link>https://abarhub.github.io/blogprog/post/delete_merged_branche/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/delete_merged_branche/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/delete_merged_branche/</guid>
       <description>
         
           
@@ -234,10 +234,10 @@
     
     <item>
       <title>Exemple de shell en c</title>
-      <link>http://localhost:1313/blogprog/post/exemple_shell_c/</link>
+      <link>https://abarhub.github.io/blogprog/post/exemple_shell_c/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/exemple_shell_c/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/exemple_shell_c/</guid>
       <description>
         
           
@@ -250,10 +250,10 @@
     
     <item>
       <title>Commandes sous dos</title>
-      <link>http://localhost:1313/blogprog/post/exemple_env_bat/</link>
+      <link>https://abarhub.github.io/blogprog/post/exemple_env_bat/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/exemple_env_bat/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/exemple_env_bat/</guid>
       <description>
         
           
@@ -266,10 +266,10 @@
     
     <item>
       <title>Installation ou désinstallation d&#39;un module Python. Création du fichier requirements.txt avec les dépendances</title>
-      <link>http://localhost:1313/blogprog/post/install_desinstall_generation_requirement_txt_sh/</link>
+      <link>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/install_desinstall_generation_requirement_txt_sh/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/install_desinstall_generation_requirement_txt_sh/</guid>
       <description>
         
           
@@ -282,10 +282,10 @@
     
     <item>
       <title>Création d&#39;un composant avec un module et une route</title>
-      <link>http://localhost:1313/blogprog/post/create_component_with_module_and_routes/</link>
+      <link>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/create_component_with_module_and_routes/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/create_component_with_module_and_routes/</guid>
       <description>
         
           

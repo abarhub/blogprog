@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css on Blog de programmation</title>
-    <link>http://localhost:1313/blogprog/tags/css/</link>
+    <link>https://abarhub.github.io/blogprog/tags/css/</link>
     <description>Recent content in Css on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Liste d&#39;outils CSS</title>
-      <link>http://localhost:1313/blogprog/post/outils_css/</link>
+      <link>https://abarhub.github.io/blogprog/post/outils_css/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/outils_css/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/outils_css/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Tutoriel sur la gestion du positionnement en CSS avec Grid et Flex</title>
-      <link>http://localhost:1313/blogprog/post/grid_flex_css/</link>
+      <link>https://abarhub.github.io/blogprog/post/grid_flex_css/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/grid_flex_css/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/grid_flex_css/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Tutoriel bootstrap 4</title>
-      <link>http://localhost:1313/blogprog/post/site_bootstrap_tutorial/</link>
+      <link>https://abarhub.github.io/blogprog/post/site_bootstrap_tutorial/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/site_bootstrap_tutorial/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/site_bootstrap_tutorial/</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/blogprog/post/markdown-syntax/</link>
+      <link>https://abarhub.github.io/blogprog/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/markdown-syntax/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/markdown-syntax/</guid>
       <description>
         
           

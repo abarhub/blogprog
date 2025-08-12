@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robocopy on Blog de programmation</title>
-    <link>http://localhost:1313/blogprog/tags/robocopy/</link>
+    <link>https://abarhub.github.io/blogprog/tags/robocopy/</link>
     <description>Recent content in Robocopy on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/robocopy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/robocopy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>suppression d&#39;une grand arborescence sous windows rapidement (robocopy)</title>
-      <link>http://localhost:1313/blogprog/post/suppression_repertoire_robocopy/</link>
+      <link>https://abarhub.github.io/blogprog/post/suppression_repertoire_robocopy/</link>
       <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/suppression_repertoire_robocopy/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/suppression_repertoire_robocopy/</guid>
       <description>
         
           

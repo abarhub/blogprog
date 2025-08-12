@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xml on Blog de programmation</title>
-    <link>http://localhost:1313/blogprog/tags/xml/</link>
+    <link>https://abarhub.github.io/blogprog/tags/xml/</link>
     <description>Recent content in Xml on Blog de programmation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/xml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/xml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Génération du xml à partir du XSD</title>
-      <link>http://localhost:1313/blogprog/post/generation_xml_a_partir_xsd/</link>
+      <link>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/generation_xml_a_partir_xsd/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/generation_xml_a_partir_xsd/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Heritage de type en xsd</title>
-      <link>http://localhost:1313/blogprog/post/heritage_type_xsd/</link>
+      <link>https://abarhub.github.io/blogprog/post/heritage_type_xsd/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/heritage_type_xsd/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/heritage_type_xsd/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Supprimer une balise xml et son contenu grace a une regex en Java</title>
-      <link>http://localhost:1313/blogprog/post/supprimerbalidexml/</link>
+      <link>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogprog/post/supprimerbalidexml/</guid>
+      <guid>https://abarhub.github.io/blogprog/post/supprimerbalidexml/</guid>
       <description>
         
           
