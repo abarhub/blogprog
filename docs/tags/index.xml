@@ -431,17 +431,5 @@
             <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/blogprog/tags/plsql/</guid>
             <description></description>
-        </item><item>
-            <title>Example Tag</title>
-            <link>http://localhost:1313/blogprog/tags/example-tag/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/blogprog/tags/example-tag/</guid>
-            <description></description>
-        </item><item>
-            <title>Themes</title>
-            <link>http://localhost:1313/blogprog/tags/themes/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/blogprog/tags/themes/</guid>
-            <description></description>
         </item></channel>
 </rss>

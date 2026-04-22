@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blogprog/p/hello-world/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blogprog/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -158,36 +155,6 @@
     <loc>http://localhost:1313/blogprog/p/les-outils-pour-lia/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogprog/categories/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogprog/tags/css/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogprog/tags/html/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogprog/tags/markdown/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogprog/p/markdown-syntax-guide/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogprog/categories/syntax/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogprog/categories/themes/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogprog/tags/themes/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogprog/p/image-gallery/</loc>
-    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogprog/p/shortcodes/</loc>
-    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blogprog/p/math-typesetting/</loc>
     <lastmod>2023-08-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -235,6 +202,9 @@
   </url><url>
     <loc>http://localhost:1313/blogprog/p/liste-de-design-patterns/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/tags/css/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogprog/p/liste-doutils-css/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
@@ -344,7 +314,13 @@
     <loc>http://localhost:1313/blogprog/p/internal-programming/</loc>
     <lastmod>2022-03-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blogprog/categories/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blogprog/tags/hugo/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/categories/syntax/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogprog/p/using-hugo-page-bundles/</loc>
@@ -366,12 +342,6 @@
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogprog/archives/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogprog/categories/example-category/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogprog/tags/example-tag/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogprog/page/</loc>
@@ -399,6 +369,9 @@
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogprog/tags/helloworld/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/tags/html/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogprog/p/installation-de-node-et-npm-avec-maven/</loc>
@@ -444,6 +417,9 @@
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogprog/p/exemple-de-ngclass/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/tags/markdown/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogprog/p/sytaxe-de-markdow/</loc>
@@ -556,6 +532,8 @@
   </url><url>
     <loc>http://localhost:1313/blogprog/p/stopper-lexecution-dun-script-%C3%A0-la-premi%C3%A8re-erreur-en-oracle/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogprog/categories/example-category/</loc>
   </url><url>
     <loc>http://localhost:1313/blogprog/links/</loc>
   </url><url>
