@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Backup on Hugo Theme Stack Starter</title>
-        <link>http://localhost:1313/tags/backup/</link>
-        <description>Recent content in Backup on Hugo Theme Stack Starter</description>
+        <title>Backup on Blog de programmation</title>
+        <link>http://localhost:1313/blogprog/tags/backup/</link>
+        <description>Recent content in Backup on Blog de programmation</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/backup/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>fr-FR</language>
+        <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/backup/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Liste de logiciels de backup</title>
-            <link>http://localhost:1313/p/liste-de-logiciels-de-backup/</link>
+            <link>http://localhost:1313/blogprog/p/liste-de-logiciels-de-backup/</link>
             <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/p/liste-de-logiciels-de-backup/</guid>
+            <guid>http://localhost:1313/blogprog/p/liste-de-logiciels-de-backup/</guid>
             <description>&lt;h1 id=&#34;liste-de-logiciels-de-backup&#34;&gt;Liste de logiciels de backup&#xA;&lt;/h1&gt;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Nom&lt;/th&gt;&#xA;          &lt;th&gt;OS&lt;/th&gt;&#xA;          &lt;th&gt;VSS&lt;/th&gt;&#xA;          &lt;th&gt;Cryptage&lt;/th&gt;&#xA;          &lt;th&gt;Cloud&lt;/th&gt;&#xA;          &lt;th&gt;Job Cronné&lt;/th&gt;&#xA;          &lt;th&gt;Payant&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cobiansoft.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Cobian Backup&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Windows&lt;/td&gt;&#xA;          &lt;td&gt;Oui(symetrique)&lt;/td&gt;&#xA;          &lt;td&gt;Oui&lt;/td&gt;&#xA;          &lt;td&gt;Non&lt;/td&gt;&#xA;          &lt;td&gt;Oui&lt;/td&gt;&#xA;          &lt;td&gt;Non&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://restic.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Restic&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Windows/Linux&lt;/td&gt;&#xA;          &lt;td&gt;Oui&lt;/td&gt;&#xA;          &lt;td&gt;Oui(symetrique)&lt;/td&gt;&#xA;          &lt;td&gt;Oui&lt;/td&gt;&#xA;          &lt;td&gt;Oui(resticProfile)&lt;/td&gt;&#xA;          &lt;td&gt;Non&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://duplicacy.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Duplicacy&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Windows/Linux&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Oui(Asymetrique)&lt;/td&gt;&#xA;          &lt;td&gt;Oui&lt;/td&gt;&#xA;          &lt;td&gt;Oui&lt;/td&gt;&#xA;          &lt;td&gt;Oui&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;</description>
         </item></channel>
 </rss>

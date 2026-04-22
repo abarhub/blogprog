@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Bootstrap on Hugo Theme Stack Starter</title>
-        <link>http://localhost:1313/tags/bootstrap/</link>
-        <description>Recent content in Bootstrap on Hugo Theme Stack Starter</description>
+        <title>Bootstrap on Blog de programmation</title>
+        <link>http://localhost:1313/blogprog/tags/bootstrap/</link>
+        <description>Recent content in Bootstrap on Blog de programmation</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>fr-FR</language>
+        <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Tutoriel bootstrap 4</title>
-            <link>http://localhost:1313/p/tutoriel-bootstrap-4/</link>
+            <link>http://localhost:1313/blogprog/p/tutoriel-bootstrap-4/</link>
             <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/p/tutoriel-bootstrap-4/</guid>
+            <guid>http://localhost:1313/blogprog/p/tutoriel-bootstrap-4/</guid>
             <description>&lt;h1 id=&#34;tutorial&#34;&gt;tutorial&#xA;&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://mdbootstrap.com/docs/jquery/utilities/borders/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://mdbootstrap.com/docs/jquery/utilities/borders/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.w3schools.com/bootstrap4/bootstrap_ref_all_classes.asp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://www.w3schools.com/bootstrap4/bootstrap_ref_all_classes.asp&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://getbootstrap.com/docs/4.5/getting-started/browsers-devices/#supported-browsers&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://getbootstrap.com/docs/4.5/getting-started/browsers-devices/#supported-browsers&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://getbootstrap.com/docs/4.0/components/card/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://getbootstrap.com/docs/4.0/components/card/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;ng-bootstrap&#34;&gt;ng bootstrap&#xA;&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/ng-bootstrap/ng-bootstrap&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://github.com/ng-bootstrap/ng-bootstrap&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;awesome-bootstrap&#34;&gt;awesome bootstrap&#xA;&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/therebelrobot/awesome-bootstrap&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://github.com/therebelrobot/awesome-bootstrap&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;cheat-sheet&#34;&gt;cheat sheet&#xA;&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://hackerthemes.com/bootstrap-cheatsheet/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://hackerthemes.com/bootstrap-cheatsheet/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://websitesetup.org/bootstrap-cheat-sheet/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://websitesetup.org/bootstrap-cheat-sheet/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.creative-tim.com/cheatsheet/bootstrap4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://www.creative-tim.com/cheatsheet/bootstrap4&lt;/a&gt;&lt;/p&gt;&#xA;</description>
         </item></channel>
 </rss>

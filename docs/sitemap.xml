@@ -2,563 +2,563 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/p/hello-world/</loc>
+    <loc>http://localhost:1313/blogprog/p/hello-world/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/blogprog/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cli/</loc>
+    <loc>http://localhost:1313/blogprog/tags/cli/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/commande-find/</loc>
+    <loc>http://localhost:1313/blogprog/p/commande-find/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/cr%C3%A9ation-dun-environnement-python/</loc>
+    <loc>http://localhost:1313/blogprog/p/cr%C3%A9ation-dun-environnement-python/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/index/</loc>
+    <loc>http://localhost:1313/blogprog/tags/index/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>http://localhost:1313/blogprog/tags/linux/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://localhost:1313/blogprog/post/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>http://localhost:1313/blogprog/tags/python/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/shell/</loc>
+    <loc>http://localhost:1313/blogprog/tags/shell/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/blogprog/tags/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/windows/</loc>
+    <loc>http://localhost:1313/blogprog/tags/windows/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/description-de-grep/</loc>
+    <loc>http://localhost:1313/blogprog/p/description-de-grep/</loc>
     <lastmod>2025-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/d%C3%A9sactivation-de-la-led-pour-le-raspberry-pi-zero-2/</loc>
+    <loc>http://localhost:1313/blogprog/p/d%C3%A9sactivation-de-la-led-pour-le-raspberry-pi-zero-2/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/raspberrypi/</loc>
+    <loc>http://localhost:1313/blogprog/tags/raspberrypi/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/commandes-%C3%A9quivalentes-aux-commandes-linux-sous-windows/</loc>
+    <loc>http://localhost:1313/blogprog/p/commandes-%C3%A9quivalentes-aux-commandes-linux-sous-windows/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/devoxx/</loc>
+    <loc>http://localhost:1313/blogprog/tags/devoxx/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/devoxx-du-16-au-18-avril-2025/</loc>
+    <loc>http://localhost:1313/blogprog/p/devoxx-du-16-au-18-avril-2025/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/oracle/</loc>
+    <loc>http://localhost:1313/blogprog/tags/oracle/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/r%C3%A9initialisation-dune-sequence-par-rapport-%C3%A0-lid-dune-table/</loc>
+    <loc>http://localhost:1313/blogprog/p/r%C3%A9initialisation-dune-sequence-par-rapport-%C3%A0-lid-dune-table/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sql/</loc>
+    <loc>http://localhost:1313/blogprog/tags/sql/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/supprime-la-contrainte-not-null-dune-colonne-dont-le-nom-de-la-contrainte-nest-pas-connue.-sp%C3%A9cifique-%C3%A0-oracle/</loc>
+    <loc>http://localhost:1313/blogprog/p/supprime-la-contrainte-not-null-dune-colonne-dont-le-nom-de-la-contrainte-nest-pas-connue.-sp%C3%A9cifique-%C3%A0-oracle/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/analyse-une-liste-de-projets/</loc>
+    <loc>http://localhost:1313/blogprog/p/analyse-une-liste-de-projets/</loc>
     <lastmod>2024-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/liste-doutils-web/</loc>
+    <loc>http://localhost:1313/blogprog/p/liste-doutils-web/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/web/</loc>
+    <loc>http://localhost:1313/blogprog/tags/web/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/powershell/</loc>
+    <loc>http://localhost:1313/blogprog/tags/powershell/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/r%C3%A9cup%C3%A9ration-dune-liste-avec-des-appels-rest/</loc>
+    <loc>http://localhost:1313/blogprog/p/r%C3%A9cup%C3%A9ration-dune-liste-avec-des-appels-rest/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/java/</loc>
+    <loc>http://localhost:1313/blogprog/tags/java/</loc>
     <lastmod>2024-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/liste-des-librairies-en-java/</loc>
+    <loc>http://localhost:1313/blogprog/p/liste-des-librairies-en-java/</loc>
     <lastmod>2024-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/liste-doutils-de-proxy-pour-le-navigateur/</loc>
+    <loc>http://localhost:1313/blogprog/p/liste-doutils-de-proxy-pour-le-navigateur/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/formatage-code/</loc>
+    <loc>http://localhost:1313/blogprog/p/formatage-code/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/configuration-logback/</loc>
+    <loc>http://localhost:1313/blogprog/p/configuration-logback/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/log/</loc>
+    <loc>http://localhost:1313/blogprog/tags/log/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/recherche-dune-chaine-de-caract%C3%A8re-sous-windows-en-bat-et-en-powershell-ou-avec-des-outils/</loc>
+    <loc>http://localhost:1313/blogprog/p/recherche-dune-chaine-de-caract%C3%A8re-sous-windows-en-bat-et-en-powershell-ou-avec-des-outils/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/installation-dun-service-sous-linux/</loc>
+    <loc>http://localhost:1313/blogprog/p/installation-dun-service-sous-linux/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/g%C3%A9n%C3%A9ration-du-xml-%C3%A0-partir-du-xsd/</loc>
+    <loc>http://localhost:1313/blogprog/p/g%C3%A9n%C3%A9ration-du-xml-%C3%A0-partir-du-xsd/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/heritage-de-type-en-xsd/</loc>
+    <loc>http://localhost:1313/blogprog/p/heritage-de-type-en-xsd/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/lister-les-transactions-ouvertes-en-oracle/</loc>
+    <loc>http://localhost:1313/blogprog/p/lister-les-transactions-ouvertes-en-oracle/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/suppression-du-lock-sur-une-table-oracle/</loc>
+    <loc>http://localhost:1313/blogprog/p/suppression-du-lock-sur-une-table-oracle/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/supprimer-une-balise-xml-et-son-contenu-grace-a-une-regex-en-java/</loc>
+    <loc>http://localhost:1313/blogprog/p/supprimer-une-balise-xml-et-son-contenu-grace-a-une-regex-en-java/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/xml/</loc>
+    <loc>http://localhost:1313/blogprog/tags/xml/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/xsd/</loc>
+    <loc>http://localhost:1313/blogprog/tags/xsd/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bat/</loc>
+    <loc>http://localhost:1313/blogprog/tags/bat/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dos/</loc>
+    <loc>http://localhost:1313/blogprog/tags/dos/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/robocopy/</loc>
+    <loc>http://localhost:1313/blogprog/tags/robocopy/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/suppression-dune-grand-arborescence-sous-windows-rapidement-robocopy/</loc>
+    <loc>http://localhost:1313/blogprog/p/suppression-dune-grand-arborescence-sous-windows-rapidement-robocopy/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/angular/</loc>
+    <loc>http://localhost:1313/blogprog/tags/angular/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/formation-angular-17-02/2024/</loc>
+    <loc>http://localhost:1313/blogprog/p/formation-angular-17-02/2024/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/backup/</loc>
+    <loc>http://localhost:1313/blogprog/tags/backup/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/liste-de-logiciels-de-backup/</loc>
+    <loc>http://localhost:1313/blogprog/p/liste-de-logiciels-de-backup/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ia/</loc>
+    <loc>http://localhost:1313/blogprog/tags/ia/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/les-outils-pour-lia/</loc>
+    <loc>http://localhost:1313/blogprog/p/les-outils-pour-lia/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/blogprog/categories/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>http://localhost:1313/blogprog/tags/css/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>http://localhost:1313/blogprog/tags/html/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>http://localhost:1313/blogprog/tags/markdown/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/markdown-syntax-guide/</loc>
+    <loc>http://localhost:1313/blogprog/p/markdown-syntax-guide/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
+    <loc>http://localhost:1313/blogprog/categories/syntax/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/themes/</loc>
+    <loc>http://localhost:1313/blogprog/categories/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/themes/</loc>
+    <loc>http://localhost:1313/blogprog/tags/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/image-gallery/</loc>
+    <loc>http://localhost:1313/blogprog/p/image-gallery/</loc>
     <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/shortcodes/</loc>
+    <loc>http://localhost:1313/blogprog/p/shortcodes/</loc>
     <lastmod>2023-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/math-typesetting/</loc>
+    <loc>http://localhost:1313/blogprog/p/math-typesetting/</loc>
     <lastmod>2023-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/execution-du-premier-jar-trouv%C3%A9/</loc>
+    <loc>http://localhost:1313/blogprog/p/execution-du-premier-jar-trouv%C3%A9/</loc>
     <lastmod>2023-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/trie-en-typescript-dun-objet-sur-2-champs/</loc>
+    <loc>http://localhost:1313/blogprog/p/trie-en-typescript-dun-objet-sur-2-champs/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/typescript/</loc>
+    <loc>http://localhost:1313/blogprog/tags/typescript/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/gestion-des-shadow-copy-vss-sous-windows/</loc>
+    <loc>http://localhost:1313/blogprog/p/gestion-des-shadow-copy-vss-sous-windows/</loc>
     <lastmod>2023-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/volume-shadow-copy-service/</loc>
+    <loc>http://localhost:1313/blogprog/tags/volume-shadow-copy-service/</loc>
     <lastmod>2023-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vss/</loc>
+    <loc>http://localhost:1313/blogprog/tags/vss/</loc>
     <lastmod>2023-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/a-simple-grep-implementation-in-go/</loc>
+    <loc>http://localhost:1313/blogprog/p/a-simple-grep-implementation-in-go/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/golang/</loc>
+    <loc>http://localhost:1313/blogprog/tags/golang/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/grep/</loc>
+    <loc>http://localhost:1313/blogprog/tags/grep/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/a-curated-list-of-command-line-utilities-written-in-rust/</loc>
+    <loc>http://localhost:1313/blogprog/p/a-curated-list-of-command-line-utilities-written-in-rust/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/devoxx-2023-du-12-au-14-avril/</loc>
+    <loc>http://localhost:1313/blogprog/p/devoxx-2023-du-12-au-14-avril/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/r%C3%A9cup%C3%A9ration-du-r%C3%A9pertoire-du-script-bat/</loc>
+    <loc>http://localhost:1313/blogprog/p/r%C3%A9cup%C3%A9ration-du-r%C3%A9pertoire-du-script-bat/</loc>
     <lastmod>2023-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/renommage-de-fichiers/</loc>
+    <loc>http://localhost:1313/blogprog/p/renommage-de-fichiers/</loc>
     <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/design-patterns/</loc>
+    <loc>http://localhost:1313/blogprog/tags/design-patterns/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/liste-de-design-patterns/</loc>
+    <loc>http://localhost:1313/blogprog/p/liste-de-design-patterns/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/liste-doutils-css/</loc>
+    <loc>http://localhost:1313/blogprog/p/liste-doutils-css/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/devenir-propri%C3%A9t%C3%A9-dun-r%C3%A9pertoire-sous-windows/</loc>
+    <loc>http://localhost:1313/blogprog/p/devenir-propri%C3%A9t%C3%A9-dun-r%C3%A9pertoire-sous-windows/</loc>
     <lastmod>2022-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/extraction-dune-table-%C3%A0-partir-de-json/</loc>
+    <loc>http://localhost:1313/blogprog/p/extraction-dune-table-%C3%A0-partir-de-json/</loc>
     <lastmod>2022-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/json/</loc>
+    <loc>http://localhost:1313/blogprog/tags/json/</loc>
     <lastmod>2022-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/calcul-la-taille-des-r%C3%A9pertoires/</loc>
+    <loc>http://localhost:1313/blogprog/p/calcul-la-taille-des-r%C3%A9pertoires/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/liste-de-sites-pour-g%C3%A9n%C3%A9rer-tester-les-technologies-web/</loc>
+    <loc>http://localhost:1313/blogprog/p/liste-de-sites-pour-g%C3%A9n%C3%A9rer-tester-les-technologies-web/</loc>
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/outils/</loc>
+    <loc>http://localhost:1313/blogprog/tags/outils/</loc>
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/liste-les-fichiers-plus-grands-quune-certaine-taille/</loc>
+    <loc>http://localhost:1313/blogprog/p/liste-les-fichiers-plus-grands-quune-certaine-taille/</loc>
     <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/cr%C3%A9ation-dun-menu-en-bat/</loc>
+    <loc>http://localhost:1313/blogprog/p/cr%C3%A9ation-dun-menu-en-bat/</loc>
     <lastmod>2022-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/description-of-tar-command/</loc>
+    <loc>http://localhost:1313/blogprog/p/description-of-tar-command/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tar/</loc>
+    <loc>http://localhost:1313/blogprog/tags/tar/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/disable-button-if-input-is-empty/</loc>
+    <loc>http://localhost:1313/blogprog/p/disable-button-if-input-is-empty/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
+    <loc>http://localhost:1313/blogprog/tags/javascript/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/execution-du-plugin-maven-dependancy-tree-en-indiquant-la-version/</loc>
+    <loc>http://localhost:1313/blogprog/p/execution-du-plugin-maven-dependancy-tree-en-indiquant-la-version/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/maven/</loc>
+    <loc>http://localhost:1313/blogprog/tags/maven/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/statistique-de-codage/</loc>
+    <loc>http://localhost:1313/blogprog/p/statistique-de-codage/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cheatsheet/</loc>
+    <loc>http://localhost:1313/blogprog/tags/cheatsheet/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/elasticsearch/</loc>
+    <loc>http://localhost:1313/blogprog/tags/elasticsearch/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/exemple-de-requete-en-elasticsearch/</loc>
+    <loc>http://localhost:1313/blogprog/p/exemple-de-requete-en-elasticsearch/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/go/</loc>
+    <loc>http://localhost:1313/blogprog/tags/go/</loc>
     <lastmod>2022-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/librairie-pour-usage-standard-en-golang/</loc>
+    <loc>http://localhost:1313/blogprog/p/librairie-pour-usage-standard-en-golang/</loc>
     <lastmod>2022-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/java-code-analyser/</loc>
+    <loc>http://localhost:1313/blogprog/p/java-code-analyser/</loc>
     <lastmod>2022-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/langages/</loc>
+    <loc>http://localhost:1313/blogprog/tags/langages/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/liste-de-langages/</loc>
+    <loc>http://localhost:1313/blogprog/p/liste-de-langages/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/c/</loc>
+    <loc>http://localhost:1313/blogprog/tags/c/</loc>
     <lastmod>2022-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/c-library-and-tools/</loc>
+    <loc>http://localhost:1313/blogprog/p/c-library-and-tools/</loc>
     <lastmod>2022-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/librairie/</loc>
+    <loc>http://localhost:1313/blogprog/tags/librairie/</loc>
     <lastmod>2022-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/tutoriel-sur-la-gestion-du-positionnement-en-css-avec-grid-et-flex/</loc>
+    <loc>http://localhost:1313/blogprog/p/tutoriel-sur-la-gestion-du-positionnement-en-css-avec-grid-et-flex/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/unsubscribe-des-observables/</loc>
+    <loc>http://localhost:1313/blogprog/p/unsubscribe-des-observables/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/curl/</loc>
+    <loc>http://localhost:1313/blogprog/tags/curl/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/injection-un-fichier-dans-du-json-en-lencodant-en-base64/</loc>
+    <loc>http://localhost:1313/blogprog/p/injection-un-fichier-dans-du-json-en-lencodant-en-base64/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/gestion-de-la-batterie-sous-windows/</loc>
+    <loc>http://localhost:1313/blogprog/p/gestion-de-la-batterie-sous-windows/</loc>
     <lastmod>2022-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/devoxx-2022/</loc>
+    <loc>http://localhost:1313/blogprog/p/devoxx-2022/</loc>
     <lastmod>2022-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/encode-et-d%C3%A9code-en-base64/</loc>
+    <loc>http://localhost:1313/blogprog/p/encode-et-d%C3%A9code-en-base64/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/angular-cheatsheet/</loc>
+    <loc>http://localhost:1313/blogprog/p/angular-cheatsheet/</loc>
     <lastmod>2022-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/internal-programming/</loc>
+    <loc>http://localhost:1313/blogprog/p/internal-programming/</loc>
     <lastmod>2022-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>http://localhost:1313/blogprog/tags/hugo/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/using-hugo-page-bundles/</loc>
+    <loc>http://localhost:1313/blogprog/p/using-hugo-page-bundles/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/compter-les-fichiers-jpeg-par-r%C3%A9pertoire/</loc>
+    <loc>http://localhost:1313/blogprog/p/compter-les-fichiers-jpeg-par-r%C3%A9pertoire/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/git/</loc>
+    <loc>http://localhost:1313/blogprog/tags/git/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/image/</loc>
+    <loc>http://localhost:1313/blogprog/tags/image/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/jpg/</loc>
+    <loc>http://localhost:1313/blogprog/tags/jpg/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/suppression-des-branches-merg%C3%A9es/</loc>
+    <loc>http://localhost:1313/blogprog/p/suppression-des-branches-merg%C3%A9es/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>http://localhost:1313/blogprog/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/example-category/</loc>
+    <loc>http://localhost:1313/blogprog/categories/example-category/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/example-tag/</loc>
+    <loc>http://localhost:1313/blogprog/tags/example-tag/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>http://localhost:1313/blogprog/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/build/</loc>
+    <loc>http://localhost:1313/blogprog/tags/build/</loc>
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/r%C3%A9cup%C3%A9rer-la-version-avec-spring-boot/</loc>
+    <loc>http://localhost:1313/blogprog/p/r%C3%A9cup%C3%A9rer-la-version-avec-spring-boot/</loc>
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/spring-boot/</loc>
+    <loc>http://localhost:1313/blogprog/tags/spring-boot/</loc>
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/version/</loc>
+    <loc>http://localhost:1313/blogprog/tags/version/</loc>
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ligne-de-commande/</loc>
+    <loc>http://localhost:1313/blogprog/tags/ligne-de-commande/</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/liste-doutils/</loc>
+    <loc>http://localhost:1313/blogprog/p/liste-doutils/</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/hello-world-en-html/</loc>
+    <loc>http://localhost:1313/blogprog/p/hello-world-en-html/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/helloworld/</loc>
+    <loc>http://localhost:1313/blogprog/tags/helloworld/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/installation-de-node-et-npm-avec-maven/</loc>
+    <loc>http://localhost:1313/blogprog/p/installation-de-node-et-npm-avec-maven/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/npm/</loc>
+    <loc>http://localhost:1313/blogprog/tags/npm/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/hello-world-en-python/</loc>
+    <loc>http://localhost:1313/blogprog/p/hello-world-en-python/</loc>
     <lastmod>2021-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/validation-xsd-en-g%C3%A9rant-la-r%C3%A9solution-des-xsd/</loc>
+    <loc>http://localhost:1313/blogprog/p/validation-xsd-en-g%C3%A9rant-la-r%C3%A9solution-des-xsd/</loc>
     <lastmod>2021-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/change-detection/</loc>
+    <loc>http://localhost:1313/blogprog/tags/change-detection/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/d%C3%A9tection-du-changement-sur-angular/</loc>
+    <loc>http://localhost:1313/blogprog/p/d%C3%A9tection-du-changement-sur-angular/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/liste-doutils/</loc>
+    <loc>http://localhost:1313/blogprog/p/liste-doutils/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/maven-dependancy/</loc>
+    <loc>http://localhost:1313/blogprog/p/maven-dependancy/</loc>
     <lastmod>2021-07-18T16:21:12+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/configuration/</loc>
+    <loc>http://localhost:1313/blogprog/tags/configuration/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/externalisation-de-la-configuration-avec-spring-boot/</loc>
+    <loc>http://localhost:1313/blogprog/p/externalisation-de-la-configuration-avec-spring-boot/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/debug/</loc>
+    <loc>http://localhost:1313/blogprog/tags/debug/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/d%C3%A9bugage-avec-angular/</loc>
+    <loc>http://localhost:1313/blogprog/p/d%C3%A9bugage-avec-angular/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/exemple-de-shell-en-c/</loc>
+    <loc>http://localhost:1313/blogprog/p/exemple-de-shell-en-c/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/documentation-officiel-de-java/</loc>
+    <loc>http://localhost:1313/blogprog/p/documentation-officiel-de-java/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/exemple-de-ngclass/</loc>
+    <loc>http://localhost:1313/blogprog/p/exemple-de-ngclass/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/sytaxe-de-markdow/</loc>
+    <loc>http://localhost:1313/blogprog/p/sytaxe-de-markdow/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/d%C3%A9bugage-spring/</loc>
+    <loc>http://localhost:1313/blogprog/p/d%C3%A9bugage-spring/</loc>
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/spring/</loc>
+    <loc>http://localhost:1313/blogprog/tags/spring/</loc>
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/commandes-sous-dos/</loc>
+    <loc>http://localhost:1313/blogprog/p/commandes-sous-dos/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/java-security/</loc>
+    <loc>http://localhost:1313/blogprog/tags/java-security/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/oauth2/</loc>
+    <loc>http://localhost:1313/blogprog/tags/oauth2/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/openidconnect/</loc>
+    <loc>http://localhost:1313/blogprog/tags/openidconnect/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/spring-security-oauth-2-documentation/</loc>
+    <loc>http://localhost:1313/blogprog/p/spring-security-oauth-2-documentation/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/exemple-de-requete-sql-pour-d%C3%A9truire-toutes-les-tables-dun-sch%C3%A9ma/</loc>
+    <loc>http://localhost:1313/blogprog/p/exemple-de-requete-sql-pour-d%C3%A9truire-toutes-les-tables-dun-sch%C3%A9ma/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/jdbc/</loc>
+    <loc>http://localhost:1313/blogprog/tags/jdbc/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/lurl-jdbc-pour-se-connecter-%C3%A0-une-base-mysql/</loc>
+    <loc>http://localhost:1313/blogprog/p/lurl-jdbc-pour-se-connecter-%C3%A0-une-base-mysql/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mysql/</loc>
+    <loc>http://localhost:1313/blogprog/tags/mysql/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/script-de-cr%C3%A9ation-dun-sch%C3%A9ma-mysql-avec-lutilisateur/</loc>
+    <loc>http://localhost:1313/blogprog/p/script-de-cr%C3%A9ation-dun-sch%C3%A9ma-mysql-avec-lutilisateur/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/exemple-de-test-param%C3%A9tr%C3%A9/</loc>
+    <loc>http://localhost:1313/blogprog/p/exemple-de-test-param%C3%A9tr%C3%A9/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/junit5/</loc>
+    <loc>http://localhost:1313/blogprog/tags/junit5/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/test/</loc>
+    <loc>http://localhost:1313/blogprog/tags/test/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/ajout-des-jar-dans-la-stacktrace-pour-logback/</loc>
+    <loc>http://localhost:1313/blogprog/p/ajout-des-jar-dans-la-stacktrace-pour-logback/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/logback/</loc>
+    <loc>http://localhost:1313/blogprog/tags/logback/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/gestion-des-dates-en-oracle/</loc>
+    <loc>http://localhost:1313/blogprog/p/gestion-des-dates-en-oracle/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/logger-toutes-les-propri%C3%A9t%C3%A9s-de-spring-boot/</loc>
+    <loc>http://localhost:1313/blogprog/p/logger-toutes-les-propri%C3%A9t%C3%A9s-de-spring-boot/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/installation-ou-d%C3%A9sinstallation-dun-module-python.-cr%C3%A9ation-du-fichier-requirements.txt-avec-les-d%C3%A9pendances/</loc>
+    <loc>http://localhost:1313/blogprog/p/installation-ou-d%C3%A9sinstallation-dun-module-python.-cr%C3%A9ation-du-fichier-requirements.txt-avec-les-d%C3%A9pendances/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/cr%C3%A9ation-dun-composant-avec-un-module-et-une-route/</loc>
+    <loc>http://localhost:1313/blogprog/p/cr%C3%A9ation-dun-composant-avec-un-module-et-une-route/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bootstrap/</loc>
+    <loc>http://localhost:1313/blogprog/tags/bootstrap/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/tutoriel-bootstrap-4/</loc>
+    <loc>http://localhost:1313/blogprog/p/tutoriel-bootstrap-4/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/exemple-de-loggeur-avec-slf4j/</loc>
+    <loc>http://localhost:1313/blogprog/p/exemple-de-loggeur-avec-slf4j/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/slf4j/</loc>
+    <loc>http://localhost:1313/blogprog/tags/slf4j/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/acc%C3%A8s-%C3%A0-un-fichier-de-ressource/</loc>
+    <loc>http://localhost:1313/blogprog/p/acc%C3%A8s-%C3%A0-un-fichier-de-ressource/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/aide-m%C3%A9moire-sur-elasticsearch/</loc>
+    <loc>http://localhost:1313/blogprog/p/aide-m%C3%A9moire-sur-elasticsearch/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/calcul-de-dates/</loc>
+    <loc>http://localhost:1313/blogprog/p/calcul-de-dates/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/capture-des-param%C3%A8tres-avec-mockito/</loc>
+    <loc>http://localhost:1313/blogprog/p/capture-des-param%C3%A8tres-avec-mockito/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/changement-de-version-des-pom/</loc>
+    <loc>http://localhost:1313/blogprog/p/changement-de-version-des-pom/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/classpath/</loc>
+    <loc>http://localhost:1313/blogprog/tags/classpath/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/date/</loc>
+    <loc>http://localhost:1313/blogprog/tags/date/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mockito/</loc>
+    <loc>http://localhost:1313/blogprog/tags/mockito/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/plsql/</loc>
+    <loc>http://localhost:1313/blogprog/tags/plsql/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/sites-sur-spring/</loc>
+    <loc>http://localhost:1313/blogprog/p/sites-sur-spring/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/stopper-lexecution-dun-script-%C3%A0-la-premi%C3%A8re-erreur-en-oracle/</loc>
+    <loc>http://localhost:1313/blogprog/p/stopper-lexecution-dun-script-%C3%A0-la-premi%C3%A8re-erreur-en-oracle/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/links/</loc>
+    <loc>http://localhost:1313/blogprog/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:1313/blogprog/search/</loc>
   </url>
 </urlset>

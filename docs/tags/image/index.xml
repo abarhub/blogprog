@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Image on Hugo Theme Stack Starter</title>
-        <link>http://localhost:1313/tags/image/</link>
-        <description>Recent content in Image on Hugo Theme Stack Starter</description>
+        <title>Image on Blog de programmation</title>
+        <link>http://localhost:1313/blogprog/tags/image/</link>
+        <description>Recent content in Image on Blog de programmation</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/image/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>fr-FR</language>
+        <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/image/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Compter les fichiers jpeg par répertoire</title>
-            <link>http://localhost:1313/p/compter-les-fichiers-jpeg-par-r%C3%A9pertoire/</link>
+            <link>http://localhost:1313/blogprog/p/compter-les-fichiers-jpeg-par-r%C3%A9pertoire/</link>
             <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/p/compter-les-fichiers-jpeg-par-r%C3%A9pertoire/</guid>
+            <guid>http://localhost:1313/blogprog/p/compter-les-fichiers-jpeg-par-r%C3%A9pertoire/</guid>
             <description>&lt;p&gt;Pour lister les répertoires qui ont des fichiers jpeg :&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;&#xA;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1&#xA;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&#xA;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;find / -iname &lt;span class=&#34;s2&#34;&gt;&amp;#34;*.jpg&amp;#34;&lt;/span&gt; -exec dirname &lt;span class=&#34;s1&#34;&gt;&amp;#39;{}&amp;#39;&lt;/span&gt; &lt;span class=&#34;se&#34;&gt;\;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; uniq -c &amp;gt;res.txt&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&lt;p&gt;Apres, pour trié cette liste, c&amp;rsquo;est :&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;&#xA;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1&#xA;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&#xA;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cat res.txt &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; sort -n&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
         </item></channel>
 </rss>

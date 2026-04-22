@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Librairie on Hugo Theme Stack Starter</title>
-        <link>http://localhost:1313/tags/librairie/</link>
-        <description>Recent content in Librairie on Hugo Theme Stack Starter</description>
+        <title>Librairie on Blog de programmation</title>
+        <link>http://localhost:1313/blogprog/tags/librairie/</link>
+        <description>Recent content in Librairie on Blog de programmation</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/librairie/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>fr-FR</language>
+        <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/librairie/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>C library and tools</title>
-            <link>http://localhost:1313/p/c-library-and-tools/</link>
+            <link>http://localhost:1313/blogprog/p/c-library-and-tools/</link>
             <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/p/c-library-and-tools/</guid>
+            <guid>http://localhost:1313/blogprog/p/c-library-and-tools/</guid>
             <description>&lt;h1 id=&#34;memory-library&#34;&gt;Memory library&#xA;&lt;/h1&gt;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://hem.passagen.se/blizzar/mss/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;MSS: Memory Supervision System&lt;/a&gt; &lt;a class=&#34;link&#34; href=&#34;http://libmss.sourceforge.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;sourceforge&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cs.hmc.edu/~nate/yamd/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Yet another debugging malloc&lt;/a&gt; &lt;a class=&#34;link&#34; href=&#34;https://github.com/cheriff/djmalloc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;git&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;debugger&#34;&gt;Debugger&#xA;&lt;/h1&gt;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://softice1.free.fr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Softice&lt;/a&gt; : debugger noyau &lt;a class=&#34;link&#34; href=&#34;https://fr.wikipedia.org/wiki/SoftICE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;wikipedia&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.microfocus.com/fr-fr/solutions/accelerate-application-delivery&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;BoundsChecker&lt;/a&gt; : débuggeur mémoire &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/BoundsChecker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;wikipedia&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.teamblue.unicomsi.com/products/purifyplus/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;PurifyPlus&lt;/a&gt; : débuggeur mémoire &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/PurifyPlus&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;wikipedia&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://valgrind.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Valgrind&lt;/a&gt; : débuggeur mémoire &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Valgrind&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;wikipedia&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://dmalloc.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;dmalloc&lt;/a&gt; : débuggeur mémoire &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Dmalloc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;wikipedia&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
         </item></channel>
 </rss>

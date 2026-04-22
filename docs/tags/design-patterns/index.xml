@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Design Patterns on Hugo Theme Stack Starter</title>
-        <link>http://localhost:1313/tags/design-patterns/</link>
-        <description>Recent content in Design Patterns on Hugo Theme Stack Starter</description>
+        <title>Design Patterns on Blog de programmation</title>
+        <link>http://localhost:1313/blogprog/tags/design-patterns/</link>
+        <description>Recent content in Design Patterns on Blog de programmation</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/design-patterns/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>fr-FR</language>
+        <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogprog/tags/design-patterns/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Liste de Design Patterns</title>
-            <link>http://localhost:1313/p/liste-de-design-patterns/</link>
+            <link>http://localhost:1313/blogprog/p/liste-de-design-patterns/</link>
             <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/p/liste-de-design-patterns/</guid>
+            <guid>http://localhost:1313/blogprog/p/liste-de-design-patterns/</guid>
             <description>&lt;h1 id=&#34;liste-de-design-pattern&#34;&gt;Liste de Design Pattern&#xA;&lt;/h1&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://learn.microsoft.com/en-us/azure/architecture/patterns/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://learn.microsoft.com/en-us/azure/architecture/patterns/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://learn.microsoft.com/en-us/azure/architecture/patterns/category/design-implementation&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://learn.microsoft.com/en-us/azure/architecture/patterns/category/design-implementation&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://refactoring.guru/fr/design-patterns&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://refactoring.guru/fr/design-patterns&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://fr.wikipedia.org/wiki/Patron_de_conception&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://fr.wikipedia.org/wiki/Patron_de_conception&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Software_design_pattern&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;https://en.wikipedia.org/wiki/Software_design_pattern&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
         </item></channel>
 </rss>

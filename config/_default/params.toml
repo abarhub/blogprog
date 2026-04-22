@@ -34,7 +34,7 @@ SortBy              = "default"
 [widgets]
     homepage = [
         { type = "search" },
-        { type = "archives", params = { limit = 5 } },
+        { type = "archives", params = { limit = 2 } },
         { type = "categories", params = { limit = 10 } },
         { type = "tag-cloud", params = { limit = 150 } },
     ]
@@ -50,7 +50,7 @@ SortBy              = "default"
 
 ## Comments
 [comments]
-    enabled  = true
+    enabled  = false
     provider = "disqus"
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
