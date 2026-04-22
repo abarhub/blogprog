@@ -1,5 +1,5 @@
-module blogprog
+module github.com/CaiJimmy/hugo-theme-stack-starter
 
-go 1.24.5
+go 1.17
 
-require github.com/chipzoller/hugo-clarity v0.0.0-20250514185450-16f2e94b0bce // indirect
+require github.com/CaiJimmy/hugo-theme-stack/v4 v4.0.0-beta.15 // indirect

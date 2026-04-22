@@ -4,6 +4,7 @@ date = "2024-03-24"
 description = "Outils de formatage de code (Java, Javascript, Yaml, ect...)"
 tags = ["java","cli","shell"]
 summary = "Outils de formatage de code (Java, Javascript, Yaml, ect...)"
+slug = "formatage-code"
 +++
 # Outils de formatage de code
 
