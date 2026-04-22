@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>OAuth2 on Hugo Theme Stack Starter</title>
+        <link>http://localhost:1313/tags/oauth2/</link>
+        <description>Recent content in OAuth2 on Hugo Theme Stack Starter</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/oauth2/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Spring security OAuth 2 documentation</title>
+            <link>http://localhost:1313/p/spring-security-oauth-2-documentation/</link>
+            <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/p/spring-security-oauth-2-documentation/</guid>
+            <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://spring.io/projects/spring-security-oauth#learn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Les versions de spring security&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://projects.spring.io/spring-security-oauth/docs/Home.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;La liste des documentations&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://projects.spring.io/spring-security-oauth/docs/oauth2.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Le guide du developpeur&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spring-projects/spring-security/wiki/OAuth-2.0-Migration-Guide&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Le guide de migration&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.spring.io/spring-security/site/docs/current/reference/html5/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;La documentation détaillée&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://stackoverflow.com/a/57813508/6577778&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Comment l&amp;rsquo;implementé avec un SPA&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://auth0.com/docs/flows/implicit-flow-with-form-post&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Implicit Flow&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://openid.net/developers/certified/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;La liste des librairies certifiée Open Id Connect&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item></channel>
+</rss>

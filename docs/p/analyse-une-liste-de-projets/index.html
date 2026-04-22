@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Analyse une liste de projets">
+<title>Analyse une liste de projets</title>
+
+
+<link rel="canonical" href="http://localhost:1313/p/analyse-une-liste-de-projets/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+
+
+<link rel="stylesheet" href="/scss/style.min.389e156f5e9bb13df5a924cfa99dfb9c39f3e01e68d9e146cd65bdae963be145.css"><meta property='og:title' content="Analyse une liste de projets">
+<meta property='og:description' content="Analyse une liste de projets">
+<meta property='og:url' content='http://localhost:1313/p/analyse-une-liste-de-projets/'>
+<meta property='og:site_name' content='Hugo Theme Stack Starter'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='python' /><meta property='article:published_time' content='2024-09-29T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2024-09-29T00:00:00&#43;00:00'/>
+<meta name="twitter:title" content="Analyse une liste de projets">
+<meta name="twitter:description" content="Analyse une liste de projets">
+    <link rel="shortcut icon" href="/img/favicon.png" />
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        <figure class="site-avatar">
+                <a href="/">
+                    <img src="/img/avatar.png" 
+                        width="150"
+                        height="150"
+                        class="site-logo"
+                        loading="lazy"
+                        alt="Avatar">
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Hugo Theme Stack Starter</a></h1>
+            <h2 class="site-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='https://github.com/CaiJimmy/hugo-theme-stack'
+                        
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://twitter.com'
+                        
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/links/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Links</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/analyse-une-liste-de-projets/">Analyse une liste de projets</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Analyse une liste de projets
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2024-09-29T00:00:00Z'>Sunday, September 29, 2024</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        8 minutes read
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+
+    
+
+    <section class="article-content">
+    
+    
+    <p>import json
+import os
+import subprocess
+import sys
+import xml.etree.ElementTree as ET
+from datetime import date, datetime
+import time</p>
+<p>from boltons.iterutils import remap</p>
+<p>&rsquo;''</p>
+<p>jq . projet_240928_182342.json</p>
+<p>jq .[].nom projet_240928_182342.json</p>
+<p>jq .[].nom,.[].modules[].name projet_240928_182342.json</p>
+<p>jq &ldquo;[ .[] | {nom_module: .modules[].name} ]&rdquo; projet_240928_182342.json</p>
+<p>jq &ldquo;[ .[] | . as $parent | {nom_module: .modules[].name, projet: $parent.nom} ]&rdquo; projet_240928_182342.json</p>
+<p>Pour lister le nom des produits :
+jq &ldquo;[ .[] | . as $parent | {nom_module: .modules[].name, projet: $parent.nom} ]&rdquo; projet_240929_131613.json</p>
+<p>Pour lister la version d&rsquo;angular :
+jq &ldquo;[ .[] | . as $parent | {nom_module: .modules[].name, projet: $parent.nom, angular: .modules[].packageJson.dependencies.&quot;@angular/core&quot;} ]&rdquo; projet_240929_131613.json</p>
+<p>Pour lister la version de java :
+jq &ldquo;[ .[] | . as $parent | {nom_module: .modules[].name, projet: $parent.nom, java: .modules[].pom.properties.&quot;java.version&quot;} ]&rdquo; projet_240929_131613.json</p>
+<p>Pour lister la version du projet :
+jq &ldquo;[ .[] | . as $parent | {nom_module: .modules[].name, projet: $parent.nom, version_projet: .modules[].pom.effectivePom.version.version} ]&rdquo; projet_240929_131613.json</p>
+<p>Pour lister le groupId, l&rsquo;artifactId et la version des projets :
+jq &ldquo;[ .[] | . as $parent | {nom_module: .modules[].name, projet: $parent.nom, version_projet: ( .modules[].pom.effectivePom.version.groupId + &quot;:&quot; + .modules[].pom.effectivePom.version.artifactId + &quot;:&quot; + .modules[].pom.effectivePom.version.version ) } ]&rdquo; projet_240929_131613.json</p>
+<p>&rsquo;''</p>
+<p>class Parametres:</p>
+<pre><code>def __init__(self):
+    self.repertoires = []
+    self.repertoires_ignore = []
+    self.debug = False
+</code></pre>
+<p>class ErreurRunMvnException(Exception):
+pass</p>
+<p>class ErreurRunGitException(Exception):
+pass</p>
+<p>def is_git_repo(path):
+&ldquo;&ldquo;&ldquo;Vérifie si un répertoire est un repo git.&rdquo;&rdquo;&rdquo;
+return os.path.isdir(os.path.join(path, &ldquo;.git&rdquo;))</p>
+<p>def parse_pom(pom_path):
+tree = ET.parse(pom_path)
+root = tree.getroot()</p>
+<pre><code># Espaces de noms (pour éviter les erreurs lors de la recherche d'éléments dans le fichier XML)
+namespaces = {'maven': 'http://maven.apache.org/POM/4.0.0'}
+
+# Récupérer les informations du parent s'il existe
+parent = root.find('maven:parent', namespaces)
+parent_info = {}
+if parent is not None:
+    if parent.find('maven:groupId', namespaces) is not None:
+        parent_info['groupId'] = parent.find('maven:groupId', namespaces).text
+    if parent.find('maven:artifactId', namespaces) is not None:
+        parent_info['artifactId'] = parent.find('maven:artifactId', namespaces).text
+    if parent.find('maven:version', namespaces) is not None:
+        parent_info['version'] = parent.find('maven:version', namespaces).text
+
+version_projet = {}
+root.find('maven:parent', namespaces)
+if root.find('maven:groupId', namespaces) is not None:
+    version_projet['groupId'] = root.find('maven:groupId', namespaces).text
+if root.find('maven:artifactId', namespaces) is not None:
+    version_projet['artifactId'] = root.find('maven:artifactId', namespaces).text
+if root.find('maven:version', namespaces) is not None:
+    version_projet['version'] = root.find('maven:version', namespaces).text
+
+# Récupérer les propriétés s'il existe
+properties = root.find('maven:properties', namespaces)
+props = {}
+if properties is not None:
+    for prop in properties:
+        props[prop.tag.split('}')[-1]] = prop.text
+
+return parent_info, props, version_projet
+</code></pre>
+<p>def parse_pom_xml(pom_path, debug):
+&ldquo;&ldquo;&ldquo;Parse le fichier pom.xml et extrait les informations du parent et des propriétés.&rdquo;&rdquo;&rdquo;</p>
+<pre><code>parent_info, props, version_projet = parse_pom(pom_path)
+
+# les dépendances
+dependances = None
+effectivePom = None
+try:
+    currentDir = os.getcwd()
+    outpoutFile = f'{currentDir}/data/dependency.json'
+    command = f&quot;mvn dependency:3.8.0:tree -DoutputType=json -DoutputFile={currentDir}/data/dependency.json -DoutputEncoding=utf8&quot;
+    repo_path = os.path.dirname(pom_path)
+    result = subprocess.run(command, cwd=repo_path, shell=True, capture_output=True, text=True)
+    if debug or result.returncode != 0:
+        print(&quot;dependancy tree output:&quot; + result.stdout)
+        print(&quot;dependancy tree error:&quot; + result.stderr)
+    if result.returncode != 0:
+        raise ErreurRunMvnException(f&quot;Erreur lors de l'exécution de la commande {command}: {result.stderr}&quot;)
+    if os.path.isfile(outpoutFile):
+        with open(outpoutFile, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+            if data is not None:
+                bad_keys = {'classifier', 'type', 'classifier', 'optional'}
+
+                drop_keys = lambda path, key, value: key not in bad_keys
+                clean = remap(data, visit=drop_keys)
+                if clean is not None:
+                    dependances = clean
+
+    # analyse effective pom
+    outpoutFile = f'{currentDir}/data/effectivePom.xml'
+    command = f&quot;mvn help:effective-pom -Doutput={outpoutFile}&quot;
+    repo_path = os.path.dirname(pom_path)
+    result = subprocess.run(command, cwd=repo_path, shell=True, capture_output=True, text=True)
+    if debug or result.returncode != 0:
+        print(&quot;effective-pom output:&quot; + result.stdout)
+        print(&quot;effective-pom error:&quot; + result.stderr)
+    if result.returncode != 0:
+        raise ErreurRunMvnException(f&quot;Erreur lors de l'exécution de la commande {command}: {result.stderr}&quot;)
+    if os.path.isfile(outpoutFile):
+        parent_info_effective, props_effective, version_projet_effective = parse_pom(outpoutFile)
+
+        if parent_info_effective is not None or props_effective is not None or version_projet_effective is not None:
+            effectivePom = {}
+            if parent_info_effective is not None:
+                effectivePom['parent_info'] = parent_info_effective
+            if version_projet_effective is not None:
+                effectivePom['version'] = version_projet_effective
+            if props_effective is not None:
+                effectivePom['properties'] = props_effective
+except ErreurRunMvnException as e:
+    details = e.args[0]
+    print(f&quot;Erreur pour analyser le pom {pom_path} : {details}&quot;)
+
+return parent_info, props, version_projet, dependances, effectivePom
+</code></pre>
+<p>def parse_package_json(package_path):
+&ldquo;&ldquo;&ldquo;Parse le fichier package.json et extrait la version d&rsquo;Angular/CLI s&rsquo;il existe.&rdquo;&rdquo;&rdquo;
+mapVersion = {}
+with open(package_path, &lsquo;r&rsquo;, encoding=&lsquo;utf-8&rsquo;) as file:
+data = json.load(file)
+dependencies = data.get(&lsquo;dependencies&rsquo;, {})
+devDependencies = data.get(&lsquo;devDependencies&rsquo;, {})
+if dependencies is not None:
+mapVersion[&lsquo;dependencies&rsquo;] = dependencies
+if devDependencies is not None:
+mapVersion[&lsquo;devDependencies&rsquo;] = devDependencies
+name = data.get(&rsquo;name&rsquo;, {})
+if name is not None:
+mapVersion[&rsquo;name&rsquo;] = name
+version = data.get(&lsquo;version&rsquo;, {})
+if version is not None:
+mapVersion[&lsquo;version&rsquo;] = version
+scripts = data.get(&lsquo;scripts&rsquo;, {})
+if scripts is not None:
+mapVersion[&lsquo;scripts&rsquo;] = scripts</p>
+<pre><code>return mapVersion
+</code></pre>
+<p>def run_git_command(command, repo_path):
+&ldquo;&ldquo;&ldquo;Exécute une commande git et retourne la sortie.&rdquo;&rdquo;&rdquo;
+result = subprocess.run(command, cwd=repo_path, shell=True, capture_output=True, text=True)
+if result.returncode != 0:
+raise ErreurRunGitException(f&quot;Erreur lors de l&rsquo;exécution de la commande {command}: {result.stderr}&quot;)
+return result.stdout</p>
+<p>def get_branch_info(branch):
+&ldquo;&ldquo;&ldquo;Extrait les informations d&rsquo;une branche (nom, date, hash court, message de commit).&rdquo;&rdquo;&rdquo;
+parts = branch.split(maxsplit=5)
+short_commit = parts[0]
+date_str = parts[1] + &quot; &quot; + parts[2] + &quot; &quot; + parts[3] if len(parts) &gt; 3 else &quot;&quot;
+# print(f&quot;{short_commit}: {date_str}!{parts}&quot;)
+date = datetime.strptime(date_str, &ldquo;%Y-%m-%d %H:%M:%S %z&rdquo;) if len(date_str) &gt; 0 else None
+name = parts[4] if len(parts) &gt; 3 else &quot;&quot;
+message = parts[5] if len(parts) &gt; 4 else &quot;&quot;
+return short_commit, date, message, name</p>
+<p>def has_uncommitted_changes(repo_path):
+&ldquo;&ldquo;&ldquo;Vérifie s&rsquo;il y a des fichiers non commités dans le dépôt.&rdquo;&rdquo;&rdquo;
+status_output = run_git_command(&ldquo;git status &ndash;porcelain&rdquo;, repo_path)
+if status_output.strip():  # Si la sortie n&rsquo;est pas vide, il y a des changements non commités
+return True
+return False</p>
+<p>def get_local_branche(repo_path) -&gt; str:
+&ldquo;&ldquo;&ldquo;Vérifie s&rsquo;il y a des fichiers non commités dans le dépôt.&rdquo;&rdquo;&rdquo;
+status_output = run_git_command(&ldquo;git rev-parse &ndash;abbrev-ref HEAD&rdquo;, repo_path)
+res = status_output.strip()
+if res:  # Si la sortie n&rsquo;est pas vide, il y a des changements non commités
+return res
+return None</p>
+<p>def fetch_and_list_branches(repo_path):
+# Étape 1: Faire un git fetch
+try:
+run_git_command(&ldquo;git fetch &ndash;all&rdquo;, repo_path)
+except ErreurRunGitException as e:
+details = e.args[0]
+print(f&quot;Erreur pour executer git {repo_path} : {details}&quot;)
+return None, None, None, None</p>
+<pre><code>localBranche = get_local_branche(repo_path)
+
+# Étape 3: Obtenir les 5 dernières branches distantes
+remote_branches_output = run_git_command(
+    &quot;git for-each-ref --sort=-committerdate --format=\&quot;%(objectname:short) %(committerdate:iso8601) %(refname:short) %(contents:subject)\&quot; refs/remotes --count=5&quot;,
+    repo_path
+)
+remote_branches = []
+# list_remote_branche=[]
+for line in remote_branches_output.strip().split(&quot;\n&quot;):
+    if line:
+        short_commit, date, message, nameBranche2 = get_branch_info(line)
+        liste = line.split()
+        if len(liste) &gt;= 2:
+            branch_name = nameBranche2  # liste[2]
+            remote_branches.append({
+                &quot;name&quot;: branch_name,
+                &quot;commit&quot;: short_commit,
+                &quot;date&quot;: date.isoformat(),
+                &quot;message&quot;: message
+            })
+            # list_remote_branche.append(branch_name)
+
+# Étape 2: Obtenir les 5 dernières branches locales
+local_branches_output = run_git_command(
+    &quot;git for-each-ref --sort=-committerdate --format=\&quot;%(objectname:short) %(committerdate:iso8601) %(refname:short) %(contents:subject)\&quot; refs/heads --count=5&quot;,
+    repo_path
+)
+# print(local_branches_output)
+local_branches = []
+for line in local_branches_output.strip().split(&quot;\n&quot;):
+    if line:
+        # print(f'line: {line}')
+        short_commit, date, message, nameBranche = get_branch_info(line)
+        liste = line.split()
+        if len(liste) &gt;= 2:
+            branch_name = nameBranche  # liste[2]
+            branche_module = {
+                &quot;name&quot;: branch_name,
+                &quot;commit&quot;: short_commit,
+                &quot;date&quot;: date.isoformat(),
+                &quot;message&quot;: message
+            }
+            local_branches.append(branche_module)
+            if localBranche is not None and localBranche == branch_name:
+                branche_module[&quot;current&quot;] = True
+            liste_remote = [item for item in remote_branches if item[&quot;name&quot;] == &quot;origin/&quot; + branch_name]
+            if liste_remote:
+                branche_module[&quot;remote_exists&quot;] = True
+                branche_module[&quot;remote_eq&quot;] = liste_remote[0]['commit'] == short_commit
+            else:
+                branche_module[&quot;remote_exists&quot;] = False
+
+fichierNonCommite = has_uncommitted_changes(repo_path)
+
+# Étape 4: Retourner un objet structuré avec les branches locales et distantes
+return local_branches, remote_branches, fichierNonCommite, localBranche
+</code></pre>
+<p>def find_repos_and_parse_files(parametre: Parametres):
+&ldquo;&ldquo;&ldquo;Cherche dans les sous-répertoires pour identifier les repos git ou ceux contenant pom.xml ou package.json.&rdquo;&rdquo;&rdquo;</p>
+<pre><code># start_dir_list, debug, ignoreProjet
+listeGlobal = []
+# nomFichierGlobal=f&quot;{start_dir}/.git&quot;
+
+today = datetime.today()
+filename = today.strftime(&quot;projet_%y%m%d_%H%M%S.json&quot;)
+
+for start_dir in parametre.repertoires:
+    for root, dirs, files in os.walk(start_dir):
+        if is_git_repo(root) or &quot;pom.xml&quot; in files or &quot;package.json&quot; in files:
+            # print(f&quot;\nDépôt Git trouvé dans : {root}&quot;)
+
+            pathFile = os.path.basename(root)
+
+            dirs[:] = []
+
+            if parametre.repertoires_ignore is not None and pathFile in parametre.repertoires_ignore:
+                print(f&quot;projet ignore {pathFile} : {root}&quot;)
+                continue
+
+            print(f&quot;projet {pathFile} : {root}&quot;)
+            projet = {
+                'nom': pathFile,
+                'rep': root,
+                'modules': []
+            }
+            listeGlobal.append(projet)
+            root0 = root
+
+            for root2, dirs2, files2 in os.walk(root0):
+
+                depotGit = is_git_repo(root2)
+
+                dirs2[:] = [d for d in dirs2 if d not in {'node', 'node_modules', 'target', '.venv', '.git'}]
+
+                if &quot;pom.xml&quot; in files2 or &quot;package.json&quot; in files2:
+                    # print(f&quot;\nProjet : {root}&quot;)
+                    liste = []
+                    name = '.'
+                    if root2 != root0:
+                        name = os.path.basename(root2)
+                    module = {
+                        'name': name,
+                        'path': root2
+                    }
+                    projet['modules'].append(module)
+
+                    if &quot;pom.xml&quot; in files2:
+                        pom_path = os.path.join(root2, &quot;pom.xml&quot;)
+                        parent_info, properties, version_projet, dependances, effectivePom = parse_pom_xml(pom_path,
+                                                                                                           parametre.debug)
+                        pom = {
+                        }
+                        if parent_info is not None:
+                            pom['parent_info'] = parent_info
+                        if version_projet is not None:
+                            pom['version'] = version_projet
+                        if properties is not None:
+                            pom['properties'] = properties
+                        if dependances is not None:
+                            pom['dependances'] = dependances
+                        if effectivePom is not None:
+                            pom['effectivePom'] = effectivePom
+                        module['pom'] = pom
+                    if &quot;package.json&quot; in files2:
+                        package_path = os.path.join(root2, &quot;package.json&quot;)
+                        map = parse_package_json(package_path)
+                        if map is not None:
+                            module['packageJson'] = map
+
+                    if depotGit:
+                        local_branches, remote_branches, fichierNonCommite, localBranche = fetch_and_list_branches(
+                            root2)
+                        gitModule = {
+                            'localBranches': local_branches,
+                            'remoteBranches': remote_branches,
+                            'fichierNonCommite': fichierNonCommite,
+                            'localBranche': localBranche
+                        }
+                        module['git'] = gitModule
+
+with open(f&quot;data/{filename}&quot;, &quot;w&quot;) as outfile:
+    json.dump(listeGlobal, outfile)
+</code></pre>
+<p>print(&ldquo;date de debut : &quot; + datetime.now().strftime(&quot;%Y-%m-%d %H:%M:%S&rdquo;))
+start = datetime.now()</p>
+<p>param = sys.argv</p>
+<p>parametres = Parametres()</p>
+<p>debut_parametre = &lsquo;&ndash;parametre=&rsquo;
+debut_ignore = &lsquo;&ndash;ignore=&rsquo;
+debut_debug = &lsquo;&ndash;debug&rsquo;</p>
+<p>for p in param[1:]:
+if p.startswith(debut_parametre):
+s = p[len(debut_parametre):]
+parametres.repertoires = s.split(&rsquo;,&rsquo;)
+elif p.startswith(debut_ignore):
+s = p[len(debut_ignore):]
+parametres.repertoires_ignore = s.split(&rsquo;,&rsquo;)
+elif p == debut_debug:
+parametres.debug = True
+else:
+raise Exception(&ldquo;Parametre invalide : &quot; + p)</p>
+<p>if not parametres.repertoires:
+raise Exception(&ldquo;Liste des répertoires absente&rdquo;)</p>
+<p>find_repos_and_parse_files(parametres)</p>
+<p>print(&ldquo;date de fin : &quot; + datetime.now().strftime(&quot;%Y-%m-%d %H:%M:%S&rdquo;))
+delta = datetime.now() - start
+ms = delta.total_seconds() * 1000
+milli = int(ms % 1000)
+seconds = (ms / 1000) % 60
+seconds = int(seconds)
+minutes = (ms / (1000 * 60)) % 60
+minutes = int(minutes)
+hours = int(ms / (1000 * 60 * 60)) % 24
+print(f&quot;duree d&rsquo;execution : {hours:02d}:{minutes:02d}:{seconds:02d}.{milli:03d} ({ms} ms)&rdquo;)</p>
+
+</section>
+
+
+    <footer class="article-meta article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/python/">Python</a>
+        
+    </section>
+
+
+    
+    <section class="article-copyright inline-meta">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under CC BY-NC-SA 4.0</span>
+    </section>
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+     
+    
+        
+        <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "hugo-theme-stack" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2020 - 
+        
+        2026 Hugo Theme Stack Starter
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="4.0.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+
+
+
+<script type="module">
+    import gallery from '\/ts\/gallery.js';
+
+    const articleContent = document.querySelector('.article-content');
+    const shouldLoad = articleContent && (articleContent.querySelectorAll('figure').length > 0 || articleContent.querySelectorAll('img.gallery-image').length > 0);
+    
+    if (shouldLoad) {
+        gallery(articleContent);
+
+        const PhotoSwipeLightbox = (await import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe-lightbox.esm.min.js")).default;
+        const styleHref = "https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.css";
+
+        const styleTag = document.createElement('link');
+        styleTag.rel = 'stylesheet';
+        styleTag.href = styleHref;
+        document.head.appendChild(styleTag);
+
+        const lightbox = new PhotoSwipeLightbox({
+            gallerySelector: '.article-content',
+            childSelector: 'figure a.image-link',
+            pswpModule: () => import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.esm.min.js")
+        });
+        lightbox.init();
+    }
+</script>
+    
+
+            </main>
+        </div>
+        
+<script type="text/javascript" src="/ts/main.b861fa62ecda99db30952a78a432b8bb75844e3b89615d52d185f3131ad6df93.js" defer></script>
+
+
+    </body>
+</html>

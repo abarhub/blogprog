@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Robocopy on Hugo Theme Stack Starter</title>
+        <link>http://localhost:1313/tags/robocopy/</link>
+        <description>Recent content in Robocopy on Hugo Theme Stack Starter</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/robocopy/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>suppression d&#39;une grand arborescence sous windows rapidement (robocopy)</title>
+            <link>http://localhost:1313/p/suppression-dune-grand-arborescence-sous-windows-rapidement-robocopy/</link>
+            <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/p/suppression-dune-grand-arborescence-sous-windows-rapidement-robocopy/</guid>
+            <description>&lt;h1 id=&#34;suppression-des-répertoires&#34;&gt;Suppression des répertoires&#xA;&lt;/h1&gt;&lt;p&gt;La suppression d&amp;rsquo;une grande arborescence de répetroire est très lente avec l&amp;rsquo;explorateur.&#xA;Pour supprimer des répertoires, de façon plus rapide, il y a la commande robocopy.&#xA;Pour supprimer le répertoire c:\test, il faut créer un répertoire vide c:\empty, puis lancer :&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;&#xA;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1&#xA;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&#xA;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-batch&#34; data-lang=&#34;batch&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;robocopy c:\empty c:\test /purge&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&lt;p&gt;ou&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;&#xA;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1&#xA;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&#xA;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-batch&#34; data-lang=&#34;batch&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;robocopy c:\empty c:\test /MIR&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&lt;p&gt;La différence est que si le répertoire c:\test existe, les ACL ne seront pas modifiés avec la commande /MIR&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>
